@@ -1,0 +1,444 @@
+{
+  "recipe": {
+    "id": "f6811b13-a2bd-46a1-988c-f0e78578ab64",
+    "created_at": "2026-06-07T11:43:52.420659+00:00",
+    "updated_at": "2026-06-07T11:43:52.420659+00:00",
+    "title": "Šišky",
+    "description": "Šišky pripravené týmto spôsobom sú ľahké, jemné a zostávajú mäkké aj na druhý deň.",
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/f6811b13-a2bd-46a1-988c-f0e78578ab64/508479de-4576-4a84-9b84-ed60d7618837.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": "https://www.youtube.com/watch?v=wOsV-S9G75Q",
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "47993573-f351-47e0-9f15-ef1f1534df91",
+      "text": "250 g hladkej múky ",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "hladkej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "64fb847f-20fd-40aa-bc59-77fec619a88e",
+      "text": "35 g cukru  ",
+      "quantity": 35,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "57aa0410-f602-4022-9410-48b1cb812298",
+      "text": "4 g instantného droždia ",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "instantného droždia",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "0c96b8ea-93d1-4750-b09e-7800d3dc9607",
+      "text": "3 g soli",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "soli",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "88d4e7e7-8a38-4dd9-8cb5-8817be5d4edd",
+      "text": "2 vajcia + mlieko do hmotnosti 160g  ",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vajcia + mlieko do hmotnosti 160g",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7652cf56-0e06-4056-8c05-21149ed9fbba",
+      "text": "30 g masla ",
+      "quantity": 30,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "7ad5ca83-1584-4bc2-ae0b-a885d4b21bb0",
+      "text": "kôra z ¼  citróna ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "kôra z ¼  citróna",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b882e202-302d-4c66-96ff-26f9d9d48395",
+      "text": "1 liter oleja ( na vysmážanie )",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "oleja ( na vysmážanie )",
+      "is_group_header": false,
+      "unit_of_measure": "liter",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "cdc9c078-865c-43f4-861c-875a4b3f8c2e",
+      "text": "džem ( na plnenie )",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "džem ( na plnenie )",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "54012cb4-3892-4857-8d1e-94ecb7b43aa1",
+      "text": "cukor ( na posypanie )",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "cukor ( na posypanie )",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "09792e7a-9ba0-4657-b7fb-dcf4c3a32516",
+      "text": "Bielková pena:",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "Bielková pena:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "21309e8a-642f-426f-95ed-a34440fef14c",
+      "text": "2 bielky",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "bielky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4751e30b-f677-4466-bf14-3bc1c3f829e8",
+      "text": "150 g kryštálového cukru",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "450d0cdf-5ae6-405c-b846-07714a0a80ec",
+      "text": "  30 ml citrónovej šťavy",
+      "quantity": 30,
+      "quantity2": null,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "citrónovej šťavy",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "80bf12ce-ee09-4301-b5a9-c4a05cbf4a5a",
+      "text": "3 lyžice hustého, kyselkavého  džemu  ",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 14,
+      "category_id": null,
+      "description": "lyžice hustého, kyselkavého  džemu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "b3f7292a-8302-4ed6-8ff5-e2c3e6e8b79b",
+      "url": null,
+      "text": "Šišky:",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": true
+    },
+    {
+      "id": "31dd5b84-0c79-43ba-a2d0-00cf980ff10b",
+      "url": null,
+      "text": "Do misky rozbite dve vajcia a dolejte k nim mlieko, až kým spoločná hmotnosť nedosiahne 160 g. Vajcia aj mlieko použite vychladené priamo z chladničky (približne 4 °C).",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "39d86b90-a143-44f8-80ad-c590a9488996",
+      "url": null,
+      "text": "V mise na miesenie zmiešajte múku, cukor, droždie a soľ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "c05cb0e6-7011-4cc3-8c22-47fc1ec1e8cd",
+      "url": null,
+      "text": "K sypkým prísadám prilejte pripravenú zmes vajec a mlieka",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "272613f0-3862-4046-afce-0226c19e3e30",
+      "url": null,
+      "text": "Cesto miesením spracúvajte, kým múka nevstrebe tekutinu. V kuchynskom robote (miešanie hákom) to trvá približne 5 minút, ručne asi 10 minút",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "dda7e248-9d70-43fe-a649-d45967868b42",
+      "url": null,
+      "text": "Až na záver pridajte 30 g zmäknutého masla a pokračujte v miesení (ďalších 5 minút v robote alebo 10 minút ručne), kým sa maslo úplne nespojí s cestom. Maslo sa pridáva na koniec, aby nebránilo múke v nasávaní tekutín.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "2104613b-fe62-4dce-a6e8-47c78d02fd4e",
+      "url": null,
+      "text": "Vymiesené cesto (ktoré má byť pružné a hladké) preložte na pomúčenú podložku a ešte raz ručne premiesite",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "26a678a2-1983-4a5c-9d54-0aad59e11cae",
+      "url": null,
+      "text": "Cesto nevyvaľkujte, ale rozdeľte ho na menšie kúsky s hmotnosťou približne 30 g",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "1439d1f5-5eee-4856-ba55-81ecbf5dfeae",
+      "url": null,
+      "text": "Mastnými rukami vyformujte z kúskov úhľadné guľôčky",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "8ab6cf54-38f4-42e2-bba3-b0b9d97bf87d",
+      "url": null,
+      "text": "Guľôčky vložte do pomúčenej dózy s dostatočnými rozstupmi a nechajte ich kysnúť 30 až 40 minút",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "df1aa45c-8519-4723-a6d8-d61380c73ec8",
+      "url": null,
+      "text": "Po prvom kysnutí urobte mastným prstom do stredu každej guľôčky jamku až po spodok guľôčky.",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "621c19ea-33ea-4a9f-9e49-cd2f25c44438",
+      "url": null,
+      "text": "Takto vytvarované šišky preložte na štvorčeky papiera na pečenie, prikryte ich v dóze a nechajte znova kysnúť ďalších 30 až 40 minút",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    },
+    {
+      "id": "a796ac46-bd16-4768-830f-74571cc55c35",
+      "url": null,
+      "text": "V hlbšej panvici zohrejte väčšie množstvo oleja na 160 °C",
+      "image_url": null,
+      "sort_order": 12,
+      "is_group_header": false
+    },
+    {
+      "id": "68a38930-0bc9-46ff-b8db-ca7a88b2e9bc",
+      "url": null,
+      "text": "Šišky vkladajte do oleja jamkou nadol, aby sa jamka neuzavrela a stihla sa prepiecť.",
+      "image_url": null,
+      "sort_order": 13,
+      "is_group_header": false
+    },
+    {
+      "id": "05209d81-723b-4bfd-9e7c-53eead18d493",
+      "url": null,
+      "text": "Smažte ich pomaly, aby sa prepiekli aj zvnútra a získali peknú zlatistú farbu. Vďaka tomuto typu cesta a správnej teplote šišky nenasávajú olej dovnútra.",
+      "image_url": null,
+      "sort_order": 14,
+      "is_group_header": false
+    },
+    {
+      "id": "f200338e-9f9d-44ba-8935-019a11044b02",
+      "url": null,
+      "text": "Po usmažení položte šišky na papierový obrúsok, ktorý vysaje prebytočný olej z povrchu",
+      "image_url": null,
+      "sort_order": 15,
+      "is_group_header": false
+    },
+    {
+      "id": "e93b8aa9-893f-4770-a6da-9a21273c4c62",
+      "url": null,
+      "text": "Hotové šišky naplňte do jamky džemom (tradične šípkovým), prípadne pridajte šľahačku alebo ovocnú penu",
+      "image_url": null,
+      "sort_order": 16,
+      "is_group_header": false
+    },
+    {
+      "id": "26927154-ed02-467a-a5e5-a63c5978f216",
+      "url": null,
+      "text": "Bielková pena: ",
+      "image_url": null,
+      "sort_order": 17,
+      "is_group_header": true
+    },
+    {
+      "id": "0310a36f-c23b-441a-bf36-1ccf6c9f6aa4",
+      "url": null,
+      "text": "Bielky dajte do misky nad paru a pridajte k nim cukor.",
+      "image_url": null,
+      "sort_order": 18,
+      "is_group_header": false
+    },
+    {
+      "id": "d19b0b34-2242-4565-b97b-6c0b396ddc43",
+      "url": null,
+      "text": "Premiešajte ich, aby sa cukor ponoril, a následne zmes občasne miešajte, kým nedosiahne teplotu 72 až 76 °C. Táto teplota je kľúčová pre pasterizáciu bielkov.",
+      "image_url": null,
+      "sort_order": 19,
+      "is_group_header": false
+    },
+    {
+      "id": "8e72b142-36c8-4270-a639-d80e88de1b6c",
+      "url": null,
+      "text": "Po dosiahnutí potrebnej teploty misku odstavte z pary a bielky šľahajte ručným mixérom do zhustnutia, čo trvá približne 10 minút.",
+      "image_url": null,
+      "sort_order": 20,
+      "is_group_header": false
+    },
+    {
+      "id": "47634d18-976d-41ae-ab99-9ab62afe1d0a",
+      "url": null,
+      "text": "Po piatich minútach šľahania pridajte do snehu citrónovú šťavu a pokračujte v šľahaní.",
+      "image_url": null,
+      "sort_order": 21,
+      "is_group_header": false
+    },
+    {
+      "id": "ddc9e65c-b63f-4f94-a1b2-99db67c39b17",
+      "url": null,
+      "text": "Následne pridajte džem podľa vlastnej chuti. Hustota výslednej peny priamo závisí od hustoty použitého džemu – čím je džem hustejší, tým bude hustejšia aj pena",
+      "image_url": null,
+      "sort_order": 22,
+      "is_group_header": false
+    },
+    {
+      "id": "72b8ce9a-b594-4b5f-b692-94b02fe61659",
+      "url": null,
+      "text": "Celú zmes šľahajte ešte asi tri minúty. Hotová pena by mala byť lesklá",
+      "image_url": null,
+      "sort_order": 23,
+      "is_group_header": false
+    },
+    {
+      "id": "a97fc339-10e8-450a-a576-3925a8ffc707",
+      "url": null,
+      "text": "Pre slávnostnejší vzhľad ju môžete na šišky nanášať pomocou cukrárskeho vrecka s ozdobnou špičkou. Vďaka citrónu a kyselkavému džemu nie je pena príliš sladká, čo výborne dopĺňa chuť fašiangových šišiek.",
+      "image_url": null,
+      "sort_order": 24,
+      "is_group_header": false
+    },
+    {
+      "id": "943a772b-4d02-4ffc-bccb-11a7157ef28e",
+      "url": null,
+      "text": "",
+      "image_url": null,
+      "sort_order": 25,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "f6811b13-a2bd-46a1-988c-f0e78578ab64.png"
+}

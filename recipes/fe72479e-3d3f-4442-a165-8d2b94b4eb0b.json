@@ -1,0 +1,128 @@
+{
+  "recipe": {
+    "id": "fe72479e-3d3f-4442-a165-8d2b94b4eb0b",
+    "created_at": "2026-05-30T16:16:03.925339+00:00",
+    "updated_at": "2026-05-30T16:16:03.925339+00:00",
+    "title": "Jablkové ružičky v lístkovom ceste",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/fe72479e-3d3f-4442-a165-8d2b94b4eb0b/475fec70-ee88-45db-8216-1371f2636849.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": 10,
+    "source_name": null,
+    "source_url": "https://www.youtube.com/watch?v=BajT8WI5Klg",
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "97d8b53c-0270-4970-ad7d-b96cfcc6d612",
+      "text": "lístkové ceste",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "lístkové ceste",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "5b8960eb-9c7f-4446-9a97-f5336d3c21fb",
+      "text": "2 väčšie jablká",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "väčšie jablká",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "bbd457a4-b6d3-4990-8b70-ecd2fa4297ff",
+      "text": "1 škoricový cukor",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "škoricový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "25d64e5f-d606-4450-a421-6ae756149ca7",
+      "text": "marhuľový lekvár",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "marhuľový lekvár",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "f8b65499-f557-498f-ab15-8e581ebc5272",
+      "url": null,
+      "text": "Lístkové cesto vyvaľkáme natenko (1-2 mm). Nakrájeme pásiky 5x35 cm, potrieme ich natenko lekvárom a posypeme škoricovým cukrom. Polovice jabĺk zbavíme jaderníka a nožom na šúpanie zemiakov nakrájame na čo najtenšie plátky. Tie poukladáme na pásy cesta a prekryjeme spodnou polovicou cesta. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "81d19d9f-8cdc-47a2-acf8-f19cab9eefdf",
+      "url": null,
+      "text": "Plát zrolujeme a dáme na plech -  do košíčka (alebo formy na muffiny).",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "0c9d6ad8-93ab-4f6f-8eba-d1eee5caa042",
+      "url": null,
+      "text": "Pečieme 20-25 min pri 200 °C. Posypeme práškovým cukrom. Podávame teplé alebo aj studené.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "fe72479e-3d3f-4442-a165-8d2b94b4eb0b.png"
+}

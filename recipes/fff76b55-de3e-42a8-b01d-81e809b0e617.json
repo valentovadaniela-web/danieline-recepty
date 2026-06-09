@@ -1,0 +1,232 @@
+{
+  "recipe": {
+    "id": "fff76b55-de3e-42a8-b01d-81e809b0e617",
+    "created_at": "2026-05-22T19:04:08.967+00:00",
+    "updated_at": "2026-05-22T19:04:08.967+00:00",
+    "title": "Zemiakový prívarok",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Ffff76b55-de3e-42a8-b01d-81e809b0e617%2F7a8c0cb8-6d18-447e-b9d2-6ba0f2c97565.png?alt=media&token=48a3f337-1db5-411c-b75c-1a73f0ff15b2",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "aa840860-0555-4ddf-b809-c043f1fd3a53",
+      "text": "zemiaky",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "zemiaky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "413b0744-086c-4510-9c17-bcb71e66530e",
+      "text": "bobkový list",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "bobkový list",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "64ea6687-f757-49f8-a8f4-7c326f724e8a",
+      "text": "celé korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "celé korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "81d91f33-189e-4680-8bcc-52e8df9dc637",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2e874ad4-da23-42e2-96c8-66ce9a6b669b",
+      "text": "1 PL hladká múka",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "PL hladká múka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "93a62eec-5fdd-41ac-9eb4-88b2449af27b",
+      "text": "smotana na varenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "smotana na varenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "5f38bd62-0637-4aa8-8332-3a3566880c38",
+      "text": "mlieko",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "mlieko",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a51b2733-8cfb-48c8-8930-825f8d246804",
+      "text": "maslo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2635734f-0de1-4ad8-8263-b92da6ebb675",
+      "text": "cukor",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "29cf5cea-548b-49d4-8bfe-a94e1d3107d1",
+      "text": "horčica",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "horčica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "13638d69-7997-4409-b432-d6a58a8a028a",
+      "url": null,
+      "text": "Zemiaky očistíme, nakrájame na ľubovoľnú veľkosť a dáme variť s bobkovým listom, osolíme a okoreníme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "91fb7247-cab8-465b-9ac5-2a23426f1991",
+      "url": null,
+      "text": "Keď sú zemiaky mäkšie pridáme smotanu a mlieko. Necháme povariť. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "0077ae08-35b0-4a7b-8a30-2a3a730702ee",
+      "url": null,
+      "text": "Na zahustenie prilejeme mlieko zmiešané s hladkou múkou. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "9777c691-1fba-4ca9-8a4c-989f2026a65c",
+      "url": null,
+      "text": "Pridáme trochu masla a cukor. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "75dcc595-aa66-4f8c-9af6-6fe5e5f9d1f3",
+      "url": null,
+      "text": "Potom varím ešte asi 15 minút. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "3228f440-a7cd-4008-9dd3-ed561c9c1ecf",
+      "url": null,
+      "text": "Takto hotový prívarok dochutíme horčicou.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "ff43ffe6-c78a-4772-9177-41de08335704",
+      "url": null,
+      "text": "Podávame s fašírkou, sekanou alebo opečeným špekáčikom.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "fff76b55-de3e-42a8-b01d-81e809b0e617.png"
+}

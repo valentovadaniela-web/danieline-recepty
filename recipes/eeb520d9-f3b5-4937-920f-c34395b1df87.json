@@ -1,0 +1,212 @@
+{
+  "recipe": {
+    "id": "eeb520d9-f3b5-4937-920f-c34395b1df87",
+    "created_at": "2026-05-20T17:27:30.217+00:00",
+    "updated_at": "2026-05-20T17:27:30.217+00:00",
+    "title": "Sedliacke fondue",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Feeb520d9-f3b5-4937-920f-c34395b1df87%2F22adbe22-f82c-42cd-bca3-4f03ca875bba.png?alt=media&token=86ae9637-3fac-4dba-8317-a15c1aea6071",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "cf9375dd-39c4-40ab-b855-60be87c973e0",
+      "text": "1 okrúhly bochník chleba (môže byť aj bosniacky alebo väčšie žemle)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "okrúhly bochník chleba (môže byť aj bosniacky alebo väčšie žemle)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "30e18750-6fc8-45c2-bfc8-681b5cb36060",
+      "text": "450 g prerastená slanina (oravská)",
+      "quantity": 450,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "prerastená slanina (oravská)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "d7e7003f-dd04-421c-8d2f-59c66243d276",
+      "text": "3 tavené syry (Banbino, obdĺžniky Karičky)",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "tavené syry (Banbino, obdĺžniky Karičky)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9a6aa1d7-dc22-46cd-8b62-1bc63e97aa63",
+      "text": "1 červená a 1 zelená paprika",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "červená a 1 zelená paprika",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "79ea2d56-7e28-413c-9668-05125457a634",
+      "text": "1 kyslá smotana",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "kyslá smotana",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "38a1307f-608c-4cc7-a67c-c103d917f521",
+      "text": "olej",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "dc3c8161-d33c-4333-9884-29d2f4527b17",
+      "text": "mleté čierne korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "mleté čierne korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "92b88a09-087d-4cb4-b65f-1eef270ac94d",
+      "text": "vegeta",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "vegeta",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2d0121c0-d564-4757-94c6-cbb71ad3a8c6",
+      "text": "čerstvá pažítka (petržlenová vňať)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "čerstvá pažítka (petržlenová vňať)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "815633da-5a9d-4bff-b6fe-52da5f999070",
+      "url": null,
+      "text": "Z pecňa chleba odkrojíme vršok a chlieb vydlabeme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "e9fd5178-057f-4d8a-a136-b2963daccd86",
+      "url": null,
+      "text": "Slaninu pokrájame na pásiky (kocky) a opražíme na oleji. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "2208cd02-d855-40ac-af2d-a90261664333",
+      "url": null,
+      "text": "Smotanu premiešame so syrom, pridáme papriku (na kocky), pažítku, vychladnutú slaninu a vegetu. Všetko dôkladne premiešame. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "8032cce3-5d51-4a24-baf3-3bae39275c74",
+      "url": null,
+      "text": "Tukom zo slaniny potrieme chlieb zvnútra aj zvonku, naplníme zmesou, prikryjeme odkrojenou strieškou a položíme na vymastený plech.  Vedľa rozložíme vydlabané kúsky chleba, ale nie hneď, lebo to bude tvrdé!!! (môžeme pokvapkať olejom zo slaniny). ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "14731564-6126-4334-b913-9c988589d493",
+      "url": null,
+      "text": "Pečieme asi 10-15 minút vo vyhriatej rúre (zmes v chlebe musí byť teplá). ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "4cb82add-32d1-4aa2-87b2-746fbcb4fb13",
+      "url": null,
+      "text": "Podáva sa bez prílohy a bez príboru, láme sa rukami a zapíja svetlým bielym vínom.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá",
+    "Večere"
+  ],
+  "imageFilename": "eeb520d9-f3b5-4937-920f-c34395b1df87.png"
+}

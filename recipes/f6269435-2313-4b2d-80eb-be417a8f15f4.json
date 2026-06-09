@@ -1,0 +1,139 @@
+{
+  "recipe": {
+    "id": "f6269435-2313-4b2d-80eb-be417a8f15f4",
+    "created_at": "2026-05-28T18:11:31.582095+00:00",
+    "updated_at": "2026-05-28T18:12:12.545797+00:00",
+    "title": "Mätový sirup",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/f6269435-2313-4b2d-80eb-be417a8f15f4/f14b9c4d-5c6b-466c-be18-318b7dfc8ad2.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "6e327a1a-d55e-4898-a2dd-65b646cd2ca3",
+      "text": "50 vetvičiek mäty",
+      "quantity": 50,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "vetvičiek mäty",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "143be647-c25a-4b62-a696-f774ca4365f0",
+      "text": "1 kg kryštálový cukor",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "4897b232-a33b-483c-bf28-cbf4f9cca63d",
+      "text": "40 g kyselina citrónová (2 citróny)",
+      "quantity": 40,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kyselina citrónová (2 citróny)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "d0980e5e-6f29-48b6-ba63-a83961189097",
+      "text": "2,5 l voda",
+      "quantity": 2.5,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "voda",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "94edc221-7980-4db7-8f5a-6cd9be56e4be",
+      "text": "1 balíček prípravku proti plesni (Dr. Oetker)",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "balíček prípravku proti plesni (Dr. Oetker)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "aabc0d16-bb2f-4405-8793-f76603765847",
+      "url": null,
+      "text": "Prevaríme vodu a necháme ju vychladnúť. Nalejeme ju do fľaše (napr. 3- 5 l uhorkový pohár), do toho dáme mätové lístky a kyselinu citrónovú alebo šťavu z 2 citrónov. Necháme 24 hodín lúhovať.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "25753b34-53e9-4e8f-a247-664546fbd159",
+      "url": null,
+      "text": "Po vylúhovaní precedíme a pridáme cukor a prípravok proti plesni.  Rozmiešame do rozpustenia cukru a nalejeme do fľaštičiek. Môžeme sterilizovať. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "c9ec6773-9088-4eca-bafa-4b0b58141493",
+      "url": null,
+      "text": "Sirup uskladňujeme v chladničke.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "f6269435-2313-4b2d-80eb-be417a8f15f4.png"
+}

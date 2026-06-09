@@ -1,0 +1,219 @@
+{
+  "recipe": {
+    "id": "f1c50204-d704-4b7c-be2f-87e36f9ed9e2",
+    "created_at": "2026-05-28T19:31:30.72461+00:00",
+    "updated_at": "2026-05-28T19:31:30.72461+00:00",
+    "title": "Chlebová torta ",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/f1c50204-d704-4b7c-be2f-87e36f9ed9e2/ae826201-c7a0-432c-a4f2-b314f1cccce5.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "8c3243f0-1cad-40d4-ae31-69ccfcc5146f",
+      "text": "1 veľký okrúhly chlieb",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "veľký okrúhly chlieb",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cbc77682-01c4-458b-8cf4-d9a2a8a2c637",
+      "text": "20 dkg masla",
+      "quantity": 20,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "dkg masla",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "dae49010-cf23-42ac-9bfa-589a9e487989",
+      "text": "15 dkg šunky alebo salámy",
+      "quantity": 15,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "dkg šunky alebo salámy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "14bf6f74-13ed-4742-bf45-f87b47696ce3",
+      "text": "15 dkg syra",
+      "quantity": 15,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "dkg syra",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "17257a78-c002-4649-b23f-07c0871df121",
+      "text": "1 konzerva sardiniek v oleji",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "konzerva sardiniek v oleji",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f5d24dca-dc7b-41aa-9b9a-f0a043656207",
+      "text": "2 veľké konzervy pečeňovej paštéty",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "veľké konzervy pečeňovej paštéty",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "ba876a70-f5bb-486e-bba6-3b293b69a03d",
+      "text": "zelenina, kečup, vajíčko, tavený syr a pod. na ozdobenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "zelenina, kečup, vajíčko, tavený syr a pod. na ozdobenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "935c7f17-a88c-4b95-a3ec-dedb33858cea",
+      "url": null,
+      "text": "Z okrúhleho chleba podľa formy (napr. pokrievky) vyrežeme tvar torty. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f0095211-0312-4d50-8669-246319ec4fc5",
+      "url": null,
+      "text": "Odrežeme aj vrchnú a spodnú časť chleba.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "74d2fe30-67c0-4547-b82c-fb6acb7252b3",
+      "url": null,
+      "text": " Zostávajúcu mäkkú časť rozrežeme na pláty (podľa hrúbky; 4 až 6).",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "f0e92ef8-bed8-484e-873f-a93b3da05161",
+      "url": null,
+      "text": "Na spodný plát natrieme maslo a poukladáme naň šunku (alebo šunkový salám). ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "f595eda0-3197-453a-8c28-419192b0f61b",
+      "url": null,
+      "text": "Pláty potierame maslom po oboch stranách. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "9bc7b0ac-d40a-4c05-b43b-f45911a5aced",
+      "url": null,
+      "text": "Na druhý plát dáme tenké rezy syra. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "71f5108a-62bd-4f04-95f5-cfebaa76c355",
+      "url": null,
+      "text": "Na tretí plát natrieme pečeňovú paštétu,",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "eb4c7a01-4450-4155-bb35-68bfa1a2348e",
+      "url": null,
+      "text": "Na štvrtý plát rozotrieme vykostené sardinky a pod. ",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "746c7286-2b24-4b01-8053-4735670ba84c",
+      "url": null,
+      "text": "Prikryjeme posledným plátom a mierne tortu stlačíme. ",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "810dc0f3-da40-4055-8cce-d55b880e441d",
+      "url": null,
+      "text": "Celú tortu potrieme pečeňovou paštétou, boky zasypeme strúhaným syrom a vrch ozdobíme podľa vkusu.",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Torty"
+  ],
+  "imageFilename": "f1c50204-d704-4b7c-be2f-87e36f9ed9e2.png"
+}
