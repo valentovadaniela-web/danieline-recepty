@@ -1,0 +1,148 @@
+{
+  "recipe": {
+    "id": "98d7032f-08be-4d0e-8e13-4688e28d740e",
+    "created_at": "2026-05-21T18:43:30.607+00:00",
+    "updated_at": "2026-05-21T18:43:30.607+00:00",
+    "title": "Šamrole",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F98d7032f-08be-4d0e-8e13-4688e28d740e%2F730c39f8-586b-454c-94a3-6800f38b7e0a.png?alt=media&token=a53a9999-3f4d-452d-b716-6ac349b10ea2",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "c17e2a18-f467-4358-a109-fd4184961d43",
+      "text": "2 ks\tcesto lístkové",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "ks\tcesto lístkové",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6fb06f2e-8f92-4c8c-82e0-bac9bb0d905c",
+      "text": "5-6 ks\tvaječný bielok",
+      "quantity": 5,
+      "quantity2": 6,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "ks\tvaječný bielok",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "84c2de3c-db37-4587-a582-8a24abdb5b0b",
+      "text": "500 g\tcukor kryštál",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "cukor kryštál",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "4f791caf-073e-422f-8ecd-4a16af8f24ad",
+      "text": "100 ml\tvoda",
+      "quantity": 100,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "voda",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "be8bce3d-7f41-4f88-917f-46db3b962fb0",
+      "text": "1 ks\tvajce",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "ks\tvajce",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "b35d1cae-2c4f-4e92-a72f-ef4f59a2e87b",
+      "url": null,
+      "text": "Lístkové cesto rozvaľkáme na jemne pomúčenej doske na obdĺžnik asi 50 x 30 cm. Takto rozvaľkáme aj druhé cesto. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "3a781c77-4df5-4cc3-99fd-f0bf36ddb56c",
+      "url": null,
+      "text": "Každé cesto potrieme rozšľahaným vajcom. Zvisle nakrájame radielkom z každého cesta 15 pásikov (široké cca 3,5 cm). Cesto navinieme suchou stranou na trubičky tak, aby sa kúsok prekrývali. Trubičky uložíme na plechy 2 x po 15 kusov. Uložíme ich ďalej od seba, aby sa pri pečení nespojili. Trubičky pečieme vo vyhriatej rúre na 200°C asi 15 minút. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "07699a88-ca93-4bb9-b7fd-e6bba583652f",
+      "url": null,
+      "text": "Než sa trubičky upečú, dáme do hrnca 300 g cukru a zalejeme ho asi 100 ml vody. V druhej miske vyšľaháme bielky s 200 g cukru do tuha. Privedieme k varu cukrový rozvar a povaríme ho asi 5 minút na miernom ohni \"na niť\". Vznikne vlastne hustejší sirup, ktorý vyskúšame tak, že z neho kvapneme na tanierik. Po chvíli, keď dáme kvapku medzi prsty, mala by sa vytvoriť ťahavá niť. Takýto rozvar pomaly vlievame k vyšľahanému snehu a šľaháme spolu do hustej peny. Pena po vytiahnutí metličiek musí urobiť špičku, nesmie byť riedka.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "351890e6-11fe-498c-8ee2-0f3fecb7461e",
+      "url": null,
+      "text": "Keď sa trubičky na šamrole dopiekli, stiahneme ich z trubičiek a necháme vychladnúť. Ešte vlažnú snehovú penu nastriekame cukrárskym vrecúškom do trubičiek z oboch strán až do stredu, aby boli plné. Hotové šamrole môžeme jemne poprášiť práškovým cukrom.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky ",
+    "Koláče bez krému"
+  ],
+  "imageFilename": "98d7032f-08be-4d0e-8e13-4688e28d740e.png"
+}

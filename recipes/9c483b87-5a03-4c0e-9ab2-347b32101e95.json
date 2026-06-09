@@ -1,0 +1,139 @@
+{
+  "recipe": {
+    "id": "9c483b87-5a03-4c0e-9ab2-347b32101e95",
+    "created_at": "2026-05-20T19:57:58.729+00:00",
+    "updated_at": "2026-05-20T19:57:58.729+00:00",
+    "title": "Mojito Virgin",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F9c483b87-5a03-4c0e-9ab2-347b32101e95%2F3a32da4c-188f-4f7a-af89-27cdf8a0c1a7.png?alt=media&token=29163ac2-28b6-4026-971c-021f0529ddc3",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "1d3f60a8-f246-4b09-b9e0-6ffd4102c58c",
+      "text": "1/2 limetky",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "limetky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "11950417-0163-4c53-8e6d-7bed48fd29d6",
+      "text": "2 ČL hnedého trstinového cukru ",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "ČL hnedého trstinového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d5aec9e0-fd52-4ea2-845b-0d45142895ee",
+      "text": "čerstvé mätové lístky + na ozdobenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "čerstvé mätové lístky + na ozdobenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "eb377413-7113-4eb0-8994-0b758ea5a509",
+      "text": "ľadovú drť",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "ľadovú drť",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "99e3d3d7-8f9d-4574-9633-e97c430612cb",
+      "text": "15 až 20 cl Sprite alebo sódy",
+      "quantity": 15,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "až 20 cl Sprite alebo sódy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ad84e855-0f71-4909-a662-30a9977f2af9",
+      "url": null,
+      "text": "Do vyššieho pohára bez stopky vložíme umytú, na štvrtiny nakrájanú limetku, pridáme cukor a mätové listy.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "a2fed975-dde7-4bf7-ae30-538547b20bc0",
+      "url": null,
+      "text": " Roztlačíme dreveným tĺčikom, aby limetka a mätové listy pustili šťavu. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "a71ec8b2-84b8-46fc-9edf-56a56180e6af",
+      "url": null,
+      "text": "Doplníme ľadovou drvinou a podľa potreby doplna dolejeme Sprite. Zľahka premiešame barmanskou lyžicou, ozdobíme mätovými lístkami a podávame so slamkou.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "9c483b87-5a03-4c0e-9ab2-347b32101e95.png"
+}

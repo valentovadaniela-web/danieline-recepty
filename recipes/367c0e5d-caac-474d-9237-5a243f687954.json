@@ -1,0 +1,121 @@
+{
+  "recipe": {
+    "id": "367c0e5d-caac-474d-9237-5a243f687954",
+    "created_at": "2026-06-07T13:38:07.381198+00:00",
+    "updated_at": "2026-06-07T13:38:07.381198+00:00",
+    "title": "Zázrak",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/367c0e5d-caac-474d-9237-5a243f687954/0ff3e6cd-baaf-4a96-b60d-930c7171d401.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "39567221-285a-4833-8735-e88abc7766e1",
+      "text": "300 g polohrubej múky",
+      "quantity": 300,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "polohrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1632eeca-218c-45e7-ae14-ca15b5e7b700",
+      "text": "1 Hera",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "Hera",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f461fd61-2599-4c59-be98-b4d35bcdf3b0",
+      "text": "5 PL bieleho vína",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "PL bieleho vína",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "bb47b50b-8419-4e71-85bd-53b0d56e2e01",
+      "text": "vanilkový cukor / soľ + rasca alebo semienka",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "vanilkový cukor / soľ + rasca alebo semienka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "2f7fb02b-f2e9-430e-80a2-0bf38d0a6ed9",
+      "url": null,
+      "text": "Všetko spolu zmiesiť a nechať stáť na studenom mieste asi 1 až 2 hodiny. Potom vyvaľkať a vykrajovať formičkami. Upiecť a ešte teplé obaliť vo vanilkovom cukre.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "200c2e59-4109-45e7-84a5-3441f03f3457",
+      "url": null,
+      "text": "Pri slanej verzii môžeme pred pečením posypať rascou alebo semienkami a osoliť",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky ",
+    "Slané pečivo "
+  ],
+  "imageFilename": "367c0e5d-caac-474d-9237-5a243f687954.png"
+}

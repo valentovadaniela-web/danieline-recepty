@@ -1,0 +1,199 @@
+{
+  "recipe": {
+    "id": "883e9812-c3bb-426e-8814-e1f57e7ce3c7",
+    "created_at": "2026-06-07T11:47:03.011393+00:00",
+    "updated_at": "2026-06-07T11:47:03.011393+00:00",
+    "title": "Rýchle tiramisu",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/883e9812-c3bb-426e-8814-e1f57e7ce3c7/bb24c5a9-01c5-400e-98d5-9191ddfcadf6.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "5a67f7b1-ea26-4cc0-9234-5e60501f0d69",
+      "text": "250 ml presso kávy",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "presso kávy",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "1f0244c0-173e-4374-9faa-14dd6c07e091",
+      "text": "6-8 PL Amaretto",
+      "quantity": 6,
+      "quantity2": 8,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "PL Amaretto",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4965c23b-54e3-4f2d-b993-cbea78e883d3",
+      "text": "500 g Mascarpone",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "Mascarpone",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "003ac3e2-de5d-4109-bd8c-eee86d73682a",
+      "text": "4 PL práškového cukru",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "PL práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7fd10df3-b66b-459d-9363-ff0602064239",
+      "text": "8-10 PL vaječného likéru",
+      "quantity": 8,
+      "quantity2": 10,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "PL vaječného likéru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fa8295ee-a39a-49c1-a8bb-c71944fb292a",
+      "text": "250 ml šľahačky",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "šľahačky",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "450ba30b-a9b8-4ac0-aade-a9d8e1d8a913",
+      "text": "2 balíčky podlhovastých piškót",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "balíčky podlhovastých piškót",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fa9464a9-8a9f-433e-b4fd-c63e8f2fc81d",
+      "text": "kakao na posypanie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "kakao na posypanie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "32f157ab-d641-4512-895b-e41d2f61620e",
+      "url": null,
+      "text": "Uvaríme silnú kávu. Pridáme Amaretto. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "40e8bd00-0334-4485-b5ac-b239abb7c224",
+      "url": null,
+      "text": "Mascarpone vyšľaháme s cukrom a postupne primiešame vaječný koňak. Nakoniec pridáme vyšľahanú šľahačku. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "52f5fbc7-0ecb-4a6d-990e-35aee374ac3b",
+      "url": null,
+      "text": "Do jenskej misy alebo tortovej formy ukladáme piškóty, ktoré sme rýchlo omočili v káve. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "2ef8bf90-b538-4866-88ca-c94d2a350127",
+      "url": null,
+      "text": "Na piškóty navrstvíme krém. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "9264ba69-7bbf-4dc4-89ca-13670a0c0779",
+      "url": null,
+      "text": "Dáme druhú vrstvu namočených piškót a opäť vrstvu krému. Ak máme menšiu misu, môžeme urobiť 3 vrstvy. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "7fb9330f-52df-4b1f-91e2-c4803898d30f",
+      "url": null,
+      "text": "Poslednú hornú vrstvu krému posypeme kakaom. Hotové tiramisu necháme minimálne 5 hodín v chladničke stuhnúť.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "883e9812-c3bb-426e-8814-e1f57e7ce3c7.png"
+}

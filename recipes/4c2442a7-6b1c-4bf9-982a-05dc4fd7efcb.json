@@ -1,0 +1,171 @@
+{
+  "recipe": {
+    "id": "4c2442a7-6b1c-4bf9-982a-05dc4fd7efcb",
+    "created_at": "2026-05-20T19:55:32.649+00:00",
+    "updated_at": "2026-05-20T19:55:32.649+00:00",
+    "title": "Zázvorovo – mrkvová polievka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F4c2442a7-6b1c-4bf9-982a-05dc4fd7efcb%2Fe501184b-e68e-4040-9e41-1926f8399a6e.png?alt=media&token=8ed40bc8-3a11-4e96-b648-37e4ca55fbaf",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "9ec97bdb-bd19-4782-8aeb-79ba5b773143",
+      "text": "trochu maslo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "trochu maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2eacdffe-54ab-4bc0-93a8-deed6a71017a",
+      "text": "2 mrkvy",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "mrkvy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "bbf8779b-2b90-47dd-ba52-fa9938bbc017",
+      "text": "2 zemiaky",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "zemiaky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cc066eb1-daec-46c3-9113-a3e1f85167c1",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "56c33099-92ea-4628-a096-f19e4f889343",
+      "text": "3 ČL nastrúhaného čerstvého zázvoru (cca ",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "ČL nastrúhaného čerstvého zázvoru (cca",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "dff32bcd-885e-4950-91a5-3d8664a9c003",
+      "text": "korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "986446ba-6c4d-4850-a7f7-08932c3a920a",
+      "text": "100 ml smotany (kyslá alebo sladká)",
+      "quantity": 100,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "smotany (kyslá alebo sladká)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "c2990ae2-d396-4a3d-bb7c-3087101113f8",
+      "url": null,
+      "text": "Mrkvu nastrúhame na široké slížiky a podusíme na masle domäkka. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "c664bf88-a8fa-4098-9541-de202585e5e6",
+      "url": null,
+      "text": "Prilejeme vodu, osolíme, pridáme nakrájané zemiaky a necháme variť, kým nie sú zemiaky hotové. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "61227044-c475-40ad-9845-9cf89d5c99e2",
+      "url": null,
+      "text": "Tesne pred odstavením pridáme najemno nastrúhaný čerstvý zázvor a trochu korenia. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "416aecf8-42e1-4b4f-8103-021def2781f2",
+      "url": null,
+      "text": "Prilejeme smotanu a necháme prevrieť (alebo kyslú smotanu dáme priamo do taniera). Môžeme ozdobiť pažítkou.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky"
+  ],
+  "imageFilename": "4c2442a7-6b1c-4bf9-982a-05dc4fd7efcb.png"
+}

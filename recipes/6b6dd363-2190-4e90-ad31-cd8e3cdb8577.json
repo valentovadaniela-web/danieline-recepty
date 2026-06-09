@@ -1,0 +1,143 @@
+{
+  "recipe": {
+    "id": "6b6dd363-2190-4e90-ad31-cd8e3cdb8577",
+    "created_at": "2026-05-28T18:17:31.929176+00:00",
+    "updated_at": "2026-05-28T18:17:31.929176+00:00",
+    "title": "Punč",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/6b6dd363-2190-4e90-ad31-cd8e3cdb8577/85a1710f-c4b9-41e7-8763-9a1c86e3f16e.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": 5,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "afc6c31d-2327-4fea-80ac-21f1c6942ed2",
+      "text": "1 – 2 poháre bieleho vína",
+      "quantity": 1,
+      "quantity2": 2,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "poháre bieleho vína",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c0d36e45-d43b-4c50-9805-b7345d0d25a3",
+      "text": "¼ pohára rumu",
+      "quantity": 0.25,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "pohára rumu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1b3b4b46-a7f7-40f8-b278-e430929280aa",
+      "text": "3 poháre pomarančového džúsu",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "poháre pomarančového džúsu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6cf19d8a-677c-46cf-b93d-f13188db6a9d",
+      "text": "6 – 8 klinčekov",
+      "quantity": 6,
+      "quantity2": 8,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "klinčekov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "148b0472-2064-472f-8b57-cb937c4117cd",
+      "text": "škorica",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "škorica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "81ed9a8d-54ef-419d-9be8-7f7845402018",
+      "text": "4 lyžičky cukru",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "lyžičky cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "727676d9-4d5c-418c-a0a9-151141394449",
+      "url": null,
+      "text": "Všetky prísady spolu zvaríme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "1987671e-ab0f-4163-9ac1-967a98ee782e",
+      "url": null,
+      "text": "Podávame teplé. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "6b6dd363-2190-4e90-ad31-cd8e3cdb8577.png"
+}

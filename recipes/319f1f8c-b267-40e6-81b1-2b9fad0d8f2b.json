@@ -1,0 +1,141 @@
+{
+  "recipe": {
+    "id": "319f1f8c-b267-40e6-81b1-2b9fad0d8f2b",
+    "created_at": "2026-05-28T16:06:30.426+00:00",
+    "updated_at": "2026-05-28T16:06:30.426+00:00",
+    "title": "Špekačky na čiernom pive",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F319f1f8c-b267-40e6-81b1-2b9fad0d8f2b%2F43abbf5b-2831-4a32-bd0d-441873c17268.png?alt=media&token=5910e58d-8718-4446-99a7-a6c3ea9492a0",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "98387f76-3a4d-46e4-8778-2f01bd25edc0",
+      "text": "Špekáčiky",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Špekáčiky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c5030973-5599-4f07-b21a-40fe971638cd",
+      "text": "Paprika",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "Paprika",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "348616f4-c80f-4e9f-9511-be601e157be9",
+      "text": "Kečup",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "Kečup",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "078e7247-55e5-4f16-8145-c2bf40a7203e",
+      "text": "Cibuľa",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "Cibuľa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1bad21b1-8132-46f2-93d7-de114eb73e25",
+      "text": "Čierne pivo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "Čierne pivo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "7315d758-f278-4519-b375-13075f3aa0aa",
+      "url": null,
+      "text": "Špekáčiky v strede rozrežeme (vyrobíme kapsičku), naplníme drobnými pásikmi cibule a papriky a potrieme kečupom. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f8c10bc4-72db-4a6e-81fe-95cf59feb994",
+      "url": null,
+      "text": "Zvyšnú cibuľu rozložíme na plech, všetko zalejeme čiernym pivom a zapečieme.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "97be0191-963e-467d-8892-1e838819d710",
+      "url": null,
+      "text": "Podávame s chlebom.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné",
+    "Mäso",
+    "Večere"
+  ],
+  "imageFilename": "319f1f8c-b267-40e6-81b1-2b9fad0d8f2b.png"
+}

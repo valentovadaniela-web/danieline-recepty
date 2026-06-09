@@ -1,0 +1,207 @@
+{
+  "recipe": {
+    "id": "23eef5c5-0475-4bfb-91da-72671776e987",
+    "created_at": "2026-05-20T19:05:19.636+00:00",
+    "updated_at": "2026-05-20T19:05:19.636+00:00",
+    "title": "Kuracia bábovka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F23eef5c5-0475-4bfb-91da-72671776e987%2Ffcff6235-6f33-4390-b85a-23dace1b9eba.png?alt=media&token=4d8a3e60-4ec6-4b95-9f43-79e9975b7514",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "ee29f535-3e9e-4688-9bfd-162948aff560",
+      "text": "5-6 kuracie rezne (cca 1,5 kg)",
+      "quantity": 5,
+      "quantity2": 6,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "kuracie rezne (cca 1.5 kg)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9e1f6b3b-2224-4ae9-8694-13e1b202d079",
+      "text": "salám",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "salám",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "502bea0e-15ed-44ba-80d2-f9e3c60c4166",
+      "text": "tvrdý syr",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "tvrdý syr",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "251daf85-438c-4662-9067-4ceb4873cd26",
+      "text": "slanina",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "slanina",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "26b3f1ef-4128-430e-8746-646923018d86",
+      "text": "5 vajcia",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vajcia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a36f6416-a6cc-47ca-907a-620d0037428f",
+      "text": "pažítka",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "pažítka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c728314e-debc-4965-a733-54a6b080fae5",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "29719832-61b5-45d1-a66d-149816b5d3a2",
+      "text": "korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "c861372d-ebdf-4f6d-b1d0-deae895e6234",
+      "url": null,
+      "text": "Kuracie rezne naklepeme, osolíme a okoreníme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "74f9b404-819a-4fb1-8b28-6d5e7a231587",
+      "url": null,
+      "text": "Formu na bábovku vyložíme papierom na pečenie. Formu na dne a po obvode vystelieme kuracími rezňami. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "37086e07-00f7-4252-b7a3-9f9d33c42446",
+      "url": null,
+      "text": "Naň dáme plátky slaniny, kocky salámu, nastrúhaný syr a rozbijeme celé vajíčka. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "6dcb4a0e-e991-42ab-a8f4-7a5da5bc940f",
+      "url": null,
+      "text": "Posypeme nasekanou pažítkou. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "8a8ef06b-34c3-48b1-bab1-08cdb3babb89",
+      "url": null,
+      "text": "Vrstvy sa opakujú, až kým nie je forma plná. Posledná vrstva je mäso. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "88cfca05-1b11-4a86-9d48-49de65f8834a",
+      "url": null,
+      "text": "Všetko zalejeme rozšľahaným vajíčkom so zvyškom syra. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "52716740-0224-4a99-9ae9-3e375f8751b2",
+      "url": null,
+      "text": "Pečieme asi 1,5 hod pri teplote 250 °C. Upečenú bábovku vyklopíme, necháme trochu vychladnúť a krájame.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Mäso"
+  ],
+  "imageFilename": "23eef5c5-0475-4bfb-91da-72671776e987.png"
+}

@@ -1,0 +1,319 @@
+{
+  "recipe": {
+    "id": "2f4c15ad-469a-466c-a31f-811292e29680",
+    "created_at": "2026-05-21T18:24:39.293+00:00",
+    "updated_at": "2026-05-23T14:17:03.091+00:00",
+    "title": "Falošník",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F2f4c15ad-469a-466c-a31f-811292e29680%2F5822b687-85a2-43f9-97e5-5011b339d104.png?alt=media&token=dee40b93-c374-4cce-8086-1257aa1ba95b",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "d2ae2fee-fafd-42b6-b3e7-e9df09b45532",
+      "text": "Cesto:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Cesto:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "59f8ca45-addb-4b49-abb6-431d85a3e5e2",
+      "text": "250 g masla",
+      "quantity": 250,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "d6156a6c-4dbf-493b-996c-3a2505d9f2fd",
+      "text": "200 g cukru",
+      "quantity": 200,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f6718f7e-ab14-491e-927a-65ee75da6b83",
+      "text": "5 žĺtkov",
+      "quantity": 5,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "žĺtkov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fd1a683d-6491-475d-9d9a-dd7eac6a9239",
+      "text": "1 štipka soli",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "štipka soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d3848d36-a985-4e41-88fe-209c3febc9ad",
+      "text": "400 g múky",
+      "quantity": 400,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "fcc1014d-059c-4663-afa7-6533630e6e3f",
+      "text": "1 balíček (12 g) prášku do pečiva",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "balíček (12 g) prášku do pečiva",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8519c4af-99b3-4e0d-86a7-2f2a571cc553",
+      "text": "Plnka:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "Plnka:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "01b0f438-5c45-4636-9c99-9ef7862e6d6f",
+      "text": "2 (á 40 g) vanilkové pudingy",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "(á 40 g) vanilkové pudingy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fb2c8b84-401f-4ecf-957c-498e85e5bc4b",
+      "text": "8 polievkových lyžíc cukru",
+      "quantity": 8,
+      "quantity2": 0,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "polievkových lyžíc cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fd98c9c0-5ba4-45f7-a659-251595473503",
+      "text": "500 ml mlieka",
+      "quantity": 500,
+      "quantity2": 0,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "76f81604-a9a0-433a-bb06-815c6b500705",
+      "text": "400 g kyslej smotany (2 kelímky)",
+      "quantity": 400,
+      "quantity2": 0,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "kyslej smotany (2 kelímky)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "0eea2be5-65d2-4330-bcf8-d38acf70c97c",
+      "text": "5 bielkov",
+      "quantity": 5,
+      "quantity2": 0,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "bielkov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b5b100ec-89d1-46a7-ab0e-55e3495f0b03",
+      "text": "nastrúhaná kôra z 1 citróna",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "nastrúhaná kôra z",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "f72e20b8-b8cc-4ad2-9e2b-1b40e8f12689",
+      "url": null,
+      "text": "Z mlieka, pudingových práškov a cukru uvaríme hustý puding. \n",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "b46d47a2-74a7-4c59-8e26-95a9ec9ff50e",
+      "url": null,
+      "text": "Ešte do horúceho pridáme kyslú smotanu. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "f09aabe4-45f3-43b2-9121-07657c4ed2fd",
+      "url": null,
+      "text": "Bielky vyšľaháme na tuhý sneh a pridáme ho tiež do kyslého smotanového pudingu, opatrne premiešame, aby sme nerozbili sneh. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "121fb234-603f-4060-906c-38b545088913",
+      "url": null,
+      "text": "Dochutíme strúhanou citrónovou kôrou. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "64feedba-b8a5-458a-b520-017bfac5755a",
+      "url": null,
+      "text": "Rúru predhrejeme na 180 °C. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "087b36b2-3ff3-442e-8ab2-c63045a16bfa",
+      "url": null,
+      "text": "Na cesto vymiešame maslo s cukrom, potom po jednom pridáme žĺtky. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "85cfcc60-9901-4542-a725-b1ef4aea5c8e",
+      "url": null,
+      "text": "Múku zmiešanú s práškom do pečiva preosejeme, ochutíme trochou soli a pridáme do maslovej vaječnej hmoty. ",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "493b3d2f-2855-4a46-9466-43cdb8ad7f64",
+      "url": null,
+      "text": "Spracujeme z neho rovnomerné cesto a rozdelíme ho na 2 časti v pomere asi 60 : 40. ",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "45f30ea6-b282-419b-a04d-b653ae011e7d",
+      "url": null,
+      "text": "Na papieri na pečenie rozvaľkáme väčšiu časť a preložíme ju aj s papierom na plech (27 x 38 cm) a ručne roztlačíme, aby rovnomerne vyplnila plech. Navrstvíme plnku. ",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "d8e02a30-8364-4cd1-9848-b174f9818585",
+      "url": null,
+      "text": "Z menšej časti cesta vyvaľkáme šúľky cesta a poukladáme ich do mriežky na plnku na plechu. ",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "691d74b3-e30b-4cee-a49f-736a01625a20",
+      "url": null,
+      "text": "Pečieme asi 35 minút. ",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "b92e332f-d633-4653-8aa9-6a6daf067c3c",
+      "url": null,
+      "text": "Po vychladnutí posypeme práškovým cukrom a podávame nakrájané na kocky.",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "2f4c15ad-469a-466c-a31f-811292e29680.png"
+}

@@ -1,0 +1,203 @@
+{
+  "recipe": {
+    "id": "30fb309b-70d6-4a72-a01d-ee7875e5741c",
+    "created_at": "2026-05-30T18:37:23.44565+00:00",
+    "updated_at": "2026-05-30T18:37:23.44565+00:00",
+    "title": "Krémeš",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/30fb309b-70d6-4a72-a01d-ee7875e5741c/f2652c53-45c8-4019-b9ec-7eb2c3e82457.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "1f642d08-fd0f-49b7-9f21-7bc657648de4",
+      "text": "1 lístkové cesto (500 g)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "lístkové cesto (500 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "641d4942-fc45-4077-aa71-b3e38669ab79",
+      "text": "1 l mlieka",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "5712a138-3860-4514-a670-00066e497c74",
+      "text": "150 g + 2 lyžice cukru ",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "+ 2 lyžice cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "8195cb95-3f5a-4021-b4c9-5e4985c4646e",
+      "text": "2 vanilkové cukry",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "vanilkové cukry",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8f465b45-bf5b-4f7e-9182-f5042d292306",
+      "text": "4 žĺtky + 6 bielkov",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "žĺtky + 6 bielkov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "07c6753a-e751-4f63-b3e9-ff3416460aa3",
+      "text": "1 lyžica hladkej múky",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "lyžica hladkej múky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "781a372b-bd05-42ef-b7fa-a9450e0a7db7",
+      "text": "80 g maizeiny (alebo 2 Zlaté klasy)",
+      "quantity": 80,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "maizeiny (alebo 2 Zlaté klasy)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f833679f-ae88-45af-90f8-6817c61eb715",
+      "text": "2 šľahačky",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "šľahačky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a9189dad-e9ee-4b27-8fda-6213df70606d",
+      "text": "2 čokoládové polevy alebo 2 čokolády na varenie",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "čokoládové polevy alebo 2 čokolády na varenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "9bc1b330-5421-4506-b08b-5f14d3758f4d",
+      "url": null,
+      "text": "Z lístkového cesta vyvaľkať 2 tenké pláty a upiecť na opačnej strane plechov (250°C - 10 min, po 6–7 min vymeniť plechy). Pred pečením poprepichovať cesto.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "2b27f5d6-707b-44c0-8863-986a3554394f",
+      "url": null,
+      "text": "8 dcl mlieka a 150 g cukru nechať variť. Do 2 dcl mlieka zamiešať maizeinu, hladkú múku, žĺtky a vanilkový cukor. Pridať k variacemu sa mlieku s cukrom. Uvariť na hustý krém. Ešte do horúceho zľahka zamiešať sneh z bielkov a 2 lyžíc kryštálového cukru. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "7eac684c-b380-425e-b282-dce809ef5888",
+      "url": null,
+      "text": "Napoly vychladnutý krém naniesť na 1 plát cesta. Po vychladnutí naniesť na krém vyšľahanú šľahačku. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "198431ee-1506-4b32-9315-4eeecdb00691",
+      "url": null,
+      "text": "Druhý plát poliať čokoládovou polevou, nakrájať na štvorce a po jednom ukladať na šľahačkovú vrstvu.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "782249dd-fd97-47f5-8021-7b4384a816c8",
+      "url": null,
+      "text": "Nechať jeden deň stáť v chlade.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "30fb309b-70d6-4a72-a01d-ee7875e5741c.png"
+}

@@ -1,0 +1,135 @@
+{
+  "recipe": {
+    "id": "11a48d5f-a7cb-45be-bae6-8df3bfb9ebfe",
+    "created_at": "2026-05-19T20:31:24.216+00:00",
+    "updated_at": "2026-05-19T20:31:24.216+00:00",
+    "title": "Baileys",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F11a48d5f-a7cb-45be-bae6-8df3bfb9ebfe%2F926d5c7e-6b63-4d76-beaa-5258243f39e6.png?alt=media&token=9ae341e7-b9a1-47b5-8820-d6fc089525dd",
+    "prep_time_hours": 12,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 2,
+    "cook_time_minutes": 0,
+    "total_time_hours": 14,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "b92783ac-feb7-44b0-8642-ff8afa69be6e",
+      "text": "2 salká",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "salká",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2282f63f-2dc5-4e63-9798-f86291bb9d43",
+      "text": "1 mandľový puding (môže byť aj karamelový alebo orieško-vý)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "mandľový puding (môže byť aj karamelový alebo orieško-vý)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "21480da2-768c-4dda-964d-ef8cfd733758",
+      "text": "0,5 l mlieka",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "596d3153-e701-4d2c-be8f-a63f934119d2",
+      "text": "0,25 l rumu",
+      "quantity": 0.25,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "rumu",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "b59707ed-fe76-4f87-8d28-8f0d50a56f49",
+      "url": null,
+      "text": "Obe Salká dáme na dve hodiny variť, potom necháme vychladnúť. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "9a6fca85-df1e-4476-8c63-bbae66f610e9",
+      "url": null,
+      "text": "Z mandľového pudingu a mlieka urobíme puding a mierne vychladíme za stáleho miešania, aby sa nám neurobila navrchu koža. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "f046ff34-cb74-4c6b-a482-0e106b646bd1",
+      "url": null,
+      "text": "Vlažný puding zmiešame s uvarenými Salkami a rumom. Precedíme do fliaš, aby neboli v nápoji hrudky. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "f0c24fe8-148b-4e93-8159-77862bcf5db4",
+      "url": null,
+      "text": "Dáme odležať na 12 hodín do chladničky a podávame vychladené s kockami ľadu.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "11a48d5f-a7cb-45be-bae6-8df3bfb9ebfe.png"
+}

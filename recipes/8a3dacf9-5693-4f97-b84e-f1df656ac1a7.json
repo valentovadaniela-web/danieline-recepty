@@ -1,0 +1,159 @@
+{
+  "recipe": {
+    "id": "8a3dacf9-5693-4f97-b84e-f1df656ac1a7",
+    "created_at": "2026-05-28T19:55:06.754556+00:00",
+    "updated_at": "2026-05-28T19:59:08.55203+00:00",
+    "title": "Rožky",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/8a3dacf9-5693-4f97-b84e-f1df656ac1a7/0362aa49-3c1b-4b1e-bfcb-45028e613d52.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "b091d062-e56c-49f9-9787-87f5621a9c7b",
+      "text": "500 g múka hladká",
+      "quantity": 500,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "múka hladká",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "5843466f-5583-4bad-8f19-6f42f93986c7",
+      "text": "30 g masť bravčová (2 PL oleja)",
+      "quantity": 30,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "masť bravčová (2 PL oleja)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "c70d237a-599c-40e1-a099-c9f4cb03b3a9",
+      "text": "20 g droždie",
+      "quantity": 20,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "droždie",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "03ac22e7-9150-41ef-ab9c-2f09f2c2999c",
+      "text": "2 ČL soľ",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "ČL soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "be1bb600-7db4-4dd3-b967-0650edff5aca",
+      "text": "270 ml voda vlažná",
+      "quantity": 270,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "voda vlažná",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "765b3d8c-3919-49a7-a019-ea2441335ef7",
+      "text": "1 ČL cukor kryštálový",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "ČL cukor kryštálový",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "65e34ba3-8f9a-4cd9-b71e-d070956a2be6",
+      "url": null,
+      "text": "Preosejeme múku do nádoby, pridáme ostatné suroviny, kvások zvlášť nie je potrebné robiť, zmiešame a vymiesime nelepivé cesto, ktoré necháme kysnúť hodinu.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "0fdea8fb-30b2-4511-bbb4-143304244471",
+      "url": null,
+      "text": "Cesto si rozdelíme na 10 bochníčkov (80 g), ktoré vytvarujeme do guliek. Z každej guľky vyvaľkáme/vyťaháme trojuholník a následne od širšieho konca stáčame do tvaru rožka. Podsypávanie múkou nie je potrebné, cesto je takmer nelepivé. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "eed1bc6c-9d33-413b-bcd6-3515dbed27cd",
+      "url": null,
+      "text": "Rožky dáme zrolovanou stranou smerom na plech (cca 4 cm rozostupy), prikryjeme utierkou a necháme kysnúť 40 min. Medzitým necháme vyhriať rúru na 250 °C (+ ventilátor).",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "348f9693-fa43-43d0-a02a-963713e14d17",
+      "url": null,
+      "text": "Do rúry na dno dáme starší plech, do ktorého po vložení plechu s rožkami frkneme šálku vriacej vody, aby sme vytvorili paru. Rožky pred vložením do vyhriatej rúry postriekame vodou, vložíme do rúry, frkneme vriacu vodu do spodného plechu a rýchlo rúru zatvoríme. Po cca 5 min vyberieme plech, na ktorý sme kvôli pare vliali vriacu vodu a dopekáme ešte cca 5 min na stále rovnakej teplote. Sledujeme podľa zafarbenia kôrky.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Slané pečivo "
+  ],
+  "imageFilename": "8a3dacf9-5693-4f97-b84e-f1df656ac1a7.png"
+}

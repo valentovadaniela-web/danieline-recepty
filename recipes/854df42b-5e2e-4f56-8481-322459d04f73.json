@@ -1,0 +1,119 @@
+{
+  "recipe": {
+    "id": "854df42b-5e2e-4f56-8481-322459d04f73",
+    "created_at": "2026-05-20T19:59:50.964+00:00",
+    "updated_at": "2026-05-20T19:59:50.964+00:00",
+    "title": "Smrekový sirup (proti kašľu)",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F854df42b-5e2e-4f56-8481-322459d04f73%2F8f1185ef-9577-46f2-a484-4ec39aad9063.png?alt=media&token=a9c5e045-ffe7-4e58-9138-9f8eddb61430",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "96ebbbb2-3916-4488-89f3-27b78edbd4db",
+      "text": "Čerstvé výhonky smreka (máj) – mäkké, jemné ako tráva",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Čerstvé výhonky smreka (máj) – mäkké, jemné ako tráva",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f5155620-de1b-4541-a701-9ddc56a74627",
+      "text": "Kryštálový cukor",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "Kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "df691cb1-e911-4936-857d-598a6d30f95f",
+      "url": null,
+      "text": "Čerstvé výhonky smreka striedavo vrstvíme s kryšlálovým cukrom vo vysterilizovanom sklenom pohári. Prvá a posledná vrstva musí byť cukor.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "29b88ca5-4ea2-41b1-b615-e264fafffc40",
+      "url": null,
+      "text": "Pohár necháme stáť cca 8 týždňov na slnku, napr. na okennom parapete. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5d18c4ea-4db9-4097-9b9b-f47eb16b87ae",
+      "url": null,
+      "text": "Po 2 mesiacoch všetko precedíme cez gázu, (nesmie byť škrobená) a gázu vyžmýkame. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "3238b37a-0175-40f9-9b8f-94b34ce6f90d",
+      "url": null,
+      "text": "Sirup sa uskladňuje v chladničke. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "325626d1-b29d-45ac-8b11-5e9d991badf2",
+      "url": null,
+      "text": "Užíva sa kávová lyžička 3-5 x  denne.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "854df42b-5e2e-4f56-8481-322459d04f73.png"
+}

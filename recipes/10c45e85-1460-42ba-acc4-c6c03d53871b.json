@@ -1,0 +1,192 @@
+{
+  "recipe": {
+    "id": "10c45e85-1460-42ba-acc4-c6c03d53871b",
+    "created_at": "2026-05-30T15:30:13.428963+00:00",
+    "updated_at": "2026-05-30T15:31:42.229933+00:00",
+    "title": "Dvojfarebné rezy",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/10c45e85-1460-42ba-acc4-c6c03d53871b/1b798865-9b7d-41d9-a0ae-ba60361da58c.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "d194ef29-c5d2-4c10-bf4d-2915f75f7e51",
+      "text": "5 vajec",
+      "quantity": 5,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "vajec",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d010a7ea-281b-4d2a-b314-3ac9b4b50f3a",
+      "text": "25 dkg práškového cukru",
+      "quantity": 25,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "dkg práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "972e9ee2-dce7-4051-a037-8672ff58423a",
+      "text": "1 prášok do pečiva",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "prášok do pečiva",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "ceab3a88-cebf-40a1-b074-1a1acb36c706",
+      "text": "30 dkg hrubej múky",
+      "quantity": 30,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "dkg hrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "73580b31-7574-4ca7-8e1a-ebbaee6499c0",
+      "text": "1 dcl mlieka",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "dcl mlieka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "761f3c85-f44e-4fdd-9ebf-49b08a9d36fb",
+      "text": "1 vanilkový cukor",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "vanilkový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a849af03-3409-4f36-bd25-407947080b9b",
+      "text": "25 dkg masla (Hera ...)",
+      "quantity": 25,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "dkg masla (Hera ...)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "14d04fbc-f314-486c-8abd-469e8266e1d2",
+      "text": "2 lyžice kakaa",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "lyžice kakaa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "5df0d528-703d-4f73-bc1e-1bd634926e13",
+      "url": null,
+      "text": "Žĺtky + cukry (práškový, vanilkový) + maslo vymiešať do peny. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "da290f72-7a69-4aea-a7c7-45e4d0e421a0",
+      "url": null,
+      "text": "Pridať studené mlieko, múku s práškom do pečiva a sneh z bielkov. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5c2f2815-8df2-4bcf-95d7-8d2487440d1b",
+      "url": null,
+      "text": "Do ½ cesta pridať kakao. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "399922c3-ba67-4d97-bfd7-feebda5d0b6d",
+      "url": null,
+      "text": "Na vymastený a múkou vysypaný plech rôzne rozvrstviť obe cestá a upiecť (pri 175 °C – cca 20 min). ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "d370590f-c0ce-4952-af36-3f6ed252be7a",
+      "url": null,
+      "text": "Po vychladnutí posypať práškovým cukrom.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "10c45e85-1460-42ba-acc4-c6c03d53871b.png"
+}

@@ -1,0 +1,143 @@
+{
+  "recipe": {
+    "id": "4048cda6-1cab-4f55-bd07-cda3313dee67",
+    "created_at": "2026-05-28T18:21:39.721801+00:00",
+    "updated_at": "2026-05-28T18:21:39.721801+00:00",
+    "title": "Skorocelový sirup proti kašľu",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/4048cda6-1cab-4f55-bd07-cda3313dee67/0a4b23e2-bd0e-4e44-afb0-67e607148c67.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "72b07dfb-5d5b-4a25-9977-9176986e9f4e",
+      "text": "Čerstvé listy skorocelu kopijovitého",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Čerstvé listy skorocelu kopijovitého",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f1444676-8703-467e-9ccb-7f8eebc8e95a",
+      "text": "Kryštálový cukor",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "Kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "fd7b3af3-b051-46de-905b-8040bdee2dc7",
+      "url": null,
+      "text": "Čerstvé listy skorocelu kopijovitého omyjeme, necháme trochu oschnúť. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "8e98eac9-613e-4790-844d-04571330e123",
+      "url": null,
+      "text": "Listy nastriháme na kúsky cca 3 cm. Vložíme na dno skleného pohára vo vrstve asi 1,5 cm a zasypeme cukrom, trochu utlačíme, rovnakým spôsobom pokračujeme vrstvu za vrstvou. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "52569cb5-9e3d-4417-b100-19b467992de3",
+      "url": null,
+      "text": "Vrstvy môžeme pridávať i v ďalších dňoch, vždy poslednú vrstvu listov zasypeme silnejšou vrstvou cukru. Počas niekoľkých dní sa hmota začne usadať a na spodku nádoby sa začne tvoriť sirup. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "890ae897-5673-4e86-aa6a-057c3e354558",
+      "url": null,
+      "text": "Hmotu priebežne utláčame, a keď sa listy objavia na vzduchu, zasypeme ich opäť malou vrstvičkou cukru. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "ceb8745e-bb02-4431-8176-5e669a6c3d86",
+      "url": null,
+      "text": "Po poslednej vrstve necháme pohár stáť 2 mesiace na slnku, napr. na okennom parapete. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "c81b61ac-173a-410b-bfb3-8bde3090376b",
+      "url": null,
+      "text": "Po 2 mesiacoch všetko precedíme cez gázu, (nesmie byť škrobená) a gázu vyžmýkame. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "207875bc-af65-4813-8461-8aa39776fa20",
+      "url": null,
+      "text": "Sirup sa uskladňuje v chladničke.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "ea6448f0-db80-49cd-add2-6087a6376365",
+      "url": null,
+      "text": "Užíva sa kávová lyžička 3-5 x  denne.",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "4048cda6-1cab-4f55-bd07-cda3313dee67.png"
+}

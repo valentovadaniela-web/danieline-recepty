@@ -1,0 +1,171 @@
+{
+  "recipe": {
+    "id": "4ca55f29-ab7c-4e95-8006-89e8cbb4cb78",
+    "created_at": "2026-05-29T18:35:06.459286+00:00",
+    "updated_at": "2026-05-29T18:36:39.626119+00:00",
+    "title": "Studená smotanová torta",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/4ca55f29-ab7c-4e95-8006-89e8cbb4cb78/752d4786-6004-4b97-a8b5-7f6ac04f39d3.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "2124169f-efba-45f1-a3a4-3286aa113095",
+      "text": "1 okrúhle detské piškóty (cca 300 g)",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "okrúhle detské piškóty (cca 300 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a19f82cf-da72-4acc-a842-c1c08e8a98bb",
+      "text": "2 biele jogurty",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "biele jogurty",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "65bf55e4-4487-48fd-8e0c-74f39c24153a",
+      "text": "2 kyslé pochúťkové smotany ",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kyslé pochúťkové smotany",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3804104e-66d9-40b9-befc-099c6a4488b7",
+      "text": "50 g práškového cukru",
+      "quantity": 50,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "396e3148-316e-431a-ad2c-f80006279f83",
+      "text": "1 vanilkový cukor",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vanilkový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "45ea6ebc-eae2-4fa1-b33a-83d62dafad89",
+      "text": "600 g kompótového alebo čerstvého ovocia",
+      "quantity": 600,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "kompótového alebo čerstvého ovocia",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "9c739de5-f03f-4260-b018-77783b4a7096",
+      "text": "čokoláda na ozdobenie",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "čokoláda na ozdobenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ed33ed2a-6e17-4ba1-91ee-2cfa25023584",
+      "url": null,
+      "text": "Vymiešame jogurty, smotany, práškový a vanilkový cukor na hladký krém. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f2581c0b-c623-4baa-9ac1-fe7b9a382f03",
+      "url": null,
+      "text": "Tortovú formu vyložíme alobalom. Po vrstvách do nej ukladáme piškóty (môžu byť namočené v ovocnej šťave), ovocie a krém až do zaplnenia. posledná vrstva má byť krém.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5b180be4-b398-4747-8d55-0d6e76b061e1",
+      "url": null,
+      "text": "Zdobíme ovocím a nastrúhanou čokoládou.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "03522b6d-69ee-46e8-b43a-264b2d7beff9",
+      "url": null,
+      "text": "Tortu necháme stuhnúť v chladničke alebo mrazničke aspoň 6 hodín.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Torty"
+  ],
+  "imageFilename": "4ca55f29-ab7c-4e95-8006-89e8cbb4cb78.png"
+}

@@ -1,0 +1,171 @@
+{
+  "recipe": {
+    "id": "25d2ef41-f227-437e-9c53-6ed92549aeec",
+    "created_at": "2026-05-22T17:59:06.647+00:00",
+    "updated_at": "2026-05-22T17:59:06.647+00:00",
+    "title": "Indická mrkvová kari polievka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F25d2ef41-f227-437e-9c53-6ed92549aeec%2Ff18b1cdf-b047-45fc-9827-fce217438617.png?alt=media&token=27673087-c22a-4e78-973b-e759d475fb62",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "137764fc-749a-4548-bd76-35da8698df78",
+      "text": "40 g masla",
+      "quantity": 40,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a62d8baf-0e3e-49f6-b441-f096bafa5ef3",
+      "text": "4 mrkvy",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "mrkvy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f42f604a-22c4-44da-a219-7b6946035c5f",
+      "text": "kari",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kari",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "672e954a-452f-4bae-83b0-cf00c7a3a43e",
+      "text": "1 kocka zeleninového vývaru",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "kocka zeleninového vývaru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2fb17831-2174-4d1b-b1f1-ed955cfd8734",
+      "text": "50 ml koňaku (nemusí byť)",
+      "quantity": 50,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "koňaku (nemusí byť)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "f7b4e431-ab36-4e83-8919-a75bf3726b31",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d9df4f0a-c6af-4b06-8986-4f324a116326",
+      "text": "biele korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "biele korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "df531a9b-3b33-420b-9bb7-15af512b117e",
+      "url": null,
+      "text": "Očistenú mrkvu nastrúhame na široké slížiky a podusíme na masle domäkka. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "b86135f1-d267-4126-8805-c738681283ce",
+      "url": null,
+      "text": "Pridáme kari a zalejeme vodou. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "28cb0e02-0574-4992-afc6-87a73883020f",
+      "url": null,
+      "text": "Potom pridáme kocku zeleninového vývaru a chvíľku povaríme.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "2812ed37-c31e-4f21-a504-9fab6efc85ca",
+      "url": null,
+      "text": "Keď je mrkva mäkká prestaneme variť. Polievku dochutíme soľou, bielym korením a nakoniec prilejeme koňak. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky"
+  ],
+  "imageFilename": "25d2ef41-f227-437e-9c53-6ed92549aeec.png"
+}

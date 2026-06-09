@@ -1,0 +1,199 @@
+{
+  "recipe": {
+    "id": "6ec6c581-3468-4f86-bfb1-b84030247cae",
+    "created_at": "2026-05-22T18:51:07.359+00:00",
+    "updated_at": "2026-05-22T18:51:07.359+00:00",
+    "title": "Šalátovka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F6ec6c581-3468-4f86-bfb1-b84030247cae%2F9913bdcb-336e-4a92-b0dd-155eb3fa13d7.png?alt=media&token=c2384c61-afb8-437f-a9de-fccd496b7929",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "e6fd436c-6fbb-47d4-b910-3c4aa5730faf",
+      "text": "cesnak",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "cesnak",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7b4adbc4-7923-4dad-964e-bc0bbb6534a4",
+      "text": "hladká múka",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "hladká múka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "90bbe2f8-f70e-4df1-a029-c50e25dcc43d",
+      "text": "olej",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f3f45aaa-8756-46e9-9eba-a8ea11d697ff",
+      "text": "smotana (10 – 40%)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "smotana (10 – 40%)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "66168cc9-527b-45bb-ad99-42e7266be921",
+      "text": "hlávkový šalát",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "hlávkový šalát",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e607715f-03b3-49aa-93c1-5efb9bf10d9f",
+      "text": "cukor",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "372d1db0-2cf3-44a8-bf1e-1d8c0124c133",
+      "text": "maslo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b68ccf3e-dc71-4659-8e28-5d51da518917",
+      "text": "horčica (ocot, citrón)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "horčica (ocot, citrón)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "cb9ab59f-13c7-4bf4-b518-57490f6d7e6b",
+      "url": null,
+      "text": "Na oleji opražíme pretlačený cesnak a hladkú múku (cca 2 PL). ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "add42cac-d269-4175-afe2-b9d9a99c42ff",
+      "url": null,
+      "text": "V nádobe zmiešame smotanu a 2 PL hladkej múky ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "77857236-427f-4319-ad45-593d23295179",
+      "url": null,
+      "text": "Pridáme cesnakovú zápražku a nalejeme do hrnca. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "237ea10f-23c1-482d-bc21-26259cd9ecf5",
+      "url": null,
+      "text": "Šalát nakrájame alebo natrháme na menšie kúsky a pridáme do hrnca. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "6d430798-4807-4565-ae7a-2e693c071bac",
+      "url": null,
+      "text": "Osolíme, pridáme ČL cukru, trochu masla a uvaríme.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "3c6ab7cc-68d2-4765-9da5-e0698671b92c",
+      "url": null,
+      "text": "Podávame s varenými vajíčkami.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky"
+  ],
+  "imageFilename": "6ec6c581-3468-4f86-bfb1-b84030247cae.png"
+}

@@ -1,0 +1,235 @@
+{
+  "recipe": {
+    "id": "01b31e8b-c1b5-473b-996d-248a2981fa6a",
+    "created_at": "2026-05-29T15:28:42.40328+00:00",
+    "updated_at": "2026-05-29T15:28:42.40328+00:00",
+    "title": "Zemiakový chlieb",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/01b31e8b-c1b5-473b-996d-248a2981fa6a/981e8212-fec2-48a1-a375-1c7012425962.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "6e985b29-d639-400c-814a-560d6eca7ebd",
+      "text": "300 ml vody",
+      "quantity": 300,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "vody",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "0654a390-7613-49ca-a7fb-4f06795806f7",
+      "text": "500 g hladkej múky T650",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "hladkej múky T650",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "2374cda3-66d8-4be0-8868-1c6a9f33c474",
+      "text": "2 stredne veľké uvarené zemiaky",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "stredne veľké uvarené zemiaky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d4ea37a4-b876-49e5-be17-01f0da181039",
+      "text": "½ kocky droždia",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "kocky droždia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0b5857a7-8c31-4407-ac67-9283bc12e08b",
+      "text": "1 ČL kryštálového cukru",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "ČL kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "02f863de-26ac-46ae-987d-42a57f0c2140",
+      "text": "2-3 ČL soli",
+      "quantity": 2,
+      "quantity2": 3,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "ČL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1e678734-30c4-4317-b857-8c670f9970b9",
+      "text": "½ ČL rasce (nemusí byť)",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "ČL rasce (nemusí byť)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "a52d87ce-f4aa-4be9-a8a9-015594ddd224",
+      "url": null,
+      "text": "Zemiaky môžeme uvariť mikrovlnke. Zemiaky aj v šupke položíme na tanier, nastavíme na 800 W a varíme 5 min.  Necháme vychladnúť.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "2883bb4f-0ee7-40b8-9607-db291ea55ee1",
+      "url": null,
+      "text": "Vychladnuté zemiaky postrúhame. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "1e230c8b-30f1-4913-a3fb-0ded134c3b60",
+      "url": null,
+      "text": "Do misky dáme cca 50 ml vlažnej vody (odoberieme z tých 300 ml), pridáme droždie a 1 ČL cukru. Necháme na teplom mieste cca 10 minút, kým vzíde kvások.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "8d1dbad9-9442-4e0e-bf32-93c887df71c4",
+      "url": null,
+      "text": "Do väčšej misy dáme múku, soľ, rascu a postrúhané zemiaky. Pridáme zvyšnú vodu (250 ml) a kvások.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "eccb1443-95db-43bb-9c0c-c5aa7635072c",
+      "url": null,
+      "text": "Cesto začneme spracovávať varechou, potom rukami alebo robotom s hákom. Miesenie je kľúčové: miesime cesto aspoň 8–10 minút, kým nie je hladké, pružné a prestane sa lepiť na ruky alebo steny misy.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "d3951c5f-83c4-4259-be36-ff2952e55cc5",
+      "url": null,
+      "text": "Misu prikryjeme čistou utierkou a necháme na teplom mieste kysnúť asi 60–90 minút, kým cesto nezdvojnásobí svoj objem.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "c03b59c5-74a2-4d1d-a131-ae2790d6fe02",
+      "url": null,
+      "text": "Vykysnuté cesto vyklopíme na pomúčenú dosku, jemne ho prepracujeme a vytvarujeme do bochníka alebo valca (podľa toho, či ho budeme piecť na plechu alebo vo forme na chlieb).",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "1cf7eac1-db4f-4a6d-8fbe-334818b5583e",
+      "url": null,
+      "text": "Necháme ho ešte 20–30 minút podkysnúť na plechu/vo forme.",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "0f357e73-2271-4360-a545-0bd3459f5ba1",
+      "url": null,
+      "text": "Rúru vyhrejeme na 200–220 °C.",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "f1b3a12a-c7c6-4cc3-81b2-8c99b2601413",
+      "url": null,
+      "text": "Pred vložením do rúry môžeme povrch chleba jemne potrieť vodou (bude mať lesklejšiu kôrku) a narezať ostrým nožom (predídeme nekontrolovanému praskaniu).",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "01414c2f-2010-4ce3-9aab-6d0a16d27700",
+      "url": null,
+      "text": "Tip pre lepšiu kôrku: Na dno rúry vložíme starý plech alebo nádobu a keď do nej dáte chlieb, vylejeme do nej opatrne pol hrnčeka horúcej vody. Vzniknutá para vytvorí krásnu chrumkavú kôrku.",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "10a10ab9-d8c6-44f5-8764-7ee7039efb4a",
+      "url": null,
+      "text": "Pečieme cca 35–45 minút. Chlieb je hotový, keď po zaklopaní na spodnú stranu znie duto.",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Slané pečivo "
+  ],
+  "imageFilename": "01b31e8b-c1b5-473b-996d-248a2981fa6a.png"
+}

@@ -1,0 +1,127 @@
+{
+  "recipe": {
+    "id": "52e055ca-9ccd-4d5a-bc9b-97516af67546",
+    "created_at": "2026-05-20T17:13:44.014+00:00",
+    "updated_at": "2026-05-20T17:13:44.014+00:00",
+    "title": "Jablkový šalát",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F52e055ca-9ccd-4d5a-bc9b-97516af67546%2Fec122071-299e-4433-b0a9-a32004bdd680.png?alt=media&token=0bb0c2d9-84b7-49c5-9b87-3df944f22a75",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "c2ee41b8-d843-4ec0-a16f-fa6480a90379",
+      "text": "jablká",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "jablká",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8ba4031d-84f9-4326-9450-3439c330a072",
+      "text": "cibuľa (biela)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "cibuľa (biela)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "653bb937-551c-4577-a78e-60e1e228bffe",
+      "text": "kukurica",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kukurica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "eab595d0-f134-4aa8-95a0-428a72b72d88",
+      "text": "majolka",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "majolka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "036f02bf-3a5e-41ad-9d83-003dc7327c3b",
+      "url": null,
+      "text": "Jablká nakrájame na kocky. Cibuľu nakrájame na malé kocky. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "1bc6fb9d-8ec3-493f-bf68-b10729da3363",
+      "url": null,
+      "text": "Pridáme kukuricu, zalejeme majolkou a premiešame. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "bcca7515-8531-404e-a50c-90d41ec6e52a",
+      "url": null,
+      "text": "Dáme do chladničky.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Šaláty"
+  ],
+  "imageFilename": "52e055ca-9ccd-4d5a-bc9b-97516af67546.png"
+}

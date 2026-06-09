@@ -1,0 +1,136 @@
+{
+  "recipe": {
+    "id": "5d832864-9348-4719-b6ba-b72eecc41788",
+    "created_at": "2026-05-20T17:36:12.445+00:00",
+    "updated_at": "2026-05-20T17:36:12.445+00:00",
+    "title": "Syrová miska",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F5d832864-9348-4719-b6ba-b72eecc41788%2Fed8d6753-bde0-461c-8805-46bbaddd96a4.png?alt=media&token=55c2336d-8e64-4147-9ef5-bf8ebd7465a6",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "3c475e51-5487-4d4b-a1d0-3b79420d00a9",
+      "text": "200 g tvrdý syr",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "tvrdý syr",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "69d18b4c-aa47-47bb-acc1-e8a59ed8db0a",
+      "text": "1 strúčik cesnaku",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "strúčik cesnaku",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4d4c27fc-7e5e-4aa0-84a6-450ca08fd5b6",
+      "text": "5 PL olej",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "PL olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b5c4ad88-441f-4b37-939d-9588812a4169",
+      "text": "1 PL zemiakový škrob",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "PL zemiakový škrob",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ba19ffeb-36f2-4998-ae12-5f70bad91e69",
+      "url": null,
+      "text": "Na prípravu košíka treba na jemnom strúhadle nastrúhať 200 g tvrdého syra. Zmiešame so zemiakovým škrobom, pridáme drvený cesnak podľa chuti. Môže sa použiť iba strúhaný syr bez prídavku škrobu a cesnaku. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "aa81e5b0-3161-403d-ba48-db97153677d7",
+      "url": null,
+      "text": "Na zohriatu panvicu dáme olej, a dáme 2 PL nastrúhaného syra, rozotrieme rovnomerne ako keď robíme placky. Pomaly opečieme z oboch strán. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "2f6e927b-26be-4ed7-88f2-0fdeea015d82",
+      "url": null,
+      "text": "Keď je syr opečený a je z neho placka, dáme ho na pohárik alebo podľa toho aké misky chceme mať, tak si nachystáme danú nádobu. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "12259f15-17e4-4068-afd3-27d58807ab3a",
+      "url": null,
+      "text": "Po vychladnutí dáme opatrne z pohárika dolu a košík je hotový. Môžeme plniť ľubovoľne (pozor, pri naplnení teplým obsahom miska zmäkne a stratí tvar).",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá",
+    "Večere"
+  ],
+  "imageFilename": "5d832864-9348-4719-b6ba-b72eecc41788.png"
+}

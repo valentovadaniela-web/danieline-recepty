@@ -1,0 +1,343 @@
+{
+  "recipe": {
+    "id": "4d3f8e0e-3b12-48f5-b4d5-cccffd613f9c",
+    "created_at": "2026-05-30T18:40:03.267443+00:00",
+    "updated_at": "2026-05-30T18:40:03.267443+00:00",
+    "title": "Laskonky",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/4d3f8e0e-3b12-48f5-b4d5-cccffd613f9c/7313cb2b-f72f-47a0-b0be-3db25e7d333a.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "928d2082-ab03-4d5e-8a48-610e270588c9",
+      "text": "Suroviny – snehová hmota:\t",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Suroviny – snehová hmota:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b5999dc9-dc6d-45c1-ae03-3f8e98994c79",
+      "text": "200 g kryštálového cukru",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f5993713-2b42-4aa0-baf0-fee36e3cf630",
+      "text": "56 g práškového cukru",
+      "quantity": 56,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1eccc59d-6dc2-4606-990e-25ce50512f1d",
+      "text": "3 bielky (95 g)",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "bielky (95 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "14d342cd-7287-49f1-a9f3-2652ed36265d",
+      "text": "56 g vody",
+      "quantity": 56,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vody",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "b26619c2-f998-4667-996d-135cc54b11b2",
+      "text": "130 g mletých mandlí ",
+      "quantity": 130,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "mletých mandlí",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "66dfbb92-829d-426a-ae77-6ab06d22b9d6",
+      "text": "Suroviny - krém:",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "Suroviny - krém:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "bda27fed-d207-41cd-9e13-829f5d9654db",
+      "text": "107 g kryštálového cukru",
+      "quantity": 107,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "342414e1-eefc-4df9-bbf6-9a95d8250333",
+      "text": "5 g vanilínového cukru",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "vanilínového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "90c56d42-3822-4489-955a-c1fb59e18ce6",
+      "text": "1 žĺtok",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "žĺtok",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "ed366434-f625-433e-b4c7-a3b82fe240e5",
+      "text": "20 g Zlatého klasu",
+      "quantity": 20,
+      "quantity2": null,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "Zlatého klasu",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "b800b8f7-706d-4750-9352-6b1f44f56bf8",
+      "text": "190 ml mlieka ",
+      "quantity": 190,
+      "quantity2": null,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "1ca5471c-f8be-41c5-841d-729a9fb694f1",
+      "text": "250 g masla",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "365d3e36-a702-4a83-aae2-5734f241fdc9",
+      "text": "Suroviny – oriešková griláž:\t",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "Suroviny – oriešková griláž:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a2836ae9-2cf2-4a2b-a3bb-df2736bc1fc8",
+      "text": "150 g kryštálového cukru",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 14,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f423eaab-a717-462e-bf09-030075cad75a",
+      "text": "75 g opražených lieskovcov",
+      "quantity": 75,
+      "quantity2": null,
+      "sort_order": 15,
+      "category_id": null,
+      "description": "opražených lieskovcov",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "75a751f9-39b0-4ee3-9b04-66d41830c73f",
+      "url": null,
+      "text": "Laskonky",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "674ccf6b-4863-475b-ad3d-c9af8d7e516a",
+      "url": null,
+      "text": "65 g kryštálového cukru a vodu dáme variť na 114°C, kým nevzniknú husté penivé „mydlové“ bublinky (skúška pomocou drôteného očka Ø (napr. opačná strana metličky), namočíme a fúkneme – vznikne retiazka – spojené bublinky.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "20322a81-8203-490f-971d-2f7d0289f1de",
+      "url": null,
+      "text": "Bielky a 135 g kryštálového cukru vyšľaháme na tuhý sneh prilejeme uvarený cukrový rozvar, zašľaháme a mierne vychladíme.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "21f52101-1483-4182-a9e4-20c988bd6fc0",
+      "url": null,
+      "text": "Zľahka primiešame zmes preosiateho práškového cukru a mletých mandlí.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "effb7700-8c2f-420b-add4-5aab27497ebc",
+      "url": null,
+      "text": "Hmotu rozotrieme cez šablónu na 2 plechy pokryté mastným papierom.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "8b00e182-dcb0-4a6a-83b0-ca35370d928c",
+      "url": null,
+      "text": "Pri teplote 100 °C a zapnutom ventilátore sušíme približne 60 - 70 minút (spodná a 2. odvrchu poloha plechov – pred dopečením cca 50-60 min vymeniť plechy). Po usušení opatrne odlepíme, otočíme a naplníme orieškovým krémom, vždy dve spolu.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "16d730e7-5370-4e93-84fa-ffeb887ca5f4",
+      "url": null,
+      "text": "Krém",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "536167a2-597e-45c4-a77d-42b45658fd0e",
+      "url": null,
+      "text": "2/3 mlieka, kryštálový a vanilínový cukor rozmiešame, dáme variť.",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "feaf515d-4c63-4b25-b3cf-4d7d5db98fc6",
+      "url": null,
+      "text": "1/3 mlieka, Zlatý klas, žĺtok rozmiešame, zmes vlejeme do vriaceho mlieka, uvaríme základný žĺtkový krém. Za občasného premiešania vychladíme.",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "12def1f4-e0d1-4e83-98b6-a45977ac712b",
+      "url": null,
+      "text": "Do vychladnutého krému zašľaháme maslo, vznikne hladký krém, ktorý dochutíme zomletou orieškovou grilážou. Pomocou cukrárskeho vrecka plníme upečené laskonky.",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "13ec7671-92f4-4a8a-b471-445b6e9559da",
+      "url": null,
+      "text": "Oriešková griláž",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "3d839fce-2111-47de-ac9e-d454ded4e67c",
+      "url": null,
+      "text": "Opražíme lieskové orechy, odstránime šupky a pomelieme. Cukor rozpustíme na karamel, pridáme mleté opražené lieskové orechy a hotovú griláž rozotrieme na mastný papier. Necháme stuhnúť, nalámeme, pomocou mixéra zomelieme na jemno a použijeme na dochutenie krému.",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "4d3f8e0e-3b12-48f5-b4d5-cccffd613f9c.png"
+}

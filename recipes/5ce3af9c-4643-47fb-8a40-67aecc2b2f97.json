@@ -1,0 +1,191 @@
+{
+  "recipe": {
+    "id": "5ce3af9c-4643-47fb-8a40-67aecc2b2f97",
+    "created_at": "2026-05-19T20:37:03.964+00:00",
+    "updated_at": "2026-05-20T18:18:00.184+00:00",
+    "title": "Batátová polievka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F5ce3af9c-4643-47fb-8a40-67aecc2b2f97%2F815e5dad-8b12-4261-891c-a8d39d04bf76.png?alt=media&token=89d1de2d-b563-4007-a66b-f7fdf56a3e28",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 30,
+    "total_time_hours": 0,
+    "total_time_minutes": 30,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "d6c80e6c-f66b-433b-b40b-00db3c31c292",
+      "text": "4 stredne veľké mrkvy",
+      "quantity": 4,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "stredne veľké mrkvy",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4fd1a3e8-c429-4dc8-883b-d068b845b9eb",
+      "text": "2 veľké batáty",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "veľké batáty",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "809f5050-9cb1-4a83-8b70-1e2f4b99d57d",
+      "text": "1 ČL nastrúhaného zázvoru",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "ČL nastrúhaného zázvoru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d1e442f0-126b-4fd6-873f-1347174a017a",
+      "text": "2 strúčiky cesnaku",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "strúčiky cesnaku",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7dcd2dec-6876-4be0-b020-646a4d18c302",
+      "text": "olej",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7724ec1b-ef09-45d1-ae06-39830c9529e2",
+      "text": "arašidové maslo",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "arašidové maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "81ac9b2d-d0f5-42c5-ae0a-ca1994c724db",
+      "text": "kyslá smotana",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "kyslá smotana",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "386cdc4c-e2fb-42f0-9a8d-848f9588d022",
+      "text": "bazalka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "bazalka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "229d1d3e-75de-499d-8869-7da4be6500dc",
+      "url": null,
+      "text": "Batáty aj mrkvu ošúpeme a nakrájame na malé kocky (mrkvu je lepšie pokrájať na veľmi malé kúsky, lebo batáty sa rozvaria oveľa rýchlejšie). ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "1af7cdba-0c3d-40c9-9fc7-564c3a6a271c",
+      "url": null,
+      "text": "V hrnci rozohrejeme olej, na ktorom opražíme najemno nasekaný cesnak. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "40107b7c-491c-470e-af25-7887f803d49a",
+      "url": null,
+      "text": "Pridáme batáty a mrkvu, posolíme a chvíľu restujeme. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "165509b9-fff2-4ce8-aaeb-d754a1634423",
+      "url": null,
+      "text": "Pridáme zázvor, zalejeme vodou, a necháme zovrieť. Necháme jemne vrieť, dokým mrkva aj batáty nie sú mäkké. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "9186a7ce-6894-47ce-ba1d-be230f32104b",
+      "url": null,
+      "text": "Potom rozmixujeme ponorným mixérom dohladka a dochutíme maslom a soľou. Podávame s kyslou smotanou a bazalkou.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky"
+  ],
+  "imageFilename": "5ce3af9c-4643-47fb-8a40-67aecc2b2f97.png"
+}

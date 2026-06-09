@@ -1,0 +1,651 @@
+{
+  "recipe": {
+    "id": "7a4c66be-2d53-4c4b-afcd-9fe665070827",
+    "created_at": "2026-06-07T13:24:35.785113+00:00",
+    "updated_at": "2026-06-07T13:27:30.835649+00:00",
+    "title": "Veterník",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/7a4c66be-2d53-4c4b-afcd-9fe665070827/907618ed-f359-4888-898c-6973d4a184fb.png",
+    "prep_time_hours": 1,
+    "prep_time_minutes": 30,
+    "cook_time_hours": 2,
+    "cook_time_minutes": 30,
+    "total_time_hours": 4,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": "Prepočet na 8 ks: 🥯 Odpaľované cesto\nvoda: 100 ml\nmlieko: 100 ml\nmaslo: 80 g\nkryštálový cukor: 5 g\nsoľ: štipka\nhladká múka: 120 g\nvajcia: 3–4 ks (cca 180–200 g)\n🍮 Vanilkový diplomat krém\nmlieko: 150 ml\ncukor: 30 g\nkukuričný škrob / Zlatý klas: 15 g\nžĺtok: 1–2 ks\nmaslo: 25 g\nsmotana 33 %: 100 ml\n🍯 Karamelová šľahačka\nkryštálový cukor: 40 g\nsmotana 33 % (do karamelu): 70 ml\nsmotana 33 % (na šľahanie): 170 ml\nštipka soli\n🍬 Fondánovo-karamelová poleva\nfondánová hmota: 100 g\nkryštálový cukor: 30 g\nsmotana 33 %: 20 ml\nvoda: 10–15 ml\nmaslo: 5 g",
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "02aebd08-79d8-4c97-aebe-546ad977f02f",
+      "text": "ODPAĽOVANÉ CESTO:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "ODPAĽOVANÉ CESTO:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2dd65116-ad6d-4732-8535-89ff03d74895",
+      "text": "250 ml voda",
+      "quantity": 250,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "voda",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "d435565f-db9b-4e9b-b313-d89905de915c",
+      "text": "250 ml mlieko",
+      "quantity": 250,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "mlieko",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "e1ad6ccc-119a-4b1e-a0c6-53c683e1affb",
+      "text": "200 g maslo ",
+      "quantity": 200,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1e7c5c8b-e728-4a06-a680-6909612d86dc",
+      "text": "2 g soľ (štipka)",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "soľ (štipka)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "edf74608-d299-4fc7-897d-a1e5a145c151",
+      "text": "10 g kryštálový cukor ",
+      "quantity": 10,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "382b2462-b5c9-41a0-99bd-e9ff92e3fb48",
+      "text": "300 g hladká múka ",
+      "quantity": 300,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "hladká múka",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "aaee5935-0e14-4a74-82ff-3b34e4d7d769",
+      "text": "8–10 ks vajcia (cca 450–500 g bez škrupiny)",
+      "quantity": 8,
+      "quantity2": 10,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "ks vajcia (cca 450–500 g bez škrupiny)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2a9436af-bf0f-4bbb-a979-86605ecba5a2",
+      "text": "VANILKOVÝ DIPLOMAT KRÉM:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "VANILKOVÝ DIPLOMAT KRÉM:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "476e0069-559a-4b83-8358-5c6b2241a64c",
+      "text": "600 ml mlieko",
+      "quantity": 600,
+      "quantity2": 0,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "mlieko",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "64754e38-70c4-4433-9dbf-9381d120b45e",
+      "text": "6 ks žĺtky ",
+      "quantity": 6,
+      "quantity2": 0,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "ks žĺtky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "465751b5-d981-49c4-82fd-7ffb0dffcd30",
+      "text": "120 g kryštálový cukor ",
+      "quantity": 120,
+      "quantity2": 0,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "265297dd-6676-482f-bf91-c40f4de3eefb",
+      "text": "60 g kukuričný škrob / Zlatý klas ",
+      "quantity": 60,
+      "quantity2": 0,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "kukuričný škrob / Zlatý klas",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1cac7e18-2eba-4107-a349-8acae70a2250",
+      "text": "vanilka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "vanilka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4bfa244a-f47c-4df1-b674-729d97db999c",
+      "text": "400 ml smotana 33 % ",
+      "quantity": 400,
+      "quantity2": 0,
+      "sort_order": 14,
+      "category_id": null,
+      "description": "smotana 33 %",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "362a8d77-66e4-4e4b-8c45-c1d352480a29",
+      "text": "100 g maslo",
+      "quantity": 100,
+      "quantity2": 0,
+      "sort_order": 15,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "5d56c829-fcb4-4a20-a0cf-a972b73f786a",
+      "text": "KARAMELOVÁ ŠĽAHAČKA:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 16,
+      "category_id": null,
+      "description": "KARAMELOVÁ ŠĽAHAČKA:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "441f11ae-b23a-450b-9547-48b4c3477f40",
+      "text": " 120 g kryštálový cukor",
+      "quantity": 120,
+      "quantity2": 0,
+      "sort_order": 17,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a99888a4-73c9-48a5-9843-febf257a628d",
+      "text": "200 ml smotana 33 % (do karamelu)",
+      "quantity": 200,
+      "quantity2": 0,
+      "sort_order": 18,
+      "category_id": null,
+      "description": "smotana 33 % (do karamelu)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "59d71ad3-5765-4252-86e7-a9c1f3a6c316",
+      "text": "500 ml smotana 33 % (na šľahanie)",
+      "quantity": 500,
+      "quantity2": 0,
+      "sort_order": 19,
+      "category_id": null,
+      "description": "smotana 33 % (na šľahanie)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "cfda34ca-c881-4962-8296-f4a25c7800e7",
+      "text": "štipka soli",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 20,
+      "category_id": null,
+      "description": "štipka soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "02de50ec-cb02-42da-897f-ee9a0cdaeae8",
+      "text": "KARAMELOVÁ FONDÁNOVÁ POLEVA:",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 21,
+      "category_id": null,
+      "description": "KARAMELOVÁ FONDÁNOVÁ POLEVA:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c76c3494-4ecb-4c1d-8ac9-520997720f4b",
+      "text": "250 g fondánová hmota (s glukózou) ",
+      "quantity": 250,
+      "quantity2": 0,
+      "sort_order": 22,
+      "category_id": null,
+      "description": "fondánová hmota (s glukózou)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "8f7a4c2a-cc57-48c8-b8aa-2652029ec475",
+      "text": "80 g kryštálový cukor ",
+      "quantity": 80,
+      "quantity2": 0,
+      "sort_order": 23,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "883a9e25-2e63-42be-aae2-2bbe555b3565",
+      "text": "50 ml smotana 33 % ",
+      "quantity": 50,
+      "quantity2": 0,
+      "sort_order": 24,
+      "category_id": null,
+      "description": "smotana 33 %",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "c7159485-eb35-4bf6-9f73-72bc68b50ca7",
+      "text": "30–40 ml voda (úprava konzistencie)",
+      "quantity": 30,
+      "quantity2": 40,
+      "sort_order": 25,
+      "category_id": null,
+      "description": "voda (úprava konzistencie)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "25dbe503-fd9d-4584-82f3-6df8d24d7164",
+      "text": "10 g maslo",
+      "quantity": 10,
+      "quantity2": 0,
+      "sort_order": 26,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "300140f1-51bd-48f0-a49e-d0446ece9e53",
+      "text": "10–20 g biela čokoláda (voliteľné, stabilita)",
+      "quantity": 10,
+      "quantity2": 20,
+      "sort_order": 27,
+      "category_id": null,
+      "description": "biela čokoláda (voliteľné, stabilita)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f9d5311d-ccbc-40c9-bb55-26da7a5906ec",
+      "text": "pár kvapiek citrónová šťava ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 28,
+      "category_id": null,
+      "description": "pár kvapiek citrónová šťava",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "c1c83643-62f2-4f3e-9bb3-f49eb3105920",
+      "url": null,
+      "text": "Veterníky:",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": true
+    },
+    {
+      "id": "f65b5355-3afd-4dc9-a558-2fae98b36fe8",
+      "url": null,
+      "text": "Do hrnca dáme 250 ml vody + 250 ml mlieka + 200 g masla + 10 g cukru + štipku soli. Zohrejeme na 100 °C (var).",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5b361671-fce6-4a4f-bf96-98f7b96be753",
+      "url": null,
+      "text": "Prisypeme 300 g hladkej múky naraz.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "fc17cd15-129e-46ac-b928-cc1fcd7dd845",
+      "url": null,
+      "text": "Miešame 2–3 min, kým sa cesto oddeľuje od hrnca. Cesto „osmažíme“ na dne (tenký film).",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "c86047b0-4f7e-4061-bc7b-bff120d24060",
+      "url": null,
+      "text": "Presunieme cesto do robota. Ochladíme na cca 45 °C (vlažné na dotyk).",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "66d3c078-dc86-45e2-a09f-020fa3bcb144",
+      "url": null,
+      "text": "Pridáme 8–10 vajec (450–500 g) po jednom. Každé vajce zapracujeme až do úplného spojenia. Správna konzistencia je, ak cesto padá zo stierky v „V tvare“, drží špičku, nerozteká sa. Jeden kus 6,5 - 7 cm, rozostupy cca 6 cm.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "af58b588-12bb-4c80-b4cb-22256bf0a5be",
+      "url": null,
+      "text": "Pečieme 10 min pri 200 °C (nárast), potom 20–25 min pri 180–190 °C (dosušenie). Neotvárať rúru prvých 20 min. Veterník musí byť zlatohnedý a suchý. Dosušiť v pootvorenej rúre 5–10 min. Vyberieme na mriežku.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "d8397168-ab76-45b9-b6e8-ed9cbe0f3a05",
+      "url": null,
+      "text": "VANILKOVÝ DIPLOMAT KRÉM (môžeme robiť paralelne s cestom)",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "0156b7f7-74f3-4bc4-a3a0-1dea156fb209",
+      "url": null,
+      "text": "Uvaríme krém z 600 ml mlieka + 120 g cukru + 60 g škrobu + 6 žĺtkov.",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "7e17ff1c-ddac-4a1e-8a8e-c9c6fd5b159e",
+      "url": null,
+      "text": "Zakryjeme fóliou a ochladíme na 4–6 °C.",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "6c70b2e1-ccae-4b02-881e-05f4bc587b98",
+      "url": null,
+      "text": "Vymiešame 100 g masla do peny.",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "15977a52-3503-49c6-a5c6-220008a94c85",
+      "url": null,
+      "text": "Zapracujeme puding do masla. Hmoty musia mať rovnakú teplotu.",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    },
+    {
+      "id": "f659c54b-a647-4b9f-97a6-187ef5d7b92d",
+      "url": null,
+      "text": "Vyšľaháme 400 ml smotany do mäkkých špičiek. Jemne ju zapracujeme.",
+      "image_url": null,
+      "sort_order": 12,
+      "is_group_header": false
+    },
+    {
+      "id": "48f93daa-41fc-4d29-b841-5963780c65d2",
+      "url": null,
+      "text": "KARAMELOVÁ ŠĽAHAČKA (môžeme robiť paralelne s krémom)",
+      "image_url": null,
+      "sort_order": 13,
+      "is_group_header": false
+    },
+    {
+      "id": "9c2eff00-eb62-48f0-901f-da7f3f3077ff",
+      "url": null,
+      "text": "Upálime 120 g cukru na svetlý karamel.",
+      "image_url": null,
+      "sort_order": 14,
+      "is_group_header": false
+    },
+    {
+      "id": "e2942a01-7aad-415b-ae5d-ef6989b134a5",
+      "url": null,
+      "text": "Zalejeme 200 ml horúcej smotany.",
+      "image_url": null,
+      "sort_order": 15,
+      "is_group_header": false
+    },
+    {
+      "id": "b43c916f-3779-416e-a1b7-139c230967b4",
+      "url": null,
+      "text": "Miešame do hladka.",
+      "image_url": null,
+      "sort_order": 16,
+      "is_group_header": false
+    },
+    {
+      "id": "86b3dd60-5b20-49ce-b7f2-1b0426ee3a8f",
+      "url": null,
+      "text": "Ochladíme minimálne 1–2 hod (ideálne 12 h).",
+      "image_url": null,
+      "sort_order": 17,
+      "is_group_header": false
+    },
+    {
+      "id": "02d57fad-7f9f-434e-922a-8cc469cb6c3f",
+      "url": null,
+      "text": "Vyšľaháme 500 ml smotany.",
+      "image_url": null,
+      "sort_order": 18,
+      "is_group_header": false
+    },
+    {
+      "id": "cf2401db-4b28-412d-8ab6-e0924f8e1596",
+      "url": null,
+      "text": "Zapracujeme karamel do pevnej peny.",
+      "image_url": null,
+      "sort_order": 19,
+      "is_group_header": false
+    },
+    {
+      "id": "5726ac77-5472-4061-bb01-020e6a8b32c6",
+      "url": null,
+      "text": "Rozkrojíme veterníky vodorovne.",
+      "image_url": null,
+      "sort_order": 20,
+      "is_group_header": false
+    },
+    {
+      "id": "c415c5b5-58e7-44e9-a8ba-5521ae852cfd",
+      "url": null,
+      "text": "Striekame žĺtkový krém (cca 25–30 g / ks), naňho karamelovú šľahačku (cca 20–25 g / ks).",
+      "image_url": null,
+      "sort_order": 21,
+      "is_group_header": false
+    },
+    {
+      "id": "c8cf7010-1c28-4b32-add5-68070b6a87e4",
+      "url": null,
+      "text": "FONDÁNOVÁ KARAMELOVÁ POLEVA",
+      "image_url": null,
+      "sort_order": 22,
+      "is_group_header": false
+    },
+    {
+      "id": "f2f65640-06a1-4f05-8074-b1fc0b602b19",
+      "url": null,
+      "text": "Upálime karamel, zalejeme smotanou, zmiešame s maslom.",
+      "image_url": null,
+      "sort_order": 23,
+      "is_group_header": false
+    },
+    {
+      "id": "b943baa9-4858-4e82-925c-678459cc37cf",
+      "url": null,
+      "text": "Fondán zahrejeme na 40–45 °C.",
+      "image_url": null,
+      "sort_order": 24,
+      "is_group_header": false
+    },
+    {
+      "id": "a068b614-97c7-491a-ae04-aec8d8b26d93",
+      "url": null,
+      "text": "Zmiešame s karamelovým základom.",
+      "image_url": null,
+      "sort_order": 25,
+      "is_group_header": false
+    },
+    {
+      "id": "ea6f4b98-fb2a-4b52-ba1e-ad079e1bec85",
+      "url": null,
+      "text": "Upravíme vodou na konzistenciu hustého jogurtu.",
+      "image_url": null,
+      "sort_order": 26,
+      "is_group_header": false
+    },
+    {
+      "id": "aa9f32f8-3ffd-4c81-9cd1-86cc88eac478",
+      "url": null,
+      "text": "Pracovná teplota: 30–32 °C.",
+      "image_url": null,
+      "sort_order": 27,
+      "is_group_header": false
+    },
+    {
+      "id": "158dd3af-d12d-46b3-aa0b-b03863fda346",
+      "url": null,
+      "text": "Vrch veterníka namočíme do polevy, necháme 5–10 sekúnd odkvapkať a uložíme na mriežku.",
+      "image_url": null,
+      "sort_order": 28,
+      "is_group_header": false
+    },
+    {
+      "id": "144bd91a-5bba-4ea3-9c6a-8fe7f214cffd",
+      "url": null,
+      "text": "Po vyschnutí priklopíme vrchnú časť na veterníky.",
+      "image_url": null,
+      "sort_order": 29,
+      "is_group_header": false
+    },
+    {
+      "id": "ce045155-d460-4776-9693-e04afcbac3fb",
+      "url": null,
+      "text": "",
+      "image_url": null,
+      "sort_order": 30,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "7a4c66be-2d53-4c4b-afcd-9fe665070827.png"
+}

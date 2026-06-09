@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "id": "86c5eedb-3381-4874-b4de-6254734d2992",
+    "created_at": "2026-05-19T21:14:19.497+00:00",
+    "updated_at": "2026-06-06T14:39:06.484152+00:00",
+    "title": "Burizónové guličky",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F86c5eedb-3381-4874-b4de-6254734d2992%2F0360e7ed-e8d0-4c30-b424-bcef196f3edf.png?alt=media&token=6a042cf1-e0e1-4cb0-8e19-e6b5ad54f14a",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": "Zmesou môžeme naplniť fóliou vystlanú formu na srnčí chrbát a po vychladnutí nakrájať na rezy.",
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "526e9e23-ab58-4466-a6ae-8c4c60908994",
+      "text": "300 g kryštálového cukru",
+      "quantity": 300,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "f8192bf0-9fbb-4141-81ec-bdafe02daf00",
+      "text": "1 konzerva sladeného kondenzovaného mlieka",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "konzerva sladeného kondenzovaného mlieka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f7c698b9-607c-45f4-9c38-d031197b49b5",
+      "text": "2 balíčky burizónov",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "balíčky burizónov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8102ba1f-f071-45d7-bf08-89de5d928488",
+      "text": "125 g masla",
+      "quantity": 125,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "f55ccf56-e7b9-4db8-a745-df16b8237d2b",
+      "url": null,
+      "text": "Cukor na miernom ohni rozpustíme a miešame, kým neskaramelizuje. Pridáme sladené kondenzované mlieko, povaríme a odstavíme z ohňa. Pridáme maslo, burizóny a zľahka miešame. Pomocou lyžice, namočenej v chladnej vode tvarujeme guľky, ktoré necháme postáť na chladnom mieste. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky ",
+    "Koláče bez krému"
+  ],
+  "imageFilename": "86c5eedb-3381-4874-b4de-6254734d2992.png"
+}

@@ -1,0 +1,132 @@
+{
+  "recipe": {
+    "id": "2a2beaab-3026-43ff-86b0-a4738347a254",
+    "created_at": "2026-06-05T20:02:37.482399+00:00",
+    "updated_at": "2026-06-05T20:02:37.482399+00:00",
+    "title": "Palmeritas",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/2a2beaab-3026-43ff-86b0-a4738347a254/42ec784b-2c0b-4f7b-9166-67be8e8877e6.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "19714b52-d366-4aa7-8f49-43be02df6588",
+      "text": "1 lístkové cesto",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "lístkové cesto",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "29b76a9b-e577-4ae7-8612-600805612b0c",
+      "text": "2 lyžice kryštálového cukru (môže byť vanilkový)",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "lyžice kryštálového cukru (môže byť vanilkový)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d07d4205-e340-4b2c-b19a-449cb84e89bf",
+      "text": "2 lyžice hnedého cukru (môže byť škoricový)",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "lyžice hnedého cukru (môže byť škoricový)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "051636c5-142f-4b8c-b1af-3746c5e90b39",
+      "url": null,
+      "text": "Rozvaľkané lístkové cesto na papieri na pečenie posypeme 1 PL kryštálového cukru a 1 PL hnedého cukru. Lyžicou alebo valčekom povtláčame cukor do cesta. Prikryjeme druhým papierom na pečenie, otočíme a aj z tejto strany posypeme PL kryštálového a 1 PL hnedého cukru, ktorý povtláčame do cesta.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "8fa84c24-6c2f-40bb-9e1c-281eb7b8571f",
+      "url": null,
+      "text": "Dlhšie strany cesta zahneme z oboch strán až k stredu. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "b7aeb5d1-a7d9-4e7a-84bc-f3d6b4da6042",
+      "url": null,
+      "text": "Posypeme cukrom a znovu preložíme od krajov do stredu. Posypeme cukrom a tentoraz preložíme celé z jednej strany. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "8fff77df-1f71-44e2-9569-46f3a3bd18f2",
+      "url": null,
+      "text": "Nakrájame na cca 1 cm hrubé pláty. Uložíme na plech vystlaný papierom na pečenie v dostatočných vzdialenostiach (cca 3 x 4 ks na plech).",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "b0237372-f116-420c-8b57-9411b2cc327c",
+      "url": null,
+      "text": "Upečieme v predhriatej rúre na 180 °C cca 20 min do zlatista.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "2a2beaab-3026-43ff-86b0-a4738347a254.png"
+}

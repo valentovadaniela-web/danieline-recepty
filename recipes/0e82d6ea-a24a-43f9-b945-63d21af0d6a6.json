@@ -1,0 +1,275 @@
+{
+  "recipe": {
+    "id": "0e82d6ea-a24a-43f9-b945-63d21af0d6a6",
+    "created_at": "2026-05-28T19:42:43.138607+00:00",
+    "updated_at": "2026-05-28T19:42:43.138607+00:00",
+    "title": "Kysnutý kvet",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/0e82d6ea-a24a-43f9-b945-63d21af0d6a6/2d4a91b5-aa9f-4626-96d8-06daa2679850.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": "https://varecha.pravda.sk/recepty/kysnuty-kvet-fotorecept/3816-recept.html",
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "af5cdf18-a08d-4ab0-93d6-902e05ca3c49",
+      "text": "Suroviny - cesto:\t",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Suroviny - cesto:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9f509ead-ed3e-47de-9201-98520194bb4f",
+      "text": "500g hladkej múky",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "hladkej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "04cee897-63c3-4fea-8189-86e55903d89d",
+      "text": "½ droždia",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "droždia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cdb93983-16ec-418b-8a86-574a4899920d",
+      "text": "250 ml teplého mlieka",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "teplého mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "23c9bffb-fd30-46fb-8a28-eb42bb7df9be",
+      "text": "1 ČL cukru",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "ČL cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4ddd41cb-28c4-44ab-91d7-dc7123d0c476",
+      "text": "2 ČL soli",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "ČL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "86e6537e-09a5-4806-a303-1557d6777ac2",
+      "text": "70 ml oleja",
+      "quantity": 70,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "oleja",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "8e3896b3-9cf1-4a7a-bc74-ef738b3cdcae",
+      "text": "Suroviny - plnka:\t",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "Suroviny - plnka:",
+      "is_group_header": true,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "84908f34-fab5-4ed7-a4e2-3bdb84477635",
+      "text": "80 g Hery (masla)",
+      "quantity": 80,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "Hery (masla)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "fa1f182a-8849-456d-bd2e-c573cf0a5b68",
+      "text": "1,5 hlávky pretlačeného cesnaku",
+      "quantity": 1.5,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "hlávky pretlačeného cesnaku",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d6be3800-b105-4b3a-8696-78bf78dbc048",
+      "text": "vegeta / soľ (max 1 ČL)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "vegeta / soľ (max 1 ČL)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "67a52f9f-01e9-4982-a869-6e835e1a7f17",
+      "url": null,
+      "text": "Cesto si po vykysnutí rozdelíme na 2 veľké časti a jednu malú. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "7de5f1c5-0b13-4c27-b8fc-e689e451bf96",
+      "url": null,
+      "text": "Prvú veľkú časť rozdelíme na 4 ks a vyvaľkáme placky (cca 18 cm), 3 potrieme plnkou a naukladáme na seba. Posledný vrchný plát musí byť väčší, aby sme ním mohli prekryť zvyšné 3. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5fbfa952-9d81-4111-bf9d-bc7323b1fbe8",
+      "url": null,
+      "text": "Dáme na plech (do 30 cm tortovej formy) a narežeme na 16 trojuholníkov (nie až po okraj). ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "e78cff01-d594-4018-ae72-5e60cfe149ee",
+      "url": null,
+      "text": "Zvnútra vyhneme všetky cípy von. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "29b9c950-e64a-4825-9e60-7ddf50800e99",
+      "url": null,
+      "text": "S druhým veľkým cestom to opakujeme (musí byť menšie, cca 13 cm) a vložíme dovnútra. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "99d60073-4d8b-43d0-870e-c5ffec472879",
+      "url": null,
+      "text": "Narežeme tak, aby boli cípy na striedačku s predchádzajúcimi a vyhneme von. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "57fa1a18-b5ae-4195-a133-715b6d28f099",
+      "url": null,
+      "text": "S posledným malým kúskom cesta urobíme to isté (cca 8 cm) a vložíme do stredu. Ale nenarezávame.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "7cc26129-4b31-4190-974e-b0f16cb25d1f",
+      "url": null,
+      "text": " Necháme ½ hodinu podkysnúť. ",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "f3eaf467-09d5-41bd-a676-384cefaa49b5",
+      "url": null,
+      "text": "Potrieme vyšľahaným vajíčkom a posypeme semienkami. ",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "a2b1daaa-2331-4847-bcc6-9ca882994667",
+      "url": null,
+      "text": "Odoberieme okraj tortovej formy. ",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "00ace5fc-0f19-4e41-bdcc-258826041b1c",
+      "url": null,
+      "text": "Pečieme 22-25 min na 190°C. ",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Slané pečivo "
+  ],
+  "imageFilename": "0e82d6ea-a24a-43f9-b945-63d21af0d6a6.png"
+}

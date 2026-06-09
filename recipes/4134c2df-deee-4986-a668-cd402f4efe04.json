@@ -1,0 +1,180 @@
+{
+  "recipe": {
+    "id": "4134c2df-deee-4986-a668-cd402f4efe04",
+    "created_at": "2026-05-22T18:44:53.572+00:00",
+    "updated_at": "2026-05-22T18:44:53.572+00:00",
+    "title": "Rybací paprikáš",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F4134c2df-deee-4986-a668-cd402f4efe04%2Fca2ede1b-0532-45a1-bd03-c1d9f6ecfe13.png?alt=media&token=a6068272-4047-4e0c-aeb8-21d4f479fc4f",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "5ca0137a-45a5-4360-b194-6a836c562d08",
+      "text": "60 g masti (2 PL)",
+      "quantity": 60,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "masti (2 PL)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1a73dbcb-1fbe-437c-8699-103f857d34a3",
+      "text": "1 veľká cibuľa",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "veľká cibuľa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e1a3e8f6-b9ef-41ff-a450-c2eec6edb852",
+      "text": "1 PL sladkej papriky",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "PL sladkej papriky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3744caab-d43c-4231-8818-e07f2926c3ab",
+      "text": "750 g ryby (napr. pangasius - 3 filety) ",
+      "quantity": 750,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "ryby (napr. pangasius - 3 filety)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a36bf67b-1581-482c-a7af-220576bbfd91",
+      "text": "1 PL soli",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "PL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "79b63ead-2826-4e3c-8a87-7f4a5c18c216",
+      "text": "čili paprika",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "čili paprika",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "28a875a3-dff5-4ab3-96fa-48d0e70b9d8a",
+      "text": "0,25 l šľahačky",
+      "quantity": 0.25,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "šľahačky",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "1e4a0f64-69d1-4156-a450-dd081fd03038",
+      "url": null,
+      "text": "Nadrobno nakrájanú cibuľu speníme na masti, poprášime sladkou paprikou a len chvíľku popražíme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f83cae75-cdf7-4259-9df3-918a3a8fb080",
+      "url": null,
+      "text": "Pridáme na kúsky nakrájanú rybu, osolíme, zalejeme malým množstvom vody a udusíme domäkka. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "304f35be-73c7-4005-89a9-595bc6a3f7a7",
+      "url": null,
+      "text": "Prisypeme čili (podľa chuti, aj 2 PL ak má byť paprikáš štipľavý). ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "39e18640-0516-487d-b812-88917269b79d",
+      "url": null,
+      "text": "Po prevretí dolejeme šľahačku a necháme paprikáš znovu prevrieť.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "8ae7c708-82e3-402d-ac3b-94055f0317db",
+      "url": null,
+      "text": "Podávame s čerstvým chlebom.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "4134c2df-deee-4986-a668-cd402f4efe04.png"
+}

@@ -1,0 +1,163 @@
+{
+  "recipe": {
+    "id": "8bce6510-2c0a-4764-ae51-3acaf0f3e85e",
+    "created_at": "2026-05-28T18:04:12.06359+00:00",
+    "updated_at": "2026-05-28T18:06:48.130634+00:00",
+    "title": "Hriatô",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/8bce6510-2c0a-4764-ae51-3acaf0f3e85e/a45e5e0a-7b87-4e7b-a19a-41f8fc8568ee.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "9f31a052-6f1c-48d8-bbb3-effee71cd9f2",
+      "text": "kryštálový cukor",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1ad799d4-07db-4fa3-bbc1-2b2afea8dcf3",
+      "text": "vodka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vodka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cbd0ba36-7050-4f0f-abb2-8fe2926cf748",
+      "text": "klinčeky",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "klinčeky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "30bb79ec-6a8c-4470-8728-f46894970ee1",
+      "text": "škorica",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "škorica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "da56a8f8-60be-457f-92af-fbda86c255d1",
+      "text": "vlašský orech",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vlašský orech",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "daf16179-fa5d-44b2-9b07-9c4e99c6299d",
+      "text": "kandizovaná pomarančová kôra",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "kandizovaná pomarančová kôra",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8517243a-a9fd-418c-9070-2d732aae4547",
+      "text": "vanilka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "vanilka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "2fa73cd3-2a59-43e2-8288-f044e9c330f7",
+      "url": null,
+      "text": "Upálime na karamel toľko lyžíc cukru, koľko máme dcl vodky. Pridáme niekoľko klinčekov, kúsok škorice, asi ½ vlašského orecha, kúsok kandizovanej pomarančovej kôry, kúsok vanilky.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "16a8b1f9-429c-4244-abdc-312e1c829f78",
+      "url": null,
+      "text": "Zalejeme polovičným množstvom vody (t.j. na ½ l vodky  ¼ l vody). Keď sa karamel rozpustí a voda zovrie, opatrne prilejeme vodku. Keď začne vrieť, odstavíme a prikryjeme.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "62290528-2eae-4832-9645-03201a1c1294",
+      "url": null,
+      "text": "Počkáme, kým sa koreniny usadia a prelejeme. Pijeme teplé alebo studené",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nápoje"
+  ],
+  "imageFilename": "8bce6510-2c0a-4764-ae51-3acaf0f3e85e.png"
+}

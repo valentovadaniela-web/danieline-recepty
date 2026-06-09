@@ -1,0 +1,147 @@
+{
+  "recipe": {
+    "id": "1f7ea012-5e27-448d-8b82-c02be49e0243",
+    "created_at": "2026-05-28T19:23:39.347607+00:00",
+    "updated_at": "2026-05-28T19:23:39.347607+00:00",
+    "title": "Švajčiarsky maslový krém",
+    "description": "na (18 -24 menších cupcakov, ak vzor ruže (1M) - 15 košíčkov)",
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/1f7ea012-5e27-448d-8b82-c02be49e0243/612b60af-98bc-47ad-9578-2bbbd31c3f29.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": 3,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": "Pri miešaní snehu je dôležité, aby sa do hmoty nedostala žiadna špina alebo tuk. Ak by tam bola špinka alebo tuk, sneh sa poriadne nevymieša. Misku a všetko, čo pri mixovaní snehu použijete, môžete vytrieť citrónovou šťavou. \nMaslo musí byť izbovej teploty (zmäknuté, ale stále chladné) a sneh nesmie byť teplý predtým ako začnete primiešavať maslo. Ak by bolo maslo príliš studené, krém sa môže zraziť. Ak by bol krém príliš teplý, tak by sa zase maslo roztopilo. Ak chcete ochladnutie snehu pri mixovaní urýchliť, dajte si pod misku studený kúpeľ. Ak ste náhodou pridali maslo ešte predtým ako sneh ochladol a maslo sa vám roztopilo, tak to ešte môžete zachrániť. Dajte krém do chladničky na 20 minút ochladnúť a potom miešajte ďalej. Ak sa krém zrazil, dajte ho na chvíľu nad paru, zrazeniny sa stratia a bude zas hladký.\nTaktiež je dôležité pridávať do krému maslo po troškách a nie veľa na raz. Premiešať a zase pridať trošku. \nMôžete premiešať kvapku alebo dve farbiva s troškou krému a dať na 8 sekúnd do mikrovlnky a toto premiešať s ostatným krémom, farba bude oveľa sýtejšia.\nTento krém môžete držať v izbovej teplote okolo 2 dní, v chladničke okolo 5 dní a v mrazničke okolo mesiaca. Keď ho vyberiete z chladničky alebo mrazničky, nechajte ho otepliť do izbovej teploty a znovu premiešajte mixérom okolo 2 až 3 minút. Ak by sa zrazil, stačí ho nahriať nad parou, hrčky sa rozpustia a krém bude zase hladký.",
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "b2cfbcee-6b3d-452d-9ad5-ae21c89e2218",
+      "text": "4 bielky (132 g, 1 bielok = 33 g)",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "bielky (132 g, 1 bielok = 33 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e043237b-0680-499e-9309-4e1f724e7fea",
+      "text": "300 g kryštálového cukru",
+      "quantity": 300,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "240777b0-177e-4dd3-990d-174368435575",
+      "text": "400 g masla izbovej teploty (vybrať z chladničky cca 2 hod predtým)",
+      "quantity": 400,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "masla izbovej teploty (vybrať z chladničky cca 2 hod predtým)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "ec38d34d-4edb-4aaa-ae87-d175ee155a32",
+      "text": "príchuť: 200 g ovocné pyré / 200 g lemon curd / 50 – 100 g pistáciová pasta / 80 ml instantná káva...",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "príchuť: 200 g ovocné pyré / 200 g lemon curd / 50 – 100 g pistáciová pasta / 80 ml instantná káva...",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "ba023189-c058-4ec8-96b0-f711f61ee0aa",
+      "text": "potravinárske farbivo (gélové jedlé farbivá, nie tekuté)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "potravinárske farbivo (gélové jedlé farbivá, nie tekuté)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "acdbe36b-eee0-4e3d-a7d8-a76ad2905c89",
+      "url": null,
+      "text": "Oddelíme bielka od žĺtkov. V miske premiešame bielky s cukrom. V panvici si zohrejeme vodu na kúpeľ a dáme misku nad vodu tak, aby sa miska nedotýkala vody. Zmes budeme zohrievať parou z vriacej vody pri stálom miešaní. Miešame, kým sa cukor nerozpustí. Zmes by mala dosiahnuť teplotu 60 - 70 °C (ak má byť krém pasterizovaný a bezpečný aj pre deti), t.j. cca 7 min. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "214affbd-34b8-49a0-8a8f-b72252495c47",
+      "url": null,
+      "text": "Dáme do misky na šľahanie a mixujeme do veľmi hustej konzistencie cca 15 - 25 min. Zmes bude pekne lesklá a keď otočíme nástavec mixéra, špice by mali stáť. Ak sneh nechce stuhnúť, necháme zmes na chvíľu ochladiť v chladničke alebo vložíme misu do studenej vody.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "e33c3adf-8e81-420f-a9e5-6744299427f6",
+      "url": null,
+      "text": "Krém musí pri mixovaní ochladnúť predtým ako môžeme pridať maslo (izbovej teploty). Ináč by sa nám maslo roztopilo alebo krém zrazil. Do vychladnutého snehu pridávame po troške maslo a mixujeme ďalej.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "4cd38fd6-19f7-450c-b0b5-753c1244ed1e",
+      "url": null,
+      "text": "Po pridaní masla môže krém vyzerať ako keby sa zrazil, ale toto je len prechod. Mixujeme ďalej a krém sa spojí a bude jemný. Len je potrebné miešať ďalej. Teraz môžeme krém prichutiť alebo zafarbiť. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "1f7ea012-5e27-448d-8b82-c02be49e0243.png"
+}
