@@ -1,0 +1,115 @@
+{
+  "recipe": {
+    "id": "dbeaea3d-b0c4-4b9a-b1b3-1c8111c68d28",
+    "created_at": "2026-05-28T18:42:36.45038+00:00",
+    "updated_at": "2026-05-28T18:42:36.45038+00:00",
+    "title": "Rezance",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/dbeaea3d-b0c4-4b9a-b1b3-1c8111c68d28/c571b711-72e1-460b-9da8-3a8b4b8b5190.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "003eb0db-7a34-444e-a86a-ee2a3d618c22",
+      "text": "6 vajec",
+      "quantity": 6,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "vajec",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "75bb5232-6a69-4b57-8052-71fc541f5756",
+      "text": "1 kg polohrubej múky",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "polohrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "7747eb29-0bb2-4ec7-99b1-9487b46c94b8",
+      "text": "1 ČL soli",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "ČL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "dfd30a65-402e-41e6-a9a9-b01c74c127a7",
+      "url": null,
+      "text": "Suroviny vymiesime (ručne, v robote alebo v pekárni). Cesto spracujeme do valca. Z valca si odkrojíme 4 - 5 ks placiek (cca 1 cm) a tie trochu rozvaľkáme na pomúčenej doske. Valec cesta zakryjeme fóliou, aby nám nevyschlo. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "a55d9009-ae85-4cc0-bfac-3501116cecca",
+      "url": null,
+      "text": "Pripravíme si strojček na cestoviny. Začíname rozvaľkávať na č. 1 pokračujeme 3, 5, 7, 8...  ...a končíme na č. 9.  Vzniknú nám tenké pásy cesta, ktoré kladieme na utierku alebo obrus. Cesto necháme uschnúť (cca 30 min.) Pásy cesta rozkrájame na dĺžku rezancov. Z rozkrájaného cesta robíme na strojčeku rezance. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "1107fc62-bee7-49ec-af75-8d28fb983be7",
+      "url": null,
+      "text": "Rezance necháme uschnúť. Občas ich rukou prevzdušníme. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "dbeaea3d-b0c4-4b9a-b1b3-1c8111c68d28.png"
+}

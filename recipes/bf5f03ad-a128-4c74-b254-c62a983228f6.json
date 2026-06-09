@@ -1,0 +1,232 @@
+{
+  "recipe": {
+    "id": "bf5f03ad-a128-4c74-b254-c62a983228f6",
+    "created_at": "2026-05-22T19:01:10.862+00:00",
+    "updated_at": "2026-05-22T19:01:10.862+00:00",
+    "title": "Šošovicový prívarok",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fbf5f03ad-a128-4c74-b254-c62a983228f6%2F05167fc5-1b16-4705-a190-bd1a946e862b.png?alt=media&token=67d3217d-49b6-4231-82ce-aa09f11ba2ca",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "e7b80580-b5f1-4b6a-8909-39399d104a27",
+      "text": "šošovica",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "šošovica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "21fc0250-bd21-4169-8256-e11c2346a324",
+      "text": "bobkový list",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "bobkový list",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c9735412-6d62-4bfc-84ba-e446e0b0cac4",
+      "text": "cibuľa",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "cibuľa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "db3042c5-fd25-41fc-b4f2-bc0953c9e1e6",
+      "text": "celé korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "celé korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f4df00d9-8d71-43ec-b218-50dc53b71ad9",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "29f96053-e5db-40ed-b5c3-56e09a2a2d92",
+      "text": "1 PL hladká múka",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "PL hladká múka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3e0095f6-1540-4da5-9ed7-c2b41fdce8c0",
+      "text": "smotana na varenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "smotana na varenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "19016c78-7c1d-4fe4-b0e3-15712508a320",
+      "text": "maslo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "53a78102-4b9c-43dc-8b46-ed5f57301a9a",
+      "text": "cukor",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "90adce66-17a9-47e5-b596-ad493eaec9a0",
+      "text": "horčica",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "horčica",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "a864ae56-6720-48e9-95fd-c7ade821990a",
+      "url": null,
+      "text": "Šošovicu opláchneme, zalejeme studenou vodou tak 2 cm nad šošovicou a necháme namočenú 2 hodiny alebo aj celú noc. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "95bda2c2-1a59-48f6-b020-8ade334d2245",
+      "url": null,
+      "text": "Šošovicu varíme v tej istej vode spolu s bobkovým listom, celou cibuľou a čiernym korením. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "1038654d-1342-49b0-92b5-0c8bebba84ad",
+      "url": null,
+      "text": "Šošovicu solíme až po uvarení, inak by nezmäkla. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "248e695d-2c9b-47d4-ac3d-edc56da9f941",
+      "url": null,
+      "text": "Pred dovarením pridáme očistené a na kocky pokrájané zemiaky. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "a2a8c4f8-11bf-4877-8b39-b503f688424b",
+      "url": null,
+      "text": "Vymiešame smotanu spolu s 1 PL múky tak, aby v nej neostali žiadne hrudky a prilejeme k prívarku. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "c1a7b3fd-22d9-4ad5-b692-3744c8a5465d",
+      "url": null,
+      "text": "Pridáme trochu masla a cukru. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "8d2ec325-8b91-42c9-b1e2-9147ac656c57",
+      "url": null,
+      "text": "Dochutíme horčicou a znovu prevaríme.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "bf5f03ad-a128-4c74-b254-c62a983228f6.png"
+}

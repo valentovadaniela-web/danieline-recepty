@@ -1,0 +1,168 @@
+{
+  "recipe": {
+    "id": "e0fdbd7a-2c75-4890-9634-5b02eeeb85c7",
+    "created_at": "2026-05-28T15:52:30.025+00:00",
+    "updated_at": "2026-05-28T15:52:30.025+00:00",
+    "title": "Párkové šamrole",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fe0fdbd7a-2c75-4890-9634-5b02eeeb85c7%2F8f952fc2-28a6-45a6-9856-c1383faaac26.png?alt=media&token=534f7189-2c26-4e16-992d-57c3bcd6d21c",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "4729cb9a-ddf6-4eec-9d33-ff7105be701c",
+      "text": "lístkové cesto ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "lístkové cesto",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "da438293-c8b8-4120-abf1-69ed4a15afa9",
+      "text": "párky",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "párky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "51f34865-8e3a-4c13-81d9-f6ffd2eeab5c",
+      "text": "rasca",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "rasca",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e75b9ca7-c38a-43c1-9610-f052c836d576",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "054391fc-4c5d-4324-b371-4b347b5b47f4",
+      "text": "žĺtok",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "žĺtok",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "42c36733-d81b-4096-aa99-d40550ad2d3f",
+      "text": "zeleninová príloha",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "zeleninová príloha",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "3e62e55b-82cc-43d3-b460-5c4615e34d26",
+      "url": null,
+      "text": "Lístkové cesto vyvaľkáme na hrúbku cca 2 mm. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "0ceb5ee9-17fa-4764-b029-b1a3980b036d",
+      "url": null,
+      "text": "Nakrájame na pásiky široké 2 cm. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "8947136e-2680-43fb-97a0-aae9af50a0a7",
+      "url": null,
+      "text": "Každým pásikom potom omotáme jeden párok. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "6c699caa-ea60-4810-91f5-598c9a8a7673",
+      "url": null,
+      "text": "Párky poukladáme na plech, potrieme rozšľahaným žĺtkom, osolíme a posypeme rascou. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "a5145abe-d84c-4559-869a-e9ac0ec8e2a1",
+      "url": null,
+      "text": "Upečieme do ružova (250 °C, cca 8 - 10 min).",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Mäso",
+    "Slané pečivo "
+  ],
+  "imageFilename": "e0fdbd7a-2c75-4890-9634-5b02eeeb85c7.png"
+}

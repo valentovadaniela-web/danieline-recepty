@@ -1,0 +1,212 @@
+{
+  "recipe": {
+    "id": "71684201-ad30-4314-b4fb-f0b6b51bf2e4",
+    "created_at": "2026-06-07T12:24:01.577515+00:00",
+    "updated_at": "2026-06-07T12:24:38.243586+00:00",
+    "title": "Vanilkové rožky",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/71684201-ad30-4314-b4fb-f0b6b51bf2e4/ebb3ee86-fa23-4923-ab4a-164e753cb949.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "8c6e7e27-20c4-4691-a75f-d237b00cac26",
+      "text": "350 g hladká múka špeciál",
+      "quantity": 350,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "hladká múka špeciál",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "8b578183-7a23-4dc9-9325-df19c01871e1",
+      "text": "1 celá Hera",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "celá Hera",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b877af01-b23b-4ba9-ba21-13330a4a4009",
+      "text": "70 g práškový cukor",
+      "quantity": 70,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "práškový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a5fd6f80-d17c-4183-8dcb-17024bd0eeb1",
+      "text": "70 - 100 g mleté orechy",
+      "quantity": 70,
+      "quantity2": 100,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "mleté orechy",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "0c26e524-9f2e-4688-bdc2-7a17c65fbc34",
+      "text": "1 žĺtok",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "žĺtok",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "78436a6f-c4c9-4930-9f51-c6d621935256",
+      "text": "1 vanilkový cukor",
+      "quantity": 1,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "vanilkový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7f19492c-2c35-4584-b924-612fb4d5a0de",
+      "text": "Na obalenie",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "Na obalenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cd3af83e-6719-47cb-97b7-ac131ff55523",
+      "text": "150 g práškového cukru",
+      "quantity": 150,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "c1282199-ebf4-4c1a-8924-873918277c24",
+      "text": "2 balíčky vanilkového cukru",
+      "quantity": 2,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "balíčky vanilkového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "04b538f4-9d44-4d25-aff7-e1bbdf09ddd4",
+      "url": null,
+      "text": "Zo všetkých surovín vypracujeme hladké cesto. Zabalíme ho do mikroténového sáčka alebo potravinárskej fólie a uložíme do chladničky aspoň na 1 hodinu. Cesto možno pripraviť aj deň vopred.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "d87f5cb0-1f75-436d-b4de-aa889bdd3997",
+      "url": null,
+      "text": "Po vychladení cesto rozdelíme na dve polovice. Jednu polovicu necháme v chladničke, aby sa pri práci príliš neohriala.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "793ac320-a320-4abe-9c02-047ab2fa469d",
+      "url": null,
+      "text": "Z prvej polovice vytvarujeme valček a rozdelíme ho na kúsky približne veľkosti vlašského orecha. Z každého kúsku vyvaľkáme asi 5 cm dlhý valček, ktorý na koncoch mierne zúžime a vytvarujeme do podoby rožka.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "594ece9d-d2ce-43c2-b741-06e375c20ed6",
+      "url": null,
+      "text": "Rožky ukladáme na plech vystlaný papierom na pečenie alebo jemne vymastený tukom.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "ec617161-2398-40e4-8d54-1843814c2604",
+      "url": null,
+      "text": "Pečieme vo vopred vyhriatej rúre pri teplote 170 °C približne 15–16 minút, kým sú svetlo zlatisté. Nemali by výrazne zhnednúť.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "cbe637bb-a625-4ff8-925c-812d230f2101",
+      "url": null,
+      "text": "Po vybratí z rúry ich necháme 1–2 minúty odpočinúť, potom ich ešte teplé opatrne obalíme v zmesi práškového a vanilkového cukru.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "71684201-ad30-4314-b4fb-f0b6b51bf2e4.png"
+}

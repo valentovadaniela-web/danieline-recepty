@@ -1,0 +1,139 @@
+{
+  "recipe": {
+    "id": "8846328b-d2d1-4850-ae86-bd92070ed511",
+    "created_at": "2026-05-20T17:17:11.258+00:00",
+    "updated_at": "2026-05-20T18:07:03.455+00:00",
+    "title": "Lokše",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F8846328b-d2d1-4850-ae86-bd92070ed511%2F6808c3a4-b7f0-4173-866a-13f5c132cfdb.png?alt=media&token=d5c297b4-b301-4888-8d73-1f80a7243c06",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 18,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "f8bc4824-8c7c-482f-b206-8b42b2fd006f",
+      "text": "1 kg zemiaky",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "zemiaky",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "cd416632-ac6c-4cc2-9f5f-adf6d77999da",
+      "text": "1 ČL soľ",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "ČL soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "96f19fe6-41d9-4b6f-bd4b-39e4714a8e8c",
+      "text": "300 g hladká múka 00 extra špeciál",
+      "quantity": 300,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "hladká múka 00 extra špeciál",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "06f94f7a-7a7a-4aed-8dd5-430bd55c479a",
+      "url": null,
+      "text": "Menšie zemiaky dobre umyjeme a deň vopred uvaríme v šupke do mäkka. Necháme úplne vychladnúť a následne ošúpeme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "92ae45ff-fcbf-4f64-88e8-bb959981d744",
+      "url": null,
+      "text": "Očistené zemiaky dáme do misky, pridáme preosiatu múku, soľ a vymiešame hladké nelepivé cesto. Nemiesime príliš dlho, aby sa cesto nezačalo lepiť.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5f48bae6-7120-4d00-b9bf-7941cf817559",
+      "url": null,
+      "text": "Z cesta vypracujeme valček dlhý približne 45 cm a pokrájame na 2,5 cm hrubé kúsky. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "9e352f33-969a-4a96-8cc4-fe00c8198465",
+      "url": null,
+      "text": "Z každého kúsku vytvoríme guľôčky, ktoré rozvaľkáme na pomúčenej doske na placky o hrúbke 2-3 mm. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "f0a47316-89e3-4a6e-919c-86aa0e1bb941",
+      "url": null,
+      "text": "Panvicu (priemer 22-24 cm) rozpálime a placky pečieme na sucho z každej strany do zlatista. Počas pečenia priebežne utierame papierovými obrúskami zvyšnú múku z panvice, aby sa nám nepripálila. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "d4bcb1be-8409-4ff9-9a32-37e1406fb7ed",
+      "url": null,
+      "text": "Upečené lokše potrieme kačacou alebo husacou masťou a podávame.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá"
+  ],
+  "imageFilename": "8846328b-d2d1-4850-ae86-bd92070ed511.png"
+}

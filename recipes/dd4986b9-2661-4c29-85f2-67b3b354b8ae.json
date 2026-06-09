@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "id": "dd4986b9-2661-4c29-85f2-67b3b354b8ae",
+    "created_at": "2026-05-28T18:27:49.461457+00:00",
+    "updated_at": "2026-05-28T18:27:49.461457+00:00",
+    "title": "Mrkvová pomazánka",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/dd4986b9-2661-4c29-85f2-67b3b354b8ae/8a4153d9-ed75-457c-baad-83fe7aed0ce0.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": "Eva",
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "7ce4be25-d98f-4330-8c30-df37d3a211fe",
+      "text": "Mrkva",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Mrkva",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "20cc749a-6a5e-44c8-9640-49f630831551",
+      "text": "Cesnak",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "Cesnak",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2fd85ad7-9f3d-480d-bd7c-2e0585027d14",
+      "text": "Majonéza",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "Majonéza",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "c68c4135-502f-4235-b73b-cdf6eca32eda",
+      "url": null,
+      "text": "Najemno nastrúhame mrkvu, pretlačíme cesnak a zmiešame s majonézou.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "948b86af-00f3-4de9-b444-16fb0cc5683c",
+      "url": null,
+      "text": "Vhodné na jednohubky alebo bagety.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Nátierky, pomazánky",
+    "Večere"
+  ],
+  "imageFilename": "dd4986b9-2661-4c29-85f2-67b3b354b8ae.png"
+}

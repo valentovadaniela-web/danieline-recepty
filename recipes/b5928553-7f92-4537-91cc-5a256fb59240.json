@@ -1,0 +1,211 @@
+{
+  "recipe": {
+    "id": "b5928553-7f92-4537-91cc-5a256fb59240",
+    "created_at": "2026-05-21T19:59:33.101+00:00",
+    "updated_at": "2026-05-21T19:59:33.101+00:00",
+    "title": "Viedenská knedľa",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fb5928553-7f92-4537-91cc-5a256fb59240%2Fa243c153-ca82-4d58-943b-a69a6e0d27ee.png?alt=media&token=50cedf0e-ad08-46bd-a84b-f881f120dd5c",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "7cd6b80d-1bf3-46ab-9439-32d32dea9eea",
+      "text": "10 rožkov 2 dňových",
+      "quantity": 10,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "rožkov 2 dňových",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1de5b7cf-03c3-47bf-a98f-72f33c968246",
+      "text": "200 ml vlažného mlieka",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vlažného mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "19bc3df6-37b2-4b19-b43e-3afe0534a943",
+      "text": "200 ml oleja",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "oleja",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "ea24a06c-c869-461c-9406-ec3f92fafa85",
+      "text": "200 ml hrubej múky (140 g)",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "hrubej múky (140 g)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "b036407d-10c5-44e1-809d-389060346566",
+      "text": "4 vajcia",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vajcia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "987dfce2-0469-4ed9-a7a8-f9a5800b3cb4",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "89ef03ea-18c3-4e54-aeb5-42618f996d19",
+      "text": "petržlenová vňať",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "petržlenová vňať",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "51d0457f-465c-4a39-a0f6-118a7c453932",
+      "text": "muškátový oriešok",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "muškátový oriešok",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a6df14e4-8840-4e00-9041-af94a5887cfe",
+      "text": "korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "504123e5-b32e-42f0-90c0-37e613f439ac",
+      "url": null,
+      "text": "Rožky nakrájame na kocky cca 1x1 cm. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "6f568bdc-c14d-4fd9-8d92-db56a78435e1",
+      "url": null,
+      "text": "Do misy dáme olej, mlieko a múku, pridáme vajcia, petržlenovú vňať, koreniny a soľ a dobre rozmiešame. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "7b9d04c4-dca6-43d9-84b6-4ec029a94d22",
+      "url": null,
+      "text": "Prisypeme nakrájané rožky a zmes dáme do mikroténových sáčkov (4), vytvarujeme valčeky a necháme 30 min odpočívať. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "b40d099f-0f57-42bd-a1ed-28df738e03e2",
+      "url": null,
+      "text": "Potom ich vložíme do vriacej vody a po chvíli popicháme špáradlom. Po 15 min varenia ich otočíme a varíme ďalších 15 min. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "6ceb39cd-9b24-4f3a-91e7-bdd0db6bdbeb",
+      "url": null,
+      "text": "Hotové potrieme olejom.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "bd6e267c-c361-4836-9c1e-a40850bdcf25",
+      "url": null,
+      "text": "Nakrájame na kolieska.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "b5928553-7f92-4537-91cc-5a256fb59240.png"
+}

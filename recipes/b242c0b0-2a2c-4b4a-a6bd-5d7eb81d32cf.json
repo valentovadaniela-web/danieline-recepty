@@ -1,0 +1,95 @@
+{
+  "recipe": {
+    "id": "b242c0b0-2a2c-4b4a-a6bd-5d7eb81d32cf",
+    "created_at": "2026-05-28T18:40:00.614083+00:00",
+    "updated_at": "2026-05-28T18:40:00.614083+00:00",
+    "title": "Paprika v soli",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/b242c0b0-2a2c-4b4a-a6bd-5d7eb81d32cf/5739022f-e88d-45cf-961a-74f4c910cd4b.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "fe3f21a1-d4b8-4563-aeea-bd455746fdf2",
+      "text": "1 kg očistenej červenej papriky",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "očistenej červenej papriky",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "5e202347-e41e-493a-8ee8-289080c66353",
+      "text": "300 g soli",
+      "quantity": 300,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "soli",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ccf999e5-003a-4a75-9982-ce99277bcb3a",
+      "url": null,
+      "text": "Papriku pomelieme na mäsovom mlynčeku (stredne veľké dierky) a precedíme. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "c4b60014-d6ac-49cb-9636-6fee0fdb192c",
+      "url": null,
+      "text": "Do zmesi pridáme soľ a dobre premiešame. Naplníme do pohárov.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "b242c0b0-2a2c-4b4a-a6bd-5d7eb81d32cf.png"
+}

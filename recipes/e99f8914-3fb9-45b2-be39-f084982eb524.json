@@ -1,0 +1,183 @@
+{
+  "recipe": {
+    "id": "e99f8914-3fb9-45b2-be39-f084982eb524",
+    "created_at": "2026-06-05T19:58:57.779806+00:00",
+    "updated_at": "2026-06-05T19:58:57.779806+00:00",
+    "title": "Ovocný koláč s posýpkou",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/e99f8914-3fb9-45b2-be39-f084982eb524/3f0b4648-8ce6-4676-8553-d217ecd869cf.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": "Eva",
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [],
+  "instructions": [
+    {
+      "id": "31478ecc-6727-405f-9cc4-f91a6ef7424c",
+      "url": null,
+      "text": "Suroviny - cesto:\t",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "bb0178b8-168d-4a50-80eb-10ec0e6c7ff7",
+      "url": null,
+      "text": "2 hrnčeky polohrubej múky",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "e1a373cd-617e-42d0-94af-6aa6a883ff40",
+      "url": null,
+      "text": "1 hrnček práškového cukru",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "55832e09-260b-4231-b418-3a703fc259b7",
+      "url": null,
+      "text": "½ hrnčeka vychladnutého rozpusteného masla",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "381c9238-bb83-45d2-a1fa-042175c9c8a0",
+      "url": null,
+      "text": "2 vajcia",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "5899e081-9af8-4488-a6c7-5828eff968c6",
+      "url": null,
+      "text": "1 hrnček mlieka",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "56e8a9aa-711a-4556-958b-0706d7d21df3",
+      "url": null,
+      "text": "1 prášok do pečiva",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "097fcc7a-3937-4bbd-949b-25562e52bbde",
+      "url": null,
+      "text": "citrónová kôra",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "3816ca55-51db-4151-871a-a794ca9fe856",
+      "url": null,
+      "text": "Suroviny - náplň:\t",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "f7d3c690-9abc-453d-9aa7-80624dff5ee7",
+      "url": null,
+      "text": "3 hrnčeky sliviek",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "a87a13af-6aa6-4bf5-ad5b-d96ef1b5916a",
+      "url": null,
+      "text": "škorica",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "6989c465-cf38-4dd9-82a5-401de258a670",
+      "url": null,
+      "text": "kryštálový cukor",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    },
+    {
+      "id": "e1e807db-c191-424a-bf14-620cc7ec55ca",
+      "url": null,
+      "text": "1 hrnček posýpka (práškový cukor + hrubá múka + maslo)",
+      "image_url": null,
+      "sort_order": 12,
+      "is_group_header": false
+    },
+    {
+      "id": "d7a1f55d-1aa7-4e6d-815c-c51d64115229",
+      "url": null,
+      "text": "V miske zmiešame suroviny na cesto dáme zmes do plechu vystlaného papierom na pečenie. ",
+      "image_url": null,
+      "sort_order": 13,
+      "is_group_header": false
+    },
+    {
+      "id": "603d7349-2b5f-43c7-9bfe-b810475a8db8",
+      "url": null,
+      "text": "Nakrájame slivky a pridáme k nim cukor a škoricu. Nanesieme na cesto. Z cukru masla a múky spravíme posýpku a nasypeme ju na koláč. Pečieme pri 180 °C cca 30 min.",
+      "image_url": null,
+      "sort_order": 14,
+      "is_group_header": false
+    },
+    {
+      "id": "da037b22-6c58-489d-a07b-27dbb6446842",
+      "url": null,
+      "text": "Tip: Posýpku nasypeme na koláč po cca 25 min pečenia, aby nestvrdla. ",
+      "image_url": null,
+      "sort_order": 15,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "e99f8914-3fb9-45b2-be39-f084982eb524.png"
+}

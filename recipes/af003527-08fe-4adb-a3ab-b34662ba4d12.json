@@ -1,0 +1,168 @@
+{
+  "recipe": {
+    "id": "af003527-08fe-4adb-a3ab-b34662ba4d12",
+    "created_at": "2026-05-22T18:53:31.892+00:00",
+    "updated_at": "2026-05-22T18:53:31.892+00:00",
+    "title": "Špenátový prívarok",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Faf003527-08fe-4adb-a3ab-b34662ba4d12%2F9f991b93-023d-4af3-93b9-18fd008c9ab8.png?alt=media&token=4077c836-08bc-4e4a-a4fa-9e907e638f48",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "3b698f69-0048-47ae-aafb-64fcf51851d8",
+      "text": "špenát (mrazený pretlak)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "špenát (mrazený pretlak)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8c85c48d-45c9-4a19-bcf6-c249edf0114a",
+      "text": "cesnak",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "cesnak",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "290ef2bd-908b-4b5b-9aa4-98903b354766",
+      "text": "1 PL hladká múka",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "PL hladká múka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cfdbafaf-18ee-46d6-9de0-d965d6283e89",
+      "text": "olej",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e8ff5f4f-cf8d-4d1f-bf50-cec8b15e4141",
+      "text": "smotana na varenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "smotana na varenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4ca88a40-49a5-4314-9510-2a6d1fe2b663",
+      "text": "korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "b75eda02-c9a2-454c-8fb4-0f9856c2da9a",
+      "url": null,
+      "text": "Na oleji opražíme pretlačený cesnak a múku a pripravíme tak zápražku. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "96aa1e9a-fce4-4648-ba81-0b531d0080e0",
+      "url": null,
+      "text": "Zalejeme vodou a časťou smotany. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "e7ba4ec4-dad6-466c-965b-146302bf9a20",
+      "url": null,
+      "text": "Pridáme špenát, soľ, korenie a povaríme. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "2e80306c-8b39-4655-9c08-4d77135471a3",
+      "url": null,
+      "text": "Do zvyšku smotany zamiešame hladkú múku a zahustíme podľa potreby prívarok. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "e454ce94-481d-4535-8e68-6ca1244fbad0",
+      "url": null,
+      "text": "Podávame s volským okom.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "af003527-08fe-4adb-a3ab-b34662ba4d12.png"
+}

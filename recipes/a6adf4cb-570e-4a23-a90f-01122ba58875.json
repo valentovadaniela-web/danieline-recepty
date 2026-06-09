@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "id": "a6adf4cb-570e-4a23-a90f-01122ba58875",
+    "created_at": "2026-05-20T17:18:57.06+00:00",
+    "updated_at": "2026-05-20T17:53:09.645+00:00",
+    "title": "Pečené rýdziky",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fa6adf4cb-570e-4a23-a90f-01122ba58875%2Fc9ff8db5-58f1-483e-8e4c-f9f4b22bc6af.png?alt=media&token=b3d7d792-313c-4cdb-82da-4cfce8f6d671",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 28,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 19,
+    "total_time_hours": 0,
+    "total_time_minutes": 47,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "8b27466f-deb3-4bc7-8f03-9eae168267d4",
+      "text": "rýdziky (mladé)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "rýdziky (mladé)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a95b79c5-0116-41b1-a340-86b853323270",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8e091626-024c-45b3-9862-b2d1bd489356",
+      "text": "maslo",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cb45a0e0-5360-46e7-9f15-0d84ec49857e",
+      "text": "rasca",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "rasca",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "78f68a80-6149-4486-94ec-1b4ae69f7e9c",
+      "url": null,
+      "text": "Umyté rýdziky poukladáme na plech lupeňmi nahor, osolíme a na každý môžeme dať kúsok masla a trošku rasce. V rozohriatej rúre (cca 220 °C) pečieme tak 20-25 min podľa veľkosti plodníc. Po upečení podávame z dobrým chlebom.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "e5394b8b-9486-4483-8968-e790f83908ce",
+      "url": null,
+      "text": "Môžu sa pripraviť aj ako čipsy (opražiť na oleji).",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá",
+    "Večere"
+  ],
+  "imageFilename": "a6adf4cb-570e-4a23-a90f-01122ba58875.png"
+}

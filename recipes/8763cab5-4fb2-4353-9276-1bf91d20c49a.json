@@ -1,0 +1,179 @@
+{
+  "recipe": {
+    "id": "8763cab5-4fb2-4353-9276-1bf91d20c49a",
+    "created_at": "2026-06-07T11:58:33.277749+00:00",
+    "updated_at": "2026-06-07T11:58:33.277749+00:00",
+    "title": "Luxusné krémové tiramisu",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/8763cab5-4fb2-4353-9276-1bf91d20c49a/50b88bbe-b9b8-45c5-93f4-4f8dbfda08d2.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": "Katka Valentová",
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "94452355-a15e-4c20-bb9c-0c693f9973f4",
+      "text": "500 g Mascarpone",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Mascarpone",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a20d845d-581f-4eae-bc45-39173508a445",
+      "text": "4 vajcia",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vajcia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3eabb822-acb2-4ad2-95ea-3fc42e99d24e",
+      "text": "50 ml vaječný koňak",
+      "quantity": 50,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "vaječný koňak",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "4ae79b63-a2e3-435e-99bd-f2176168485b",
+      "text": "140 g kryštálového cukru (= 7,5 PL)",
+      "quantity": 140,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "kryštálového cukru (= 7.5 PL)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "3da2ef40-423c-486a-8ed2-19d112305c6c",
+      "text": "balík podlhovastých piškót (350 g)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "balík podlhovastých piškót (350 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6ea39f3c-ff8d-47cc-bbe6-3daba2ca8e40",
+      "text": "500 ml silnej kávy (espresso alebo veľmi silná zalievaná káva)",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "silnej kávy (espresso alebo veľmi silná zalievaná káva)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "c06f8d90-4e0f-4bf7-8e07-15d02b30612c",
+      "text": "10 ml rumu",
+      "quantity": 10,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "rumu",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "27431fb5-37e8-4278-a3ee-6ce61ec2e72c",
+      "url": null,
+      "text": "Vajcia s cukrom šľaháme nad parou približne 5–8 minút, kým zmes nezhustne a nedosiahne približne 70–75 °C. Potom necháme úplne vychladnúť.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "24712ddb-76cb-4972-9e37-7ccbe4e996f2",
+      "url": null,
+      "text": "Po vychladnutí pridáme vaječný koňak a postupne zamiešame aj Mascarpone. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "bb786c40-c706-4530-a0c5-8998af3c1c9c",
+      "url": null,
+      "text": "Pripravíme silnú kávu, necháme ju vychladnúť a primiešame rum.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "c4b28350-5dcc-49aa-9077-40d6437bd6a8",
+      "url": null,
+      "text": "Do vychladnutej kávy namáčame piškóty a uložíme ich do misy alebo tortovej formy, na to dáme vrstvu krému, opäť piškóty a znovu vrstvu krému (trochu viac). ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "5748093a-c441-4dde-be4c-9158dd4be4cb",
+      "url": null,
+      "text": "Vrch posypeme kakaom (cez sitko). Necháme v chladničke aspoň 6 hodín (ideálne cez noc)",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "8763cab5-4fb2-4353-9276-1bf91d20c49a.png"
+}

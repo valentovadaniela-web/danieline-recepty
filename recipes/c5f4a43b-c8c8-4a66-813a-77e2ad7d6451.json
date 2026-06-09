@@ -1,0 +1,132 @@
+{
+  "recipe": {
+    "id": "c5f4a43b-c8c8-4a66-813a-77e2ad7d6451",
+    "created_at": "2026-06-04T19:46:56.351752+00:00",
+    "updated_at": "2026-06-04T19:46:56.351752+00:00",
+    "title": "Medvedie labky",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/c5f4a43b-c8c8-4a66-813a-77e2ad7d6451/78b4df00-cf2f-4958-a890-10cc31531ec0.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "6610c8aa-54b1-47f0-b1d5-16b047407be3",
+      "text": "35 dkg hladkej múky",
+      "quantity": 35,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "dkg hladkej múky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "5f334613-e179-4669-aa35-07bd1f48aa77",
+      "text": "28 dkg masla (Hera)",
+      "quantity": 28,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "dkg masla (Hera)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "606afdf5-5d9a-474d-b9f3-f4354117be9e",
+      "text": "21 dkg cukru",
+      "quantity": 21,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "dkg cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "475788bd-f692-4270-be3c-9eadc2ed0dc4",
+      "text": "14 dkg orechov",
+      "quantity": 14,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "dkg orechov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d525e135-5bb5-4e9b-91e1-2a02fa7bc448",
+      "text": "trochu škorice a potlčených klinčekov",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "trochu škorice a potlčených klinčekov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "6bead4a3-accc-4bbd-b8ef-6baa3fbb90f4",
+      "url": null,
+      "text": "Zo surovín vymiesime cesto a dáme na polhodinu do chladu. Formičky vymastíme a vysypeme múkou a plníme ich cestom (nie doplna!). Upečieme (175 °C – 20 min).",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "e9f5c5a5-ef05-40f6-bcad-816ba580fd91",
+      "url": null,
+      "text": "Ešte teplé obaľujeme v práškovom cukre zmiešanom s 1 vanilkovým cukrom.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky ",
+    "Koláče bez krému"
+  ],
+  "imageFilename": "c5f4a43b-c8c8-4a66-813a-77e2ad7d6451.png"
+}

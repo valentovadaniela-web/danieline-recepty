@@ -1,0 +1,152 @@
+{
+  "recipe": {
+    "id": "bb2e13ab-f1e6-4af6-b7b1-1fae528a53cf",
+    "created_at": "2026-06-07T10:54:27.915847+00:00",
+    "updated_at": "2026-06-07T10:54:27.915847+00:00",
+    "title": "Orechové sušienky",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/bb2e13ab-f1e6-4af6-b7b1-1fae528a53cf/489c97f5-92c0-4e6f-8de2-54aca38b5755.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "476804f2-552d-4d97-b0c4-a11876a6602d",
+      "text": "5 ks bielky",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "ks bielky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4c9a27a4-f178-4ec0-ab7e-eac1563d544c",
+      "text": "150 g práškový cukor",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "práškový cukor",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "e07eae43-aca5-40a2-8818-d5aa30f49676",
+      "text": "150 g hladká múka špeciál",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "hladká múka špeciál",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "74be1f95-3408-46b3-a4bb-8c9163803efa",
+      "text": "60 g lieskovce",
+      "quantity": 60,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "lieskovce",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "4b778414-4d1b-41a0-aea1-54a93e2d6fde",
+      "text": "60 g vlašské orechy",
+      "quantity": 60,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vlašské orechy",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "92f1d367-51ba-49f1-a911-78f1fcc577d9",
+      "text": "60 g mandle",
+      "quantity": 60,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "mandle",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "e0b9c85e-fdc2-42f0-8830-e25d93f62a4c",
+      "url": null,
+      "text": "Z 5 bielkov vyšľaháme sneh, múku a cukor preosejeme. Do snehu najprv vmiešame cukor, potom múku a nakoniec orechy.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "7db45874-dcfd-475a-b79e-a2e13199cbb0",
+      "url": null,
+      "text": "Vylejeme do vymastenej formy a dáme do dobre vyhriatej trúby na 180°C na minimálne 3/4 hodiny. Vrch sa nám môže trochu pri pečení dvihnúť. Po upečení ešte horúce aj s formou zabalíme do alobalu a necháme stáť do ďalšieho dňa, aby orechy zvlhli a dali sa pekne krájať.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "88ee5fee-721c-4eae-93f5-a60dfa1a6ab8",
+      "url": null,
+      "text": "Po odstátí nakrájame ostrým nožom na tenké plátky (3,5 mm). Porozkladáme ich na plech a necháme sušiť v rúre na 100-150°C na teplovzdušnom režime (5-15 min). Keksíky takto pekne stvrdnú a zružovejú.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče bez krému",
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "bb2e13ab-f1e6-4af6-b7b1-1fae528a53cf.png"
+}

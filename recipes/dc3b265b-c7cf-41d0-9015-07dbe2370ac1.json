@@ -1,0 +1,168 @@
+{
+  "recipe": {
+    "id": "dc3b265b-c7cf-41d0-9015-07dbe2370ac1",
+    "created_at": "2026-05-20T17:15:34.777+00:00",
+    "updated_at": "2026-05-20T17:15:34.777+00:00",
+    "title": "Langoše originál",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fdc3b265b-c7cf-41d0-9015-07dbe2370ac1%2F6c7c2417-dfd8-4899-9dcc-48c4982cd35c.png?alt=media&token=facf6e41-a468-4154-b67b-aa65b8b99fc3",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "0cd32aeb-e273-48e9-9d20-49eed2e13da9",
+      "text": "500 g múka hladká extra špeciál 00",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "múka hladká extra špeciál 00",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "53cfd7fe-a21c-451e-9095-d8e9582b0ba6",
+      "text": "2 ČL soľ ",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "ČL soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "ae22b3b1-0d50-416b-9adc-0b992fd662a5",
+      "text": "15 g čerstvé droždie",
+      "quantity": 15,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "čerstvé droždie",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "1ce24ce8-dba2-4c96-9b0f-46da567556f8",
+      "text": "250 ml vlažná voda",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "vlažná voda",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "597e9f2e-c7ec-4beb-9966-09cb352f1ee6",
+      "text": "3 PL olej",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "PL olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f35a1d4e-7b14-4ea6-86a1-0f1697d72b9e",
+      "text": "1 ČL kryštálový cukor",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "ČL kryštálový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "60c5e7fe-00d9-4c64-98b0-63d148d1fdaf",
+      "url": null,
+      "text": "Do misy nasypeme múku (netreba preosiať), premiešame so soľou, v strede vyhĺbime jamku, namrvíme do nej droždie, posypeme kryštálovým cukrom, zalejeme vlažnou vodou a necháme na teple vykysnúť kvások cca 15 min.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "70d2031e-d61b-4087-9928-782ede542c34",
+      "url": null,
+      "text": "Keď kvások vykysne, prilejeme olej. Cesto sa stane ľahším a nadýchanejším. Dôkladne spracujeme, až sa na ceste začnú tvoriť malé pľuzgieriky. Necháme na teplom mieste vykysnúť na dvojnásobný objem cca 45 min.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "844d482b-3a49-4283-9691-bd0656f51fd6",
+      "url": null,
+      "text": "Potom cesto ešte raz prepracujeme a vyformujeme z neho valec. Ten pokrájame na 6 dielov. Každý diel ešte prepracujeme, vytvoríme z nich bochníčky a dáme na dosku ešte podkysnúť cca 15 - 20 min.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "8c853b54-df86-42ce-aa7d-4ac1d721e085",
+      "url": null,
+      "text": "Vykysnuté bochníčky stlačíme na plocho dlaňou a vytiahneme oboma rukami od stredu k okrajom, kolom dookola, asi na veľkosť panvice, v ktorej ich vysmážame. Nevyťahujeme ich veľmi na tenko, aby sa neprederavili a okraje nechávame silnejšie, aby neboli tvrdé.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "bf563ffa-d428-4837-9508-15f6f2417c58",
+      "url": null,
+      "text": "Langoše vysmážame z oboch strán len do ružova, nie do tmavej farby, lebo potom sú tvrdé. Takto vysmažené langoše sú veľmi ľahučké, pekne nafúknuté a zvnútra sú duté. Vysmažený langoš jemne osolíme a môžeme pridať cesnak, syr, kečup, smotanu alebo tatársku omáčku.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá",
+    "Večere"
+  ],
+  "imageFilename": "dc3b265b-c7cf-41d0-9015-07dbe2370ac1.png"
+}

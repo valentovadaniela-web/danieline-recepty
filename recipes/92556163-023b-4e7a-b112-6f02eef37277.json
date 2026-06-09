@@ -1,0 +1,232 @@
+{
+  "recipe": {
+    "id": "92556163-023b-4e7a-b112-6f02eef37277",
+    "created_at": "2026-05-20T18:42:58.356+00:00",
+    "updated_at": "2026-05-20T18:42:58.356+00:00",
+    "title": "Kačacie prsia s pomarančovo-vínovou omáčkou",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F92556163-023b-4e7a-b112-6f02eef37277%2F7f46d221-5c15-4d87-a9eb-9338fede2fbd.png?alt=media&token=de4cd239-7efe-4330-beb3-f192a2ba0437",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "0ed1a984-7883-4eae-bc0e-47d417263d81",
+      "text": "3 kačacie prsia s kožou (600 g)",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "kačacie prsia s kožou (600 g)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "95dd0d3e-8ad0-499d-819e-6a053daa198e",
+      "text": "10 ks malých zemiakov",
+      "quantity": 10,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "ks malých zemiakov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "80e31609-8990-4b70-8efc-78f71d5de834",
+      "text": "375 ml červené víno (1/2 fľaše)",
+      "quantity": 375,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "červené víno (1/2 fľaše)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "cedf43da-5cc5-4fd9-b489-8b145cbd1760",
+      "text": "375 ml kurací vývar (1 kocka bujónu)",
+      "quantity": 375,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "kurací vývar (1 kocka bujónu)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "bd941650-7a7d-4484-8668-f26c525e4c1c",
+      "text": "1 pomaranč (šťava a kôra)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "pomaranč (šťava a kôra)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d7a64ff8-a7d3-41af-a1ed-ffc46b49b970",
+      "text": "3 PL med",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "PL med",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "18821b39-d92a-4fe8-bc2a-dfc9037c372d",
+      "text": "1 ČL maizeina",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "ČL maizeina",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f1ec09b3-8b3c-452c-a003-7dd890b25989",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0e66d207-14fe-4ede-b35b-cce597b88907",
+      "text": "čerstvé čierne korenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "čerstvé čierne korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0f819073-cc90-45a0-ad30-965b39a1a84c",
+      "text": "rozmarín",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "rozmarín",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "396143d1-c685-4340-92ac-ac380623a47c",
+      "url": null,
+      "text": "Kačacie prsia dobre umyjeme a vysušíme. Kožu jemne narežeme do tvaru mriežky tak, aby sme sa nedotkli mäsa. Kožovú stranu riadne nasolíme a druhú stranu nasolíme a okoreníme čerstvo rozdrveným korením. Stranu s kožou nekoreníme, lebo sa bude opekať dlhšie a korenie by zhorelo. Necháme 10 minút postáť.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "c2d0b7e1-e9e3-44ee-a61b-28797d1020d7",
+      "url": null,
+      "text": "Nezohriatu panvicu dáme na sporák, prsia na ňu položíme kožovou stranou nadol a nastavíme strednú teplotu. Nepridávame žiaden tuk, koža bude púšťať vlastný tuk. Tuk postupne a pravidelne z panvice odlievame do misky aby sa nespiekol.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "f19feabd-5885-4274-a5d2-888e53761d0b",
+      "url": null,
+      "text": "Umyjeme menšie zemiaky a dáme ich variť aj so šupkou.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "cff290c5-b98f-40f1-bcfb-501c0874b29b",
+      "url": null,
+      "text": "Omáčka na kačacie prsia. Do väčšieho hrnca vylejeme 375 ml červeného vína, 375 slepačieho vývaru (bujónu), 1 čajovú lyžičku maizeiny šťavu z pomaranča, nastrúhanú pomarančovú kôru a 3 polievkové lyžice medu. Poriadne premiešame a necháme vrieť, kým nám omáčka nezhustne. Občasne premiešame aby omáčka neprihorela.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "5ed084bf-e950-4639-b734-7b4e9a91059b",
+      "url": null,
+      "text": "Otočíme prsia na panvici. Práve sa dorobili prsia na kožovej strane. Spoznáme to tak, že koža je zlato-hnedá a chrumkavá. Otočíme na mäsovú stranu a dorábame ešte 2-3 minúty.  Prsia premiestnime spolu so zvyšným tukom na plech kožou nahor a dáme piecť na minimálne 10 min (200 °C). Po upečení necháme 10 minút odpočívať, aby šťava ostala vo vnútri. Prsia nesmú byť suché, musia mať chrumkavú kožu a mäsko vo vnútri ružové a jemné.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "17634c0c-f56d-4b85-80bc-599f26f9b613",
+      "url": null,
+      "text": "Restované zemiaky. Uvarené zemiaky jemne rozpučíme a restujeme z oboch strán do zlatista na odloženom kačacom tuku ktorý sme dochutili soľou, čiernym korením a čerstvým rozmarínom.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "ae8dfeeb-e599-4724-81e8-148a99cfc6f9",
+      "url": null,
+      "text": "Servírovanie. Prsia nakrájame na tenké plátky, uložíme na tanier, pridáme zemiaky a prsia polejeme zredukovanou omáčkou.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Mäso",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "92556163-023b-4e7a-b112-6f02eef37277.png"
+}

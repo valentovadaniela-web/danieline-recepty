@@ -1,0 +1,479 @@
+{
+  "recipe": {
+    "id": "d96ebaf8-dcd1-440f-b213-21b99b33492d",
+    "created_at": "2026-06-05T19:23:32.17705+00:00",
+    "updated_at": "2026-06-05T19:23:32.17705+00:00",
+    "title": "Oblíž prst",
+    "description": null,
+    "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/d96ebaf8-dcd1-440f-b213-21b99b33492d/ee6d14bb-49f1-4a6b-a0e5-7f5e851b0dbe.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "3d458043-09c2-477e-9f76-e2a3230af5eb",
+      "text": "Korpus",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "Korpus",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4685cd75-421b-444a-b98a-85da20a90ef3",
+      "text": "5 vajec",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vajec",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "72cb5cdf-3d6d-4825-a892-4b3875e1cf6e",
+      "text": "200 g kryštálového cukru",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "237e5c31-d141-4b35-8660-d47724b016fe",
+      "text": "5 PL studenej vody",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "PL studenej vody",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "70c68673-5d81-488b-943c-befcf79a6f44",
+      "text": "160 g polohrubej múky",
+      "quantity": 160,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "polohrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "73295ea0-4e97-42b6-9f69-1f71450dda24",
+      "text": "1 PL kakaa",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "PL kakaa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "160eedcb-9e76-428d-8916-4b01a333faad",
+      "text": "½ balíčka prášku do pečiva",
+      "quantity": 0.5,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "balíčka prášku do pečiva",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "d4746181-4020-44e2-ad6e-95108d910ff4",
+      "text": "Žĺtkový krém",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "Žĺtkový krém",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6c39a8eb-76ec-43f6-aaa2-8659b6c4d4d0",
+      "text": "500 ml mlieka",
+      "quantity": 500,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "4592f0ce-a42a-4386-83c4-16e839bcc261",
+      "text": "5 žĺtkov",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "žĺtkov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6c6b7714-2378-43f8-977f-cf830b979f81",
+      "text": "4 PL hladkej múky",
+      "quantity": 4,
+      "quantity2": null,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "PL hladkej múky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4cac84d2-f4a7-4488-bb97-23bf4f9ed429",
+      "text": "1 vanilkový cukor",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "vanilkový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a68d335c-c47d-4d2b-b9d9-8fe2c87dd7ad",
+      "text": "250 g masla",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "a4132ce9-b734-438d-8692-75bb19cb4bd9",
+      "text": "150 g práškového cukru",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "2a2d16df-87e8-4d5d-b4ed-181997b022d8",
+      "text": "Bielková pena",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 14,
+      "category_id": null,
+      "description": "Bielková pena",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "574d5a69-6d12-4b3d-89a7-8bf23419e11a",
+      "text": "5 bielkov",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 15,
+      "category_id": null,
+      "description": "bielkov",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c2735436-63b8-4921-afcf-e55e08e54bd8",
+      "text": "200 g kryštálového cukru",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 16,
+      "category_id": null,
+      "description": "kryštálového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "55d894b2-c570-4ee9-8ebb-f9d5628f5853",
+      "text": "šťava z ½ až 1 citróna",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 17,
+      "category_id": null,
+      "description": "šťava z ½ až",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0a126fec-59d5-47fe-a62c-6c2dc67b217e",
+      "text": "Na dokončenie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 18,
+      "category_id": null,
+      "description": "Na dokončenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f84e340d-f815-408f-9ade-6a43afa0c5a3",
+      "text": "50–100 g horkej čokolády na strúhanie",
+      "quantity": 50,
+      "quantity2": 100,
+      "sort_order": 19,
+      "category_id": null,
+      "description": "horkej čokolády na strúhanie",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "9778ec9f-8cce-4e14-82df-70a5ad0a58ba",
+      "url": null,
+      "text": "1. Korpus:",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": true
+    },
+    {
+      "id": "7478fdcc-4dbc-4e43-9abb-a85c9d10bb38",
+      "url": null,
+      "text": "Žĺtky vyšľahaj s cukrom a vodou do hustej peny.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "0dd92b39-c8a9-452f-be6b-f499976006d3",
+      "url": null,
+      "text": "Bielky vyšľahaj na tuhý sneh.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "5c4e217a-adce-4549-ad5b-6055ad4cae51",
+      "url": null,
+      "text": "Zmiešaj múku, kakao a prášok do pečiva.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "04a1734d-bfd9-458f-8f3b-e7eb7d040a05",
+      "url": null,
+      "text": "Do žĺtkovej hmoty striedavo vmiešavaj sneh a sypké ingrediencie.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "5930defc-8090-480f-b9d2-f2326347a4a4",
+      "url": null,
+      "text": "Rozotri na plech vystlaný papierom na pečenie.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "af124643-d849-4d5d-a04d-a6cd8bc03f13",
+      "url": null,
+      "text": "Peč pri 180 °C približne 20–25 minút.",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "73aea8f5-d1f0-4326-8353-18e72296f32e",
+      "url": null,
+      "text": "2. Žĺtkový krém:",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": true
+    },
+    {
+      "id": "b0c70386-8a37-4ccb-8cde-4243f7bb64a1",
+      "url": null,
+      "text": "V mlieku rozmiešaj žĺtky, múku a vanilkový cukor.",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "87a02719-804f-4e92-ba9f-f1ae1ae75a01",
+      "url": null,
+      "text": "Za stáleho miešania uvar hustý krém.",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "b473fafd-91b4-42dd-b6e9-432d9f6ba25a",
+      "url": null,
+      "text": "Nechaj úplne vychladnúť.",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    },
+    {
+      "id": "10c8af9a-9918-4956-9979-491106a9f503",
+      "url": null,
+      "text": "Maslo vyšľahaj s práškovým cukrom do peny.",
+      "image_url": null,
+      "sort_order": 11,
+      "is_group_header": false
+    },
+    {
+      "id": "e0e7f161-4356-4e07-b7e9-608743697843",
+      "url": null,
+      "text": "Po lyžiciach zašľahaj vychladnutý základ.",
+      "image_url": null,
+      "sort_order": 12,
+      "is_group_header": false
+    },
+    {
+      "id": "52d5cadf-e643-4b28-9d68-212525b3d8e5",
+      "url": null,
+      "text": "3. Bielková pena:",
+      "image_url": null,
+      "sort_order": 13,
+      "is_group_header": true
+    },
+    {
+      "id": "66bbfe90-f1dc-45a8-8615-c70bbc7786c0",
+      "url": null,
+      "text": "Bielky, cukor a citrónovú šťavu daj nad vodný kúpeľ.",
+      "image_url": null,
+      "sort_order": 14,
+      "is_group_header": false
+    },
+    {
+      "id": "eea805f5-2ef7-4608-b91f-67df703bb3ad",
+      "url": null,
+      "text": "Šľahaj približne 8–10 minút, kým nevznikne hustá lesklá pena.",
+      "image_url": null,
+      "sort_order": 15,
+      "is_group_header": false
+    },
+    {
+      "id": "dd2cc991-0b47-4edc-b183-43968b823b35",
+      "url": null,
+      "text": "Pena musí držať tvar a nesmie stekať.",
+      "image_url": null,
+      "sort_order": 16,
+      "is_group_header": false
+    },
+    {
+      "id": "dffb9dbe-d556-412f-ad33-438dc59602e7",
+      "url": null,
+      "text": "4. Skladanie:",
+      "image_url": null,
+      "sort_order": 17,
+      "is_group_header": true
+    },
+    {
+      "id": "5d022a6a-e7c8-425b-ab23-6f0a9e66d037",
+      "url": null,
+      "text": "Na vychladnutý korpus natri žĺtkový krém.",
+      "image_url": null,
+      "sort_order": 18,
+      "is_group_header": false
+    },
+    {
+      "id": "3e3815b3-8b6f-4f23-a355-c663a35006a5",
+      "url": null,
+      "text": "Na krém rozotri bielkovú penu.",
+      "image_url": null,
+      "sort_order": 19,
+      "is_group_header": false
+    },
+    {
+      "id": "673c39a3-f71f-4372-8889-904f0193ce28",
+      "url": null,
+      "text": "Posyp jemne nastrúhanou horkou čokoládou.",
+      "image_url": null,
+      "sort_order": 20,
+      "is_group_header": false
+    },
+    {
+      "id": "5a45ff72-753a-4a4f-a3cd-6358098c11d4",
+      "url": null,
+      "text": "Daj stuhnúť do chladničky aspoň na 4 hodiny, ideálne cez noc.",
+      "image_url": null,
+      "sort_order": 21,
+      "is_group_header": false
+    },
+    {
+      "id": "58cdf974-b457-48e9-97a7-b8d0deee2f45",
+      "url": null,
+      "text": "Tip: Pod žĺtkový krém je možné natrieť tenkú vrstvu domáceho ríbezľového lekváru, ktorá jemne vyvážil sladkosť krému. ",
+      "image_url": null,
+      "sort_order": 22,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "d96ebaf8-dcd1-440f-b213-21b99b33492d.png"
+}

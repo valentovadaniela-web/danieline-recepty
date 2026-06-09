@@ -1,0 +1,239 @@
+{
+  "recipe": {
+    "id": "e3fff524-db80-45ea-b2a3-0491518c0b50",
+    "created_at": "2026-05-29T15:18:15.744315+00:00",
+    "updated_at": "2026-05-29T15:18:15.744315+00:00",
+    "title": "Domáci chlieb",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/e3fff524-db80-45ea-b2a3-0491518c0b50/9b9b428f-999e-46ad-a5a9-3748d81216d6.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "14385341-9d00-4ecd-a991-bf3498f6235c",
+      "text": "30-35 g droždia",
+      "quantity": 30,
+      "quantity2": 35,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "droždia",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "4b258659-4d9e-47c1-afe8-90b304f3c88a",
+      "text": "600 - 700 ml teplá voda (nie horúca)",
+      "quantity": 600,
+      "quantity2": 700,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "teplá voda (nie horúca)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "77d32c9d-c93c-41f7-a8e6-b84305fc3b7e",
+      "text": "1 PL soli",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "PL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b99ad886-63b6-47c7-9614-657048f3f543",
+      "text": "1 PL rasce",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "PL rasce",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a5fc9cab-fd58-4779-bc03-70f12be2b144",
+      "text": "2 PL oleja",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "PL oleja",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b38d6c5a-935c-4f11-ae41-2b18819d78ef",
+      "text": "1 PL octu",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "PL octu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c512fa3e-b050-45b6-acfe-7ab9b72e2259",
+      "text": "1 kg hladkej múky (T650)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "hladkej múky (T650)",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "69426aa3-fbed-4748-993c-3f066cfe2bab",
+      "text": "semienka (slnečnica, ľan, sézam…)",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "semienka (slnečnica, ľan, sézam…)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "47799969-d485-4b71-abcb-bad71efa86fe",
+      "url": null,
+      "text": "Droždie rozmrvíme do veľkej misy a rozpustíme ho v troche teplej vody. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "fb85128f-698d-4294-b7ac-b063d4971ea0",
+      "url": null,
+      "text": "Pridáme soľ, rascu, olej a ocot, prípadne semienka. Zmiešame a vsypeme kilo múky. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "5c3fef46-7ca6-486a-8633-c3fddd283be7",
+      "url": null,
+      "text": "Postupne pridávame teplú vodu a miesime. Správne tuhé cesto má pevnú konzistenciu a nerozteká sa v ruke. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "bb2a3dae-d463-45a9-95d7-c0e3dc7fa301",
+      "url": null,
+      "text": "Necháme zakryté vykysnúť na teplom mieste cca 1 - 1,5 hod. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "f7c5010c-6a34-456f-ab31-dc8e86eb49b6",
+      "url": null,
+      "text": "Potom vyklopíme do jenskej misy s vystrihnutýmj papierom na pečenie na dne (prípadne na plechu vystlanom papierom na pečenie vytvarujeme bochník). ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "feb55236-bc4a-4548-8449-dfa21d81e1b2",
+      "url": null,
+      "text": "Popicháme vidličkou. ",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    },
+    {
+      "id": "36ec0adc-3ae5-46a4-b95a-70e4d85856d7",
+      "url": null,
+      "text": "Potrieme slanou vodou (2 dcl vody a ½ ČL soli) a môžeme posypať semienkami. ",
+      "image_url": null,
+      "sort_order": 6,
+      "is_group_header": false
+    },
+    {
+      "id": "390a098e-03b0-4441-aa1d-b34c9ab8d2e4",
+      "url": null,
+      "text": "Pečieme vo vyhriatej rúre 1/2 hod pri 210°C. ",
+      "image_url": null,
+      "sort_order": 7,
+      "is_group_header": false
+    },
+    {
+      "id": "53508a0d-d640-44ce-9f95-44c6e132dbea",
+      "url": null,
+      "text": "Potom potrieme slanou vodou a ďalšiu polhodinu pečieme pri 160°C). ",
+      "image_url": null,
+      "sort_order": 8,
+      "is_group_header": false
+    },
+    {
+      "id": "24abd5d7-2ba3-49d9-817d-5e8b303b7538",
+      "url": null,
+      "text": "Upečený chlieb má po poklopaní znieť duto. ",
+      "image_url": null,
+      "sort_order": 9,
+      "is_group_header": false
+    },
+    {
+      "id": "933531c1-3c60-4ac3-a7ab-942ce89280ae",
+      "url": null,
+      "text": "Chlieb potrieme tretíkrát slanou vodou a necháme chladnúť prikrytý na mriežke.",
+      "image_url": null,
+      "sort_order": 10,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Slané pečivo "
+  ],
+  "imageFilename": "e3fff524-db80-45ea-b2a3-0491518c0b50.png"
+}

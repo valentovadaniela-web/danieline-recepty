@@ -1,0 +1,223 @@
+{
+  "recipe": {
+    "id": "e220b6b6-0d9d-4eee-a1f0-5b7ac00973eb",
+    "created_at": "2026-05-29T15:48:08.239057+00:00",
+    "updated_at": "2026-05-29T15:48:08.239057+00:00",
+    "title": "Syrové pagáče",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/e220b6b6-0d9d-4eee-a1f0-5b7ac00973eb/2ef406ff-3c9a-435d-97fd-89f66990a200.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": 130,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "7d9e17cc-0435-4dd8-8fcf-5fd24e6ce48d",
+      "text": "400 g polohrubej múky",
+      "quantity": 400,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "polohrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "74c81980-e08f-429e-9b47-b0da6ddfa17a",
+      "text": "250 g studeného masla (nakrájaného na malé kocky)",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "studeného masla (nakrájaného na malé kocky)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "0e28cc1c-2d8b-4117-b13c-abe3d211ab9e",
+      "text": "150 g kvalitného tvrdého syra (najlepšie výraznejší, napr. zrejúci ementál alebo čedar), jemne nastrúhaného",
+      "quantity": 150,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kvalitného tvrdého syra (najlepšie výraznejší, napr. zrejúci ementál alebo čedar), jemne nastrúhaného",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "aade8f36-e8c5-45a1-915a-41b0af030128",
+      "text": "200 ml kyslej smotany",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "kyslej smotany",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "fc16843f-f011-4430-9d31-ba0bee043e27",
+      "text": "1 ČL soli",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "ČL soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a31b466d-0b3c-43d7-8aa6-7ddcb96715e6",
+      "text": "20 g čerstvého droždia",
+      "quantity": 20,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "čerstvého droždia",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "fb272602-f003-4023-bac3-b2d12155f75b",
+      "text": "1 ČL mletej červenej papriky (pre farbu a chuť)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "ČL mletej červenej papriky (pre farbu a chuť)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "5b8a910e-642d-49d9-8aaa-827f6a61bd12",
+      "text": "200 g blanšírovaných mandlí na ozdobu",
+      "quantity": 200,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "blanšírovaných mandlí na ozdobu",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "712f55a2-d8fc-4bfe-9f68-019397ddc25f",
+      "text": "1 žĺtok na potretie ",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "žĺtok na potretie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4bcf6c48-3264-4868-978c-6527768b24c3",
+      "text": "štipka soli na posypanie",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "štipka soli na posypanie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "a9f20d02-c728-48eb-9ca4-aabb43a61f63",
+      "url": null,
+      "text": "Do väčšej misy preosejeme múku, pridáme soľ a mletú papriku. Pridáme studené maslo a rukami (alebo mixérom) vypracujeme drobivú zmes. Potom vmiešame nastrúhaný syr, kyslú smotanu a rozdrobené droždie. Všetko rýchlo spojíme do kompaktného cesta – neprepracovávame ho príliš dlho, aby sa maslo v teple rúk nezačalo topiť.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "cc6abaa5-60a5-48d6-bf20-318d7b472d34",
+      "url": null,
+      "text": "Cesto na pomúčenej doske rozvaľkáme na obdĺžnik, poskladáme ho ako list (na tretiny, potom znova na tretiny) a zabalíme do potravinárskej fólie. Dáme ho na noc odpočívať do chladničky. Toto pomalé kysnutie v chlade je trik pre výbornú chuť a štruktúru.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "20a63b8a-bc9a-4c22-b4f1-810b53eecce2",
+      "url": null,
+      "text": "Na druhý deň cesto z chladničky vyberieme. Ešte dvakrát ho na doske preložíme a rozvaľkáme, tentoraz na hrúbku približne 1 cm. Pri každom prekladaní cesta dbáme na to, aby maslo zostalo studené. Ak sa nám zdá, že cesto pri vaľkaní príliš mäkne, vrátime ho na 15 minút do chladničky. Malou formičkou (priemer 3 cm) vykrajujeme pagáčiky.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "b928f552-7ff6-41b5-9d44-c1b20fdf427a",
+      "url": null,
+      "text": "Poukladáme ich na plech vystlaný papierom na pečenie. Povrch potrieme rozšľahaným žĺtkom, jemne osolíme a do stredu každého pagáčika jemne zatlačíme olúpanú mandľu (predtým ju môžeme na suchej panvici krátko opražiť, aby bola ešte voňavejšia). Ak mandle nie sú blanšírované (olúpané), jednoducho ich zalejeme vriacou vodou, necháme 5 minút stáť a šupka pôjde dole úplne ľahko.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "35c585e2-5033-4284-bafd-e6fd00ab8ae0",
+      "url": null,
+      "text": "Ak máme radi naozaj syrové pagáče, môžeme po potretí žĺtkom vrch posypať aj troškou jemne nastrúhaného syra tesne pred pečením.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "9ea82a34-748e-472c-ba17-39ceb266c220",
+      "url": null,
+      "text": "Rúru vyhrejeme na 200 °C. Malé pagáčiky pečieme 10 – 15 minút, kým nie sú krásne zlatisté. Ak by sme robili väčšie kúsky (5 cm), čas pečenia predĺžime na približne 25 minút.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Slané pečivo "
+  ],
+  "imageFilename": "e220b6b6-0d9d-4eee-a1f0-5b7ac00973eb.png"
+}

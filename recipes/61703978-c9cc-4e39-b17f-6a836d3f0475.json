@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "id": "61703978-c9cc-4e39-b17f-6a836d3f0475",
+    "created_at": "2026-05-20T17:34:15.219+00:00",
+    "updated_at": "2026-05-21T20:15:06.866+00:00",
+    "title": "Tábornícky syr",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2F61703978-c9cc-4e39-b17f-6a836d3f0475%2F7ccc9b1b-0eaa-48d8-8122-655a656dee69.png?alt=media&token=0c49bdec-92e3-448b-9ac1-1578da515e86",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "97ce4142-5c40-44b3-8bf5-6264b94eec4c",
+      "text": "400 g tvrdý syr (údený alebo neúdený)",
+      "quantity": 400,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "tvrdý syr (údený alebo neúdený)",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "ca196401-eea0-43d8-a69c-801f582f27b6",
+      "text": "3-4 vajcia",
+      "quantity": 3,
+      "quantity2": 4,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vajcia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "1b911979-3f51-47c3-b0b6-1f7c05569bd6",
+      "text": "olej",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "7a77b801-3194-4353-9574-4d3a29ef02ea",
+      "url": null,
+      "text": "Syr nastrúhame, pridáme vajcia, zmiešame a vyformujeme bochníčky. Vyprážame do zlata.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Bezmäsité jedlá",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "61703978-c9cc-4e39-b17f-6a836d3f0475.png"
+}

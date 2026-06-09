@@ -1,0 +1,191 @@
+{
+  "recipe": {
+    "id": "a0e99538-afb0-403c-97ae-65764cf1d1af",
+    "created_at": "2026-05-21T19:01:05.046+00:00",
+    "updated_at": "2026-05-21T19:04:07.179+00:00",
+    "title": "Zmrzlinky",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fa0e99538-afb0-403c-97ae-65764cf1d1af%2Ffb02e81a-bbad-4c99-94d6-b7b3b9dbc0a7.png?alt=media&token=44fa6902-ce6d-47e0-a74b-a63607aef34e",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 35,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "5c27a0e0-e704-4d0a-b9ee-570929e95884",
+      "text": "tortové oplátky",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "tortové oplátky",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6e0e3627-b0e4-4747-b346-b75a248bf385",
+      "text": "20 ml mlieka",
+      "quantity": 20,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "580d20f9-9123-4e5f-a448-ccd81dee19d0",
+      "text": "1 Zlatý klas",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "Zlatý klas",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f2a26b3f-c879-445e-ac6f-38c039af1a62",
+      "text": "5 vajec (stačia 3 žĺtka, 5 bielkov)",
+      "quantity": 5,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "vajec (stačia 3 žĺtka, 5 bielkov)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9fcdbcf2-8d6a-4b54-8ac0-17e6d955132c",
+      "text": "250 g práškového cukru",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "9f2d2e2f-76d7-404d-906c-dffe383b1a97",
+      "text": "250 g masla",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "5cb3229c-bd21-47bc-859d-8a61dc08271d",
+      "text": "1 vanilkový cukor",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "vanilkový cukor",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "413590f7-cb67-498a-a364-94a4d996f420",
+      "text": "čokoláda",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "čokoláda",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "5dbbf40e-949f-4af2-b9c9-4c5c7e0935db",
+      "url": null,
+      "text": "Kornútky:\tOplátky nakrájať na štvorce. Nad parou sa z nich urobia kornútky. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f959ec90-9feb-4168-bf26-bff7e6efcfb1",
+      "url": null,
+      "text": "Plnka – 1. časť: Do vriaceho mlieka zamiešať Zlatý klas, 3 žĺtka a uvariť puding. Miešať až do vychladnutia aby sa neurobili hrčky\t\t",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "2ef639a7-e9a5-4af6-8e6c-06cc3995a199",
+      "url": null,
+      "text": "Plnka – 2. časť: \tZ 5 bielkov ušľahať sneh. Pridať 5 lyžíc práškového cukru a uvariť nad parou.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "494f3f03-d78e-4f1d-b084-73af4d8895e1",
+      "url": null,
+      "text": "Plnka – 3. časť: \tZmiešať maslo, 20 dkg práškového cukru a 1 vanilkový cukor.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "1ed59d2b-3a8a-4728-9331-4b5cfa3985dc",
+      "url": null,
+      "text": "Zmiešať všetky tri časti plnky a plniť kornútky. Vrch a spodok zmrzlín sa namočiť do čokolády.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "a0e99538-afb0-403c-97ae-65764cf1d1af.png"
+}

@@ -1,0 +1,159 @@
+{
+  "recipe": {
+    "id": "e0fb3897-f56c-4f16-9359-72c9664fab09",
+    "created_at": "2026-05-22T18:17:49.033+00:00",
+    "updated_at": "2026-05-22T18:17:49.033+00:00",
+    "title": "Kukuricová polievka",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fe0fb3897-f56c-4f16-9359-72c9664fab09%2F31485c99-523d-40cd-9efb-7fd2061e52d2.png?alt=media&token=98274f92-1961-42a1-a025-79a49d2c2367",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0,
+    "servings": 0,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "fd1b0698-f94b-4802-ad38-dec75de706b3",
+      "text": "1 zväzok jarných cibuliek (cíbikov)",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "zväzok jarných cibuliek (cíbikov)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c56b8c3c-bc85-4a47-98e6-dd867e105ebf",
+      "text": "1 konzerva sladkej kukurice",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "konzerva sladkej kukurice",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "2b89ee91-1d90-401d-aed7-9ab498ae4c46",
+      "text": "400 ml kokosového mlieka (1 konzerva)",
+      "quantity": 400,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "kokosového mlieka (1 konzerva)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "9a855418-4093-4183-beb2-8aa9f05b8be9",
+      "text": "400 ml zeleninového vývaru",
+      "quantity": 400,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "zeleninového vývaru",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "188c9a28-4ef9-4dd8-8632-4eeb976981f4",
+      "text": "soľ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f22b1b07-f3b2-43fe-978d-eae8693efd38",
+      "text": "2 PL oleja",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "PL oleja",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "9481d660-9693-4449-9264-467e8219b4ee",
+      "url": null,
+      "text": "Jarnú cibuľku opláchneme, očistíme a nakrájame na jemné kolieska. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "55c53c01-22f0-4e24-8ba4-9c318121a0bb",
+      "url": null,
+      "text": "V hrnci rozhorúčime olej, pridáme cibuľku a krátko speníme. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "b404c377-e463-4eb7-b333-38a2efd1d1d1",
+      "url": null,
+      "text": "Kukuricu zlejeme a s kokosovým mliekom a so zeleninovým vývarom pridáme do hrnca. Prevaríme. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "c6c3441a-434a-4004-92a7-28d4c8b5a3bf",
+      "url": null,
+      "text": "Dochutíme soľou.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Polievky, omáčky"
+  ],
+  "imageFilename": "e0fb3897-f56c-4f16-9359-72c9664fab09.png"
+}

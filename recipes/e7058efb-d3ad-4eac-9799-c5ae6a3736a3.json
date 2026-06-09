@@ -1,0 +1,139 @@
+{
+  "recipe": {
+    "id": "e7058efb-d3ad-4eac-9799-c5ae6a3736a3",
+    "created_at": "2026-05-28T18:53:05.996006+00:00",
+    "updated_at": "2026-05-28T18:54:58.297677+00:00",
+    "title": "Syr",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/e7058efb-d3ad-4eac-9799-c5ae6a3736a3/bd00f97a-7f11-47f1-8b01-fbd0eeed3063.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": "Výroba tvarohu - Ricotta (cca 400-500 g)\nDo zvyšnej tekutiny z výroby syru nalejeme 20 ml octu, dobre premiešame, necháme odstáť 2 hod. Sitkom pozbierame, aby odtiekla prebytočná voda a odložíme do chladničky.",
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "dc8c46c6-aadb-4364-92b1-fa055299cd3c",
+      "text": "5 l nepasterizovaného mlieka",
+      "quantity": 5,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "nepasterizovaného mlieka",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "7078c327-f3ec-4b63-8b30-513632ac1109",
+      "text": "2,5 ml syridla (Milchema Fromase 220TL)",
+      "quantity": 2.5,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "syridla (Milchema Fromase 220TL)",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "938b60b8-8378-48c8-8f82-95bd76cb6f50",
+      "text": "140 g soli",
+      "quantity": 140,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "soli",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "44d902aa-ed9e-4c4a-aa31-5898b1f75c02",
+      "url": null,
+      "text": "Mlieko zohrejeme na 38 °C. Potom vlejeme 2,5ml syridla, dobre premiešame a necháme odstáť 45 minút.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "bba46d61-b3e5-4a90-9eec-67378b1668c2",
+      "url": null,
+      "text": "Dlhým nožom nakrájame na štvorčeky a za stáleho miešania zohrejeme na 42°C.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "cbb6fbaa-51b3-4131-9b21-bfcbb477fe04",
+      "url": null,
+      "text": "Necháme odstáť 20 minút. Potom vyberieme syr sitkom tak, že hmotu čo najviac zbavíme vody (prípadne vyžmýkame rukami)",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "067440be-88af-4272-bbdc-312e14a6e40d",
+      "url": null,
+      "text": "Dáme do formy (sitka) s dierkami, vystelieme gázou alebo plienkou. Naplníme formu, vrch syra prikryjeme gázou, zaťažíme tanierikom a činkou (na 1 kg syra 3 kg činka). Necháme cez noc v chladničke zaťažené.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "b45c1fb9-4b54-4968-a697-51ac3fc23c88",
+      "url": null,
+      "text": "Na druhý deň spravíme slaný nálev: 140g soli na 1 liter vody (soľ dobre rozmiešame) a vložíme syr.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "9af419cf-4dda-4b36-a5d5-505ab76b9f68",
+      "url": null,
+      "text": "Cca po 4 – 6 hod. vyberieme z nálevu (môžeme nechať aj cez noc)",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "e7058efb-d3ad-4eac-9799-c5ae6a3736a3.png"
+}

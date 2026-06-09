@@ -1,0 +1,147 @@
+{
+  "recipe": {
+    "id": "12883bb8-ba10-44ff-89c7-89c4b3ed300d",
+    "created_at": "2026-05-28T18:48:08.610324+00:00",
+    "updated_at": "2026-05-28T18:48:08.610324+00:00",
+    "title": "Ružičky",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/12883bb8-ba10-44ff-89c7-89c4b3ed300d/b4636e27-823d-4eb7-89eb-18a04841d1a2.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "ca913c61-aaf6-4dde-b5e5-90d5c58b4e4a",
+      "text": "1 diel sušeného mlieka",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "diel sušeného mlieka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "002e394d-4df5-4501-9d71-9f5d4cf797b1",
+      "text": "1 diel práškového cukru",
+      "quantity": 1,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "diel práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "cf13fa9a-8b1a-414b-a0a1-bddef07a3e7f",
+      "text": "voda ",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "voda",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9f40324a-9448-4872-84fd-382dbf6686d7",
+      "text": "olej",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6939aa36-681f-4d8f-952d-57a26cf465f6",
+      "text": "potravinárske farbivo",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "potravinárske farbivo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "7e50fdc4-4888-4a4f-9f61-29d16b4a356d",
+      "url": null,
+      "text": "Vymiesime mlieko, cukor a vodu tak, aby vznikla hladká tvarovateľná masa (ako plastelína alebo modulit). Pri miesení si na ruky dáme olej, aby sa hmota nelepila. Vyvaľkáme na hrúbku cca 3 mm. Vykrojíme kolieska (cca 2,5 cm pre veľkú ružičku, cca 1,5 cm pre malé ružičky). Každé koliesko naolejovanou lyžičkou povyťahujeme na 1 strane, aby vznikol lupienok. Vyťahujeme ich na olejom omastenej podložke, aby sa nelepili a netrhali.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "a35910c3-6063-4f7d-8374-01b3a2066a57",
+      "url": null,
+      "text": "Jeden lupienok stočíme do polootvorenej rúrky, bude to stred ružičky. Ostatné lupienky prikladáme okolo (asi 4 – 5 ks). Nakoniec lupienky na ružičke mierne vyhneme smerom von.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "08856d68-6bb3-4a3d-b0e9-161a9a1565d4",
+      "url": null,
+      "text": "Farebné ružičky robíme rovnakým spôsobom, len do vody pridáme farbivo. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "de86836a-b0c8-4e65-8e09-5fd1e811081b",
+      "url": null,
+      "text": "Lístky tvoríme rovnako ako lupienky, ukladáme ich úplne na spodok ružičky.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "12883bb8-ba10-44ff-89c7-89c4b3ed300d.png"
+}

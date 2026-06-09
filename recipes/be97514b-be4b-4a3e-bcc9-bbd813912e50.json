@@ -1,0 +1,151 @@
+{
+  "recipe": {
+    "id": "be97514b-be4b-4a3e-bcc9-bbd813912e50",
+    "created_at": "2026-05-19T21:12:11.753+00:00",
+    "updated_at": "2026-05-20T18:13:51.846+00:00",
+    "title": "Bulharský šalát",
+    "description": null,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/production-flavorish.appspot.com/o/images%2F0yboK1WVQrgBpesOwavMgI8aSSr2%2Frecipes%2Fbe97514b-be4b-4a3e-bcc9-bbd813912e50%2F06533ec1-c5ea-4641-8fad-2440ef33be58.png?alt=media&token=15224a30-2588-4110-a407-89380dbad33f",
+    "prep_time_hours": 0,
+    "prep_time_minutes": 30,
+    "cook_time_hours": 3,
+    "cook_time_minutes": 12,
+    "total_time_hours": 3,
+    "total_time_minutes": 42,
+    "servings": 0,
+    "source_name": "Violka",
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "5873996a-5fcc-4ed7-8a12-a23967c6137c",
+      "text": "3 kg červených paradajok",
+      "quantity": 3,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "červených paradajok",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "9c6a4cb8-17b4-40d5-a9aa-31b97f3dc990",
+      "text": "½ kg baraních rohov",
+      "quantity": 0.5,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "baraních rohov",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "95bd7ed5-669a-435f-959e-b0b0f7f61ac4",
+      "text": "200 g cukru",
+      "quantity": 200,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "26916fdf-8fa5-4277-aacd-e0ba1d53a0cd",
+      "text": "100 ml oleja",
+      "quantity": 100,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "oleja",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "1d5a7a91-ce8d-4b1f-ad06-a829f11679b8",
+      "text": "200 ml octu",
+      "quantity": 200,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "octu",
+      "is_group_header": false,
+      "unit_of_measure": "ml",
+      "unit_of_measure_id": "milliliter"
+    },
+    {
+      "id": "72018b0c-c369-4744-8637-5c02f79d856d",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "7a096437-4088-4d13-a400-5b935ce264ad",
+      "url": null,
+      "text": "Paradajky ošúpeme, nakrájame, pridáme cukor, olej, ocot a soľ a varíme 3 hod.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "bd3a726f-a21a-4392-b3a5-377cee37fc79",
+      "url": null,
+      "text": "Zmes po uvarení môžeme prepasírovať. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "33f82f2b-cfc2-4bf1-abfb-d9059b1fec26",
+      "url": null,
+      "text": "Baranie rohy pokrájame na tenké kolieska a dáme do paradajok. povaríme ešte asi 5 – 10 minút, dáme potom do pohárov, zavrieme a necháme pod dekou až do vychladnutia.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Šaláty"
+  ],
+  "imageFilename": "be97514b-be4b-4a3e-bcc9-bbd813912e50.png"
+}

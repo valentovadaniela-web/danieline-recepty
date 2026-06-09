@@ -1,0 +1,139 @@
+{
+  "recipe": {
+    "id": "db5ba858-529d-46b5-98cf-b09727577cd6",
+    "created_at": "2026-05-28T18:31:06.741498+00:00",
+    "updated_at": "2026-05-28T18:31:06.741498+00:00",
+    "title": "Detská výživa",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/db5ba858-529d-46b5-98cf-b09727577cd6/b25a9766-4574-4243-916e-273a2e5c4ab3.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": null,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "90a8c5cc-1485-458e-8a44-3b030823c30d",
+      "text": "3 kg jabĺk ",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "jabĺk",
+      "is_group_header": false,
+      "unit_of_measure": "kg",
+      "unit_of_measure_id": "kilogram"
+    },
+    {
+      "id": "d3e480ee-d625-4b9f-8dc7-6827392e5e12",
+      "text": "¾ l vody",
+      "quantity": 0.75,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "vody",
+      "is_group_header": false,
+      "unit_of_measure": "l",
+      "unit_of_measure_id": "liter"
+    },
+    {
+      "id": "bb2450a3-9c62-4b3d-b43e-0cc6f0457edf",
+      "text": "2 balíčky vanilkového pudingu",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "balíčky vanilkového pudingu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "13561673-5876-4c27-a507-113c399a8cda",
+      "text": "250 g práškového cukru",
+      "quantity": 250,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "práškového cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "eedf0df7-2c04-41ed-9793-7830be6a7d2b",
+      "text": "2 vanilkové cukry",
+      "quantity": 2,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "vanilkové cukry",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "42a28a64-0bab-4692-9614-f0e5dbcaafb8",
+      "url": null,
+      "text": "Očistené, ošúpané jablká zalejeme ½ l vody a podusíme domäkka. (Uvarenú zmes môžeme rozmixovať na hladkú kašu).",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "99234a9f-b3e9-46c7-befe-a843066f8695",
+      "url": null,
+      "text": "V zvyšnej vode (¼ l) zmiešame pudingy, práškový cukor a vanilkové cukry, pridáme do jablkovej hmoty a varíme 2 min.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "fcd3ddd6-a117-4272-abf2-6fe3ec57caf9",
+      "url": null,
+      "text": "Horúcu zmes nalejeme do pohárikov, otočíme viečkom dolu alebo sterilizujeme 15 min pri 85 °C.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "db5ba858-529d-46b5-98cf-b09727577cd6.png"
+}

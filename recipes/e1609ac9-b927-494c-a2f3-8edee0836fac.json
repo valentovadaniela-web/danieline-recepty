@@ -1,0 +1,187 @@
+{
+  "recipe": {
+    "id": "e1609ac9-b927-494c-a2f3-8edee0836fac",
+    "created_at": "2026-05-30T18:45:28.608871+00:00",
+    "updated_at": "2026-05-30T18:45:28.608871+00:00",
+    "title": "Lávový koláč",
+    "description": null,
+    "image_url": "https://jtkgeqvivwvwlhsyafbi-all.supabase.co/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/e1609ac9-b927-494c-a2f3-8edee0836fac/372b7a61-7e97-47ae-980a-0ba2d4580819.png",
+    "prep_time_hours": null,
+    "prep_time_minutes": null,
+    "cook_time_hours": null,
+    "cook_time_minutes": null,
+    "total_time_hours": null,
+    "total_time_minutes": null,
+    "servings": 5,
+    "source_name": null,
+    "source_url": null,
+    "authors": null,
+    "date_published": null,
+    "date_modified": null,
+    "keywords": null,
+    "category": null,
+    "cuisine": null,
+    "aggregate_rating": null,
+    "nutrition_serving_size": null,
+    "nutrition_calories": null,
+    "nutrition_carbohydrate_content": null,
+    "nutrition_cholesterol_content": null,
+    "nutrition_fat_content": null,
+    "nutrition_fiber_content": null,
+    "nutrition_protein_content": null,
+    "nutrition_saturated_fat_content": null,
+    "nutrition_sodium_content": null,
+    "nutrition_sugar_content": null,
+    "nutrition_trans_fat_content": null,
+    "nutrition_unsaturated_fat_content": null,
+    "video": null,
+    "notes": null,
+    "social_media_imported": false,
+    "image_imported": false,
+    "text_imported": false,
+    "ai_generated": false,
+    "imported": false,
+    "manual": true,
+    "imported_from_app": null
+  },
+  "ingredients": [
+    {
+      "id": "c7f92495-aa66-4471-967c-1a84aae3e799",
+      "text": "120 g kvalitnej čokolády",
+      "quantity": 120,
+      "quantity2": null,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "kvalitnej čokolády",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "232b9d9b-f963-4bbb-a536-2a5922b5e447",
+      "text": "100 g masla",
+      "quantity": 100,
+      "quantity2": null,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "masla",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "fb6906d9-b2e0-4c46-a9ab-539ac8f72048",
+      "text": "100 g cukru",
+      "quantity": 100,
+      "quantity2": null,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "cukru",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "723ff3f4-4d91-4619-8f6a-643a211b295b",
+      "text": "3 vajíčka",
+      "quantity": 3,
+      "quantity2": null,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "vajíčka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "df72151e-3e45-40f9-997a-f8889b7f9f91",
+      "text": "100 g polohrubej múky",
+      "quantity": 100,
+      "quantity2": null,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "polohrubej múky",
+      "is_group_header": false,
+      "unit_of_measure": "g",
+      "unit_of_measure_id": "gram"
+    },
+    {
+      "id": "ff974ae1-9ebe-46b7-a0da-973060a23d23",
+      "text": "trošku soli",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "trošku soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4385384b-ea78-4dbc-863b-8032dd98f3d0",
+      "text": "kúsok masla a kakaa na vysypanie formičiek",
+      "quantity": null,
+      "quantity2": null,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "kúsok masla a kakaa na vysypanie formičiek",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "55a6e3b9-d4d8-4dbc-baaa-5d4d258c871b",
+      "url": null,
+      "text": "Formičky (napr. keramické misky na crème brûlée, priemer 7-9 cm) vymažeme maslom a dáme ich na krátko do mrazničky.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "6772e231-3adf-40a9-9b85-f96ef777c71c",
+      "url": null,
+      "text": "Maslo a čokoládu pokrájame a dáme do vodného kúpeľa za občasného premiešania roztopiť. Zmes necháme trochu vychladnúť.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "e114623c-dfb6-4293-8c6e-93f9270f246f",
+      "url": null,
+      "text": "V miske vymiešame vajíčka s cukrom do hladkej peny a postupne pridávame múku. Potom do zmesi primiešame čokoládu s maslom. Formičky z mrazničky vysypeme kakaom a naplníme cestom.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "6546ab79-5f9c-414c-9683-f26562723a4a",
+      "url": null,
+      "text": "Rúru predhrejeme na 200°C, formičky dáme na plech a pečieme cca 10 (ak sú misky naplnené cca do ¾) až 12 minút (plné misky). Správne upečené sú vtedy, keď majú na povrchu jemnú kôrku a vnútri je koláčik tekutejší.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "a4ace286-00f0-4bef-a0a9-2e4392910521",
+      "url": null,
+      "text": "Po upečení necháme formičky trochu vychladnúť a ostrým nožom oddelíme koláčik od okrajov. Na formičku si položíme tanier a potom koláč jemne vyklopíme. Podávame ho teplý, najlepšie so zmrzlinou alebo nejakou ovocnou horúcou omáčkou. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "79bec4a7-f449-452b-a4a2-4e0bc4cdbf61",
+      "url": null,
+      "text": "Tip: Je možné mať tento dezert vopred pripravený v chladničke a dať ho upiecť, až keď príde návšteva.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Koláče, zákusky "
+  ],
+  "imageFilename": "e1609ac9-b927-494c-a2f3-8edee0836fac.png"
+}
