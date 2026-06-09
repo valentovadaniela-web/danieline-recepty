@@ -13,15 +13,15 @@ async function loadRecipes() {
     ).then(r => r.json());
 
     const image =
-      `images/${recipe.imageFilename}`;
+  `images/${recipe.imageFilename}`;
 
-    const card = document.createElement("div");
-    card.className = "card";
+const title =
+  recipe.recipe.title;
 
-    card.innerHTML = `
-      <img src="${image}" alt="">
-      <h3>${recipe.title}</h3>
-    `;
+card.innerHTML = `
+  <img src="${image}" alt="${title}">
+  <h3>${title}</h3>
+`;
 
     recipesDiv.appendChild(card);
   }
