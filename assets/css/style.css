@@ -1,1 +1,63 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #f8f3eb;
+  color: #4b3621;
+}
 
+.hero {
+  height: 300px;
+  background: linear-gradient(
+      rgba(0,0,0,.35),
+      rgba(0,0,0,.35)
+    ),
+    url("https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=1600");
+  background-size: cover;
+  background-position: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.overlay{
+  text-align:center;
+}
+
+.hero h1{
+  color:white;
+  font-size:3rem;
+  margin-bottom:20px;
+}
+
+#search{
+  width:min(600px,90vw);
+  padding:15px;
+  border:none;
+  border-radius:12px;
+  font-size:1rem;
+}
+
+.recipe-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+  gap:20px;
+  padding:30px;
+}
+
+.card{
+  background:white;
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 2px 8px rgba(0,0,0,.1);
+}
+
+.card img{
+  width:100%;
+  height:220px;
+  object-fit:cover;
+}
+
+.card h3{
+  padding:15px;
+  margin:0;
+}
