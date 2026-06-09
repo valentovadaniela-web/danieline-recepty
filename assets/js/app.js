@@ -2,26 +2,24 @@ const recipesDiv = document.getElementById("recipes");
 
 async function loadRecipes() {
 
-  const index = await fetch(
-    "recipes/index.json"
-  ).then(r => r.json());
+  const files = await fetch("recipes/index.json")
+    .then(r => r.json());
 
-  for (const file of index) {
+  for (const file of files) {
 
-    const recipe = await fetch(
-      `recipes/${file}`
-    ).then(r => r.json());
+    const data = await fetch(`recipes/${file}`)
+      .then(r => r.json());
 
-    const image =
-  `images/${recipe.imageFilename}`;
+    const title = data.recipe.title;
+    const image = `images/${data.imageFilename}`;
 
-const title =
-  recipe.recipe.title;
+    const card = document.createElement("div");
+    card.className = "card";
 
-card.innerHTML = `
-  <img src="${image}" alt="${title}">
-  <h3>${title}</h3>
-`;
+    card.innerHTML = `
+      <img src="${image}" alt="${title}">
+      <h3>${title}</h3>
+    `;
 
     recipesDiv.appendChild(card);
   }
