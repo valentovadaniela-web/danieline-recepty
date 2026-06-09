@@ -114,7 +114,15 @@ function renderRecipes() {
       <img src="${image}" alt="${title}">
       <h3>${title}</h3>
     `;
+card.style.cursor = "pointer";
 
+card.onclick = () => {
+
+  window.location.href =
+    `recipe.html?id=${recipe.recipe.id}.json`;
+
+};
+    
     recipesDiv.appendChild(card);
 
   });
