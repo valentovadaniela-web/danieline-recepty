@@ -91,6 +91,18 @@ body {
   margin:40px auto;
 }
 
+#instructions{
+  background:white;
+  padding:30px;
+  border-radius:16px;
+  box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+#instructions li{
+  margin-bottom:18px;
+  line-height:1.7;
+}
+
 .detail-image{
   display:block;
   width:100%;
