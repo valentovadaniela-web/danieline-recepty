@@ -92,11 +92,12 @@ body {
 }
 
 .detail-image{
+  display:block;
   width:100%;
   max-height:500px;
   object-fit:cover;
   border-radius:16px;
-  margin-bottom:20px;
+  margin:0 auto 25px auto;
 }
 
 .badge{
