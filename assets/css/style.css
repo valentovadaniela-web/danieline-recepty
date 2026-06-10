@@ -11,7 +11,7 @@ body {
       rgba(0,0,0,.35),
       rgba(0,0,0,.35)
     ),
-    url("hero/babovka.jpg");
+    url("https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=1600");
   background-size: cover;
   background-position: center;
   display:flex;
