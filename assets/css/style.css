@@ -199,7 +199,15 @@ main{
 
 }
 
-@media (max-width: 900px){
+@media (max-width:900px){
+
+  .hero{
+    height:220px;
+  }
+
+  .hero h1{
+    font-size:2rem;
+  }
 
   .recipe-top{
     grid-template-columns:1fr;
