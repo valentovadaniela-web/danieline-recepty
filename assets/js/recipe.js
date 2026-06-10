@@ -36,6 +36,18 @@ async function loadRecipe() {
       .join(" ")
       || "";
 
+  const totalMinutes =
+  (data.recipe.total_time_hours || 0) * 60 +
+  (data.recipe.total_time_minutes || 0);
+
+document.getElementById(
+  "recipe-meta"
+).innerHTML = `
+  <p>
+    ⏱️ ${totalMinutes || "-"} min
+  </p>
+`;
+  
   const ingredients =
     document.getElementById(
       "ingredients"
