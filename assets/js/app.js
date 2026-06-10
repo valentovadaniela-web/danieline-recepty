@@ -10,19 +10,20 @@ async function loadRecipes() {
   const files = await fetch("recipes/index.json")
     .then(r => r.json());
 
-  for (const file of files) {
+  const recipes = await Promise.all(
 
-    try {
+    files.map(file =>
+      fetch(`recipes/${file}`)
+        .then(r => r.json())
+        .catch(err => {
+          console.error(file, err);
+          return null;
+        })
+    )
 
-      const data = await fetch(`recipes/${file}`)
-        .then(r => r.json());
+  );
 
-      allRecipes.push(data);
-
-    } catch(err) {
-      console.error(file, err);
-    }
-  }
+  allRecipes = recipes.filter(Boolean);
 
   createCategories();
   renderRecipes();
