@@ -142,3 +142,11 @@ body {
 .ingredients-box li{
   margin-bottom:10px;
 }
+
+@media (max-width: 900px){
+
+  .recipe-top{
+    grid-template-columns:1fr;
+  }
+
+}
