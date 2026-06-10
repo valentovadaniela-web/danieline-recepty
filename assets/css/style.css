@@ -127,7 +127,7 @@ body {
   max-height:500px;
   object-fit:cover;
   border-radius:16px;
-  margin:0 auto 25px auto;
+  margin:30px auto 25px auto;
 }
 
 .badge{
