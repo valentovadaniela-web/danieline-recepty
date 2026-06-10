@@ -59,12 +59,18 @@ function createCategories() {
 
     const btn = document.createElement("button");
 
-    btn.textContent = cat;
+  btn.onclick = () => {
 
-    btn.onclick = () => {
-      activeCategory = cat;
-      renderRecipes();
-    };
+  activeCategory = cat;
+
+  document
+    .querySelectorAll(".categories button")
+    .forEach(b => b.classList.remove("active"));
+
+  btn.classList.add("active");
+
+  renderRecipes();
+  };
 
     categoriesDiv.appendChild(btn);
 
