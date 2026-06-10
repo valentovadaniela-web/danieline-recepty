@@ -88,6 +88,10 @@ body {
   opacity:.9;
 }
 
+.categories button.active{
+  background:#4b3621;
+}
+
 .small-hero{
   height:260px;
 }
