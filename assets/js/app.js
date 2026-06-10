@@ -57,24 +57,26 @@ function createCategories() {
 
   [...categories].sort().forEach(cat => {
 
-    const btn = document.createElement("button");
+  const btn = document.createElement("button");
+
+  btn.textContent = cat;
 
   btn.onclick = () => {
 
-  activeCategory = cat;
+    activeCategory = cat;
 
-  document
-    .querySelectorAll(".categories button")
-    .forEach(b => b.classList.remove("active"));
+    document
+      .querySelectorAll(".categories button")
+      .forEach(b => b.classList.remove("active"));
 
-  btn.classList.add("active");
+    btn.classList.add("active");
 
-  renderRecipes();
+    renderRecipes();
   };
 
-    categoriesDiv.appendChild(btn);
+  categoriesDiv.appendChild(btn);
 
-  });
+});
 }
 
 function renderRecipes() {
