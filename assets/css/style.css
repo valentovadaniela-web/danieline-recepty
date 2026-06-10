@@ -176,6 +176,20 @@ body {
   margin-bottom:10px;
 }
 
+@media print{
+
+  header,
+  button,
+  a{
+    display:none;
+  }
+
+  body{
+    background:white;
+  }
+
+}
+
 @media (max-width: 900px){
 
   .recipe-top{
