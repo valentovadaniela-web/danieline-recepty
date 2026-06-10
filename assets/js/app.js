@@ -100,6 +100,9 @@ function renderRecipes() {
     )
   );
 
+  document.getElementById("recipe-count").textContent =
+  `${filtered.length} receptov`;
+  
   filtered.forEach(recipe => {
 
     const title = recipe.recipe.title;
