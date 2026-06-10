@@ -49,9 +49,17 @@ function createCategories() {
   const allBtn = document.createElement("button");
   allBtn.textContent = "Všetko";
   allBtn.onclick = () => {
-    activeCategory = "Všetko";
-    renderRecipes();
-  };
+
+  activeCategory = "Všetko";
+
+  document
+    .querySelectorAll(".categories button")
+    .forEach(b => b.classList.remove("active"));
+
+  allBtn.classList.add("active");
+
+  renderRecipes();
+};
 
   categoriesDiv.appendChild(allBtn);
 
