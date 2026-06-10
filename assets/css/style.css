@@ -44,6 +44,12 @@ body {
   padding:30px;
 }
 
+#recipe-count{
+  padding:0 30px 15px;
+  font-weight:bold;
+  color:#6b4b2a;
+}
+
 .card{
   background:white;
   border-radius:16px;
