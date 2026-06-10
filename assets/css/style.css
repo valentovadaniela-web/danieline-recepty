@@ -104,7 +104,7 @@ body {
 
 .recipe-detail{
   max-width:1100px;
-  margin:50px auto 80px auto;
+  margin:70px auto 80px auto;
   padding:0 20px;
 }
 
@@ -127,7 +127,7 @@ body {
   max-height:500px;
   object-fit:cover;
   border-radius:16px;
-  margin:40px auto 25px auto;
+  margin:0 auto 25px auto;
 }
 
 .badge{
