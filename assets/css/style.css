@@ -88,8 +88,7 @@ body {
 
 .recipe-detail{
   max-width:900px;
-  margin:auto;
-  padding:30px;
+  margin:40px auto;
 }
 
 .detail-image{
