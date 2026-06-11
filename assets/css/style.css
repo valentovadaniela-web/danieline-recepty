@@ -210,6 +210,13 @@ main{
     background:white;
   }
 
+  .detail-image{
+    display:block;
+    max-width:300px;
+    max-height:220px;
+    margin:0 auto 20px auto;
+  }
+
 }
 
 @media (max-width:900px){
