@@ -47,21 +47,22 @@ main{
 
 .print-btn{
   width:100%;
-  background:#8b5e3c;
-  color:white;
-  border:none;
+  background:white;
+  color:#8b5e3c;
+  border:2px solid #8b5e3c;
   padding:14px;
   border-radius:12px;
   cursor:pointer;
   font-size:16px;
   font-family:inherit;
+  font-weight:bold;
   margin:15px 0 25px;
   transition:.2s;
 }
 
 .print-btn:hover{
-  background:#6b4b2a;
-  transform:translateY(-1px);
+  background:#8b5e3c;
+  color:white;
 }
 
 .recipe-grid{
