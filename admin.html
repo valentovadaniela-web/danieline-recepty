@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin - Danieline recepty</title>
+
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <style>
+
+    .admin-form{
+      max-width:900px;
+      margin:40px auto;
+      padding:20px;
+    }
+
+    .admin-form input,
+    .admin-form textarea{
+      width:100%;
+      padding:12px;
+      margin-bottom:15px;
+      border:1px solid #ddd;
+      border-radius:10px;
+      font-size:16px;
+      box-sizing:border-box;
+    }
+
+    .admin-form textarea{
+      min-height:180px;
+    }
+
+    .admin-form button{
+      border:none;
+      background:#8b5e3c;
+      color:white;
+      padding:12px 20px;
+      border-radius:10px;
+      cursor:pointer;
+    }
+
+    #output{
+      margin-top:30px;
+      background:white;
+      padding:20px;
+      border-radius:10px;
+      white-space:pre-wrap;
+      overflow:auto;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<header class="hero small-hero">
+  <div class="overlay">
+    <h1>Správa receptov</h1>
+  </div>
+</header>
+
+<div class="admin-form">
+
+  <h2>Názov receptu</h2>
+  <input id="title">
+
+  <h2>Kategórie</h2>
+  <textarea
+    id="categories"
+    placeholder="Každá kategória na nový riadok"></textarea>
+
+  <h2>Ingrediencie</h2>
+  <textarea
+    id="ingredients"
+    placeholder="Každá ingrediencia na nový riadok"></textarea>
+
+  <h2>Postup</h2>
+  <textarea
+    id="instructions"
+    placeholder="Každý krok na nový riadok"></textarea>
+
+  <h2>Názov obrázka</h2>
+  <input
+    id="image"
+    placeholder="napr. moj-recept.jpg">
+
+  <button id="generate">
+    Vygenerovať recept
+  </button>
+
+  <pre id="output"></pre>
+
+</div>
+
+<script src="assets/js/admin.js"></script>
+
+</body>
+</html>
