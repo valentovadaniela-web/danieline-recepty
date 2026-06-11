@@ -29,12 +29,15 @@ async function loadRecipe() {
     );
 
   categories.innerHTML =
-    data.collections
-      ?.map(c =>
-        `<span class="badge">${c}</span>`
-      )
-      .join(" ")
-      || "";
+  data.collections
+    ?.map(c =>
+      `<a href="index.html?category=${encodeURIComponent(c)}"
+          class="badge">
+          ${c}
+       </a>`
+    )
+    .join(" ")
+    || "";
 
   const totalMinutes =
   (data.recipe.total_time_hours || 0) * 60 +
