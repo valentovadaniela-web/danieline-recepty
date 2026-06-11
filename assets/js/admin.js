@@ -82,3 +82,43 @@ function generateRecipe() {
     );
 
 }
+
+document
+  .getElementById("download")
+  .addEventListener("click", downloadRecipe);
+
+function downloadRecipe() {
+
+  const json =
+    document.getElementById("output")
+      .textContent;
+
+  if (!json.trim()) {
+    alert("Najprv vygeneruj recept.");
+    return;
+  }
+
+  const recipe =
+    JSON.parse(json);
+
+  const filename =
+    recipe.recipe.id + ".json";
+
+  const blob =
+    new Blob(
+      [json],
+      { type: "application/json" }
+    );
+
+  const link =
+    document.createElement("a");
+
+  link.href =
+    URL.createObjectURL(blob);
+
+  link.download =
+    filename;
+
+  link.click();
+
+}
