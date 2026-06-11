@@ -1,0 +1,35 @@
+{
+  "recipe": {
+    "id": "f81917b0-1f82-4bab-8119-d2313ffd1ca1",
+    "title": "Test admin",
+    "description": null
+  },
+  "ingredients": [
+    {
+      "id": "744ceafc-5701-4fc0-97ce-5e9721a9ed21",
+      "text": "1 vajce",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "1 vajce",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "bd53e7bd-1a49-4c7c-9c35-7b28958d02a3",
+      "url": null,
+      "text": "Zmiešať",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Test"
+  ],
+  "imageFilename": "test-admin.jpg"
+}
