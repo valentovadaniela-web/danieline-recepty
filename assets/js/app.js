@@ -31,6 +31,10 @@ async function loadRecipes() {
 
   allRecipes = recipes.filter(Boolean);
 
+if(categoryFromUrl){
+  activeCategory = categoryFromUrl;
+}
+  
   createCategories();
   renderRecipes();
 }
