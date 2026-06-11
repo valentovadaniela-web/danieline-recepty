@@ -73,13 +73,16 @@ function generateRecipe() {
   };
 
   document.getElementById(
-    "output"
-  ).textContent =
-    JSON.stringify(
-      recipe,
-      null,
-      2
-    );
+  "output"
+).textContent =
+  JSON.stringify(
+    recipe,
+    null,
+    2
+  );
+
+document.getElementById("indexLine").value =
+  `"${recipe.recipe.id}.json",`;
 
 }
 
