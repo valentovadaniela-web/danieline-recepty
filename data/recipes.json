@@ -1,2 +1,28 @@
-
-[]
+[
+  {
+    "recipe": {
+      "id": "1",
+      "title": "Testovací recept"
+    },
+    "ingredients": [
+      {
+        "text": "1 vajce"
+      },
+      {
+        "text": "100 g múky"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Všetko zmiešame."
+      },
+      {
+        "text": "Upečieme."
+      }
+    ],
+    "collections": [
+      "Test"
+    ],
+    "imageFilename": "test.jpg"
+  }
+]
