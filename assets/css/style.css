@@ -166,6 +166,11 @@ main{
   border-radius:20px;
   margin-right:8px;
   margin-bottom:15px;
+  text-decoration:none;
+}
+
+.badge:hover{
+  background:#6b4b2a;
 }
 
 .recipe-detail h2{
