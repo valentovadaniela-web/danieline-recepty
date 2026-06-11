@@ -96,6 +96,27 @@ function createCategories() {
   categoriesDiv.appendChild(btn);
 
 });
+
+if(categoryFromUrl){
+
+  document
+    .querySelectorAll(".categories button")
+    .forEach(btn => {
+
+      if(btn.textContent === categoryFromUrl){
+
+        btn.classList.add("active");
+
+      }
+
+    });
+
+} else {
+
+  allBtn.classList.add("active");
+
+}
+
 }
 
 function renderRecipes() {
