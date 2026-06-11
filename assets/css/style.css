@@ -45,6 +45,25 @@ main{
   font-size:1rem;
 }
 
+.print-btn{
+  width:100%;
+  background:#8b5e3c;
+  color:white;
+  border:none;
+  padding:14px;
+  border-radius:12px;
+  cursor:pointer;
+  font-size:16px;
+  font-family:inherit;
+  margin:15px 0 25px;
+  transition:.2s;
+}
+
+.print-btn:hover{
+  background:#6b4b2a;
+  transform:translateY(-1px);
+}
+
 .recipe-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
