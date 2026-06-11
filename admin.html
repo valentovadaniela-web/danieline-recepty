@@ -1,98 +1,84 @@
-<!DOCTYPE html>
-<html lang="sk">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin - Danieline recepty</title>
+document
+  .getElementById("generate")
+  .addEventListener("click", generateRecipe);
 
-  <link rel="stylesheet" href="assets/css/style.css">
+function generateRecipe() {
 
-  <style>
+  const title =
+    document.getElementById("title")
+      .value.trim();
 
-    .admin-form{
-      max-width:900px;
-      margin:40px auto;
-      padding:20px;
-    }
+  const imageFilename =
+    document.getElementById("image")
+      .value.trim();
 
-    .admin-form input,
-    .admin-form textarea{
-      width:100%;
-      padding:12px;
-      margin-bottom:15px;
-      border:1px solid #ddd;
-      border-radius:10px;
-      font-size:16px;
-      box-sizing:border-box;
-    }
+  const categories =
+    document.getElementById("categories")
+      .value
+      .split("\n")
+      .map(x => x.trim())
+      .filter(Boolean);
 
-    .admin-form textarea{
-      min-height:180px;
-    }
+  const ingredients =
+    document.getElementById("ingredients")
+      .value
+      .split("\n")
+      .filter(Boolean)
+      .map((text,index) => ({
+        id: crypto.randomUUID(),
+        text,
+        quantity: 0,
+        quantity2: 0,
+        sort_order: index,
+        category_id: null,
+        description: text,
+        is_group_header: false,
+        unit_of_measure: null,
+        unit_of_measure_id: null
+      }));
 
-    .admin-form button{
-      border:none;
-      background:#8b5e3c;
-      color:white;
-      padding:12px 20px;
-      border-radius:10px;
-      cursor:pointer;
-    }
+  const instructions =
+    document.getElementById("instructions")
+      .value
+      .split("\n")
+      .filter(Boolean)
+      .map((text,index) => ({
+        id: crypto.randomUUID(),
+        url: null,
+        text,
+        image_url: null,
+        sort_order: index,
+        is_group_header: false
+      }));
 
-    #output{
-      margin-top:30px;
-      background:white;
-      padding:20px;
-      border-radius:10px;
-      white-space:pre-wrap;
-      overflow:auto;
-    }
+  const recipeId =
+    crypto.randomUUID();
 
-  </style>
+  const recipe = {
 
-</head>
-<body>
+    recipe: {
+      id: recipeId,
+      title: title,
+      description: null
+    },
 
-<header class="hero small-hero">
-  <div class="overlay">
-    <h1>Správa receptov</h1>
-  </div>
-</header>
+    ingredients,
 
-<div class="admin-form">
+    instructions,
 
-  <h2>Názov receptu</h2>
-  <input id="title">
+    collections: categories,
 
-  <h2>Kategórie</h2>
-  <textarea
-    id="categories"
-    placeholder="Každá kategória na nový riadok"></textarea>
+    imageFilename
 
-  <h2>Ingrediencie</h2>
-  <textarea
-    id="ingredients"
-    placeholder="Každá ingrediencia na nový riadok"></textarea>
+  };
 
-  <h2>Postup</h2>
-  <textarea
-    id="instructions"
-    placeholder="Každý krok na nový riadok"></textarea>
+  document.getElementById(
+    "output"
+  ).textContent =
+    JSON.stringify(
+      recipe,
+      null,
+      2
+    );
 
-  <h2>Názov obrázka</h2>
-  <input
-    id="image"
-    placeholder="napr. moj-recept.jpg">
-
-  <button id="generate">
-    Vygenerovať recept
-  </button>
-
-  <pre id="output"></pre>
-
-</div>
-
-<script src="assets/js/admin.js"></script>
-
-</body>
-</html>
+}
