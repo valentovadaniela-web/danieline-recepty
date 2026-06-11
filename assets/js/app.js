@@ -5,6 +5,12 @@ const searchInput = document.getElementById("search");
 let allRecipes = [];
 let activeCategory = "Všetko";
 
+const params =
+  new URLSearchParams(window.location.search);
+
+const categoryFromUrl =
+  params.get("category");
+
 async function loadRecipes() {
 
   const files = await fetch("recipes/index.json")
