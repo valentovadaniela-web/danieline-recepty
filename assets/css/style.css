@@ -190,6 +190,18 @@ main{
   top:20px;
 }
 
+.back-btn{
+  display:inline-block;
+  margin-top:30px;
+  color:#8b5e3c;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+.back-btn:hover{
+  text-decoration:underline;
+}
+
 .ingredients-box ul{
   padding-left:20px;
 }
