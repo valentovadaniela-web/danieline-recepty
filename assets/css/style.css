@@ -203,6 +203,22 @@ main{
   font-weight:bold;
 }
 
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  color: #8b5e3c;
+  font-size: 0.9rem;
+}
+
+footer a {
+  opacity: 0.3; /* Znížená viditeľnosť */
+  transition: opacity 0.3s;
+}
+
+footer a:hover {
+  opacity: 1; /* Odkaz sa zvýrazní až keď naň nabehnete myšou */
+}
+
 .back-btn:hover{
   text-decoration:underline;
 }
