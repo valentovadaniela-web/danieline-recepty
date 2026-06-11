@@ -125,3 +125,26 @@ function downloadRecipe() {
   link.click();
 
 }
+document.getElementById("load-recipe").addEventListener("change", function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    const data = JSON.parse(e.target.result);
+    
+    // Vyplnenie formulára údajmi z načítaného JSONu
+    document.getElementById("title").value = data.recipe.title;
+    document.getElementById("image").value = data.imageFilename;
+    document.getElementById("categories").value = (data.collections || []).join("\n");
+    
+    // Prevod polí na text (riadky v textarea)
+    document.getElementById("ingredients").value = data.ingredients.map(i => i.text).join("\n");
+    document.getElementById("instructions").value = data.instructions.map(i => i.text).join("\n");
+    
+    // Aktualizácia výstupu a riadku pre index
+    document.getElementById("output").textContent = JSON.stringify(data, null, 2);
+    document.getElementById("indexLine").value = `"${data.recipe.id}.json",`;
+  };
+  reader.readAsText(file);
+});
