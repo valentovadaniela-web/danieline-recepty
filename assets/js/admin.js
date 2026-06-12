@@ -134,7 +134,9 @@ document.getElementById("load-recipe").addEventListener("change", function(e) {
 
   const reader = new FileReader();
   reader.onload = function(e) {
-    const data = JSON.parse(e.target.result);
+  const data = JSON.parse(e.target.result);
+
+    currentRecipeId = data.recipe.id;
     
     // Vyplnenie formulára údajmi z načítaného JSONu
     document.getElementById("title").value = data.recipe.title;
