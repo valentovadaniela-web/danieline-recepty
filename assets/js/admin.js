@@ -179,3 +179,79 @@ async function loadRecipeList() {
     recipes.filter(Boolean);
 
 }
+document
+  .getElementById("recipeSearch")
+  .addEventListener("input", searchRecipes);
+
+function searchRecipes() {
+
+  const text =
+    document.getElementById("recipeSearch")
+      .value
+      .toLowerCase();
+
+  const results =
+    document.getElementById("recipeResults");
+
+  results.innerHTML = "";
+
+  if(text.length < 2) return;
+
+  adminRecipes
+
+    .filter(recipe =>
+      recipe.recipe.title
+        .toLowerCase()
+        .includes(text)
+    )
+
+    .slice(0,20)
+
+    .forEach(recipe => {
+
+      const div =
+        document.createElement("div");
+
+      div.className =
+        "recipe-result";
+
+      div.textContent =
+        recipe.recipe.title;
+
+      div.onclick = () =>
+        fillRecipe(recipe);
+
+      results.appendChild(div);
+
+    });
+
+}
+function fillRecipe(data) {
+
+  currentRecipeId =
+    data.recipe.id;
+
+  document.getElementById("title").value =
+    data.recipe.title || "";
+
+  document.getElementById("image").value =
+    data.imageFilename || "";
+
+  document.getElementById("categories").value =
+    (data.collections || [])
+      .join("\n");
+
+  document.getElementById("ingredients").value =
+    data.ingredients
+      .map(i => i.text)
+      .join("\n");
+
+  document.getElementById("instructions").value =
+    data.instructions
+      .map(i => i.text)
+      .join("\n");
+
+  document.getElementById("indexLine").value =
+    `"${data.recipe.id}.json",`;
+
+}
