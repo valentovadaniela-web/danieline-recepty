@@ -203,6 +203,23 @@ main{
   font-weight:bold;
 }
 
+#recipeResults{
+  margin-bottom:20px;
+}
+
+.recipe-result{
+  background:white;
+  padding:10px;
+  margin:5px 0;
+  border:1px solid #ddd;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.recipe-result:hover{
+  background:#f5efe8;
+}
+
 footer {
   text-align: center;
   padding: 40px 20px;
