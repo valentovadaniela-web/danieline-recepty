@@ -153,3 +153,29 @@ document.getElementById("load-recipe").addEventListener("change", function(e) {
   };
   reader.readAsText(file);
 });
+
+let adminRecipes = [];
+
+loadRecipeList();
+
+async function loadRecipeList() {
+
+  const files =
+    await fetch("recipes/index.json")
+      .then(r => r.json());
+
+  const recipes =
+    await Promise.all(
+
+      files.map(file =>
+        fetch(`recipes/${file}`)
+          .then(r => r.json())
+          .catch(() => null)
+      )
+
+    );
+
+  adminRecipes =
+    recipes.filter(Boolean);
+
+}
