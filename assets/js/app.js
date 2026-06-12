@@ -1,6 +1,10 @@
 const recipesDiv = document.getElementById("recipes");
 const categoriesDiv = document.getElementById("categories");
-const searchInput = document.getElementById("search");
+const searchTitle =
+  document.getElementById("searchTitle");
+
+const searchIngredient =
+  document.getElementById("searchIngredient");
 
 let allRecipes = [];
 let activeCategory = "Všetko";
