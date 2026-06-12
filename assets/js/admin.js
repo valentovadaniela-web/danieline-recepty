@@ -2,6 +2,8 @@ document
   .getElementById("generate")
   .addEventListener("click", generateRecipe);
 
+let currentRecipeId = null;
+
 function generateRecipe() {
 
   const title =
@@ -51,8 +53,9 @@ function generateRecipe() {
         is_group_header: false
       }));
 
-  const recipeId =
-    crypto.randomUUID();
+const recipeId =
+  currentRecipeId ||
+  crypto.randomUUID();
 
   const recipe = {
 
