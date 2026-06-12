@@ -127,7 +127,11 @@ function renderRecipes() {
 
   recipesDiv.innerHTML = "";
 
-  const search = searchInput.value.toLowerCase();
+const titleSearch =
+  searchTitle.value.toLowerCase();
+
+const ingredientSearch =
+  searchIngredient.value.toLowerCase();
 
   const filtered = allRecipes.filter(recipe => {
 
