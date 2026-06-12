@@ -155,6 +155,8 @@ document.getElementById("load-recipe").addEventListener("change", function(e) {
     // Vyplnenie formulára údajmi z načítaného JSONu
     document.getElementById("title").value = data.recipe.title;
     document.getElementById("image").value = data.imageFilename;
+    document.getElementById("prepTime").value =
+  data.recipe.prep_time_minutes || 0;
     document.getElementById("categories").value = (data.collections || []).join("\n");
     
     // Prevod polí na text (riadky v textarea)
