@@ -64,11 +64,20 @@ const recipeId =
 
   const recipe = {
 
-    recipe: {
-      id: recipeId,
-      title: title,
-      description: null
-    },
+recipe: {
+  id: recipeId,
+  title: title,
+  description: null,
+
+  prep_time_hours: 0,
+  prep_time_minutes: prepTime,
+
+  cook_time_hours: 0,
+  cook_time_minutes: 0,
+
+  total_time_hours: 0,
+  total_time_minutes: prepTime
+},
 
     ingredients,
 
