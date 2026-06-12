@@ -147,11 +147,19 @@ const categoryMatch =
   activeCategory === "Všetko" ||
   recipe.collections?.includes(activeCategory);
 
-const searchMatch =
-  title.includes(search) ||
-  ingredientsText.includes(search);
+const titleMatch =
+  !titleSearch ||
+  title.includes(titleSearch);
 
-    return categoryMatch && searchMatch;
+const ingredientMatch =
+  !ingredientSearch ||
+  ingredientsText.includes(ingredientSearch);
+
+return (
+  categoryMatch &&
+  titleMatch &&
+  ingredientMatch
+);
 
   });
 
