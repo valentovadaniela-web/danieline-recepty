@@ -2,11 +2,17 @@
   "recipe": {
     "id": "56b58bea-475f-41b2-960f-6af36898e38c",
     "title": "Šťavnatý jablkový koláč",
-    "description": null
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 48,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 48
   },
   "ingredients": [
     {
-      "id": "cc5e2cd9-7284-4177-9571-296ee1d137b9",
+      "id": "8b0c8915-30fb-4b53-8e18-3b272b54ccc4",
       "text": "4 vajcia",
       "quantity": 0,
       "quantity2": 0,
@@ -18,7 +24,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "a18522e9-af48-4e42-9248-8738867efc52",
+      "id": "131e9b88-dd58-44ea-b18f-c744dcc69965",
       "text": "400 g práškového cukru",
       "quantity": 0,
       "quantity2": 0,
@@ -30,7 +36,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "d2e45e96-e4ca-4e11-b70e-1e600ee3226c",
+      "id": "8b328041-8730-423d-a661-8fd674bd285e",
       "text": "200 ml oleja",
       "quantity": 0,
       "quantity2": 0,
@@ -42,7 +48,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "821fbb52-e5de-4fe7-bd32-18b8d68d80d8",
+      "id": "1a7e8dd3-2861-4bde-8eb2-5650d750f7cb",
       "text": "400 g hrubej múky",
       "quantity": 0,
       "quantity2": 0,
@@ -54,7 +60,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "fbcb3328-c658-4510-93b0-4231caf87f09",
+      "id": "0ca50577-e2b9-4d12-8b40-65a61628cf74",
       "text": "750 g strúhaných jabĺk",
       "quantity": 0,
       "quantity2": 0,
@@ -66,7 +72,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "bf504c9c-7196-40c6-836a-2807b8afc1bb",
+      "id": "1d880994-86e5-4805-876f-c0e1777f372b",
       "text": "1 zarovnaná lyžička sódy bikarbóny",
       "quantity": 0,
       "quantity2": 0,
@@ -78,7 +84,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "df8d06b2-2439-4750-ad89-9453c290791e",
+      "id": "955740b1-b387-46a3-818b-c950ec8a36e6",
       "text": "mletá škorica",
       "quantity": 0,
       "quantity2": 0,
@@ -90,7 +96,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "255efcae-48bd-4616-b48a-0cdc870f9a5a",
+      "id": "463d93a7-d0a2-4747-a49c-bf7c8a46aaed",
       "text": "lekvár (najlepšie ríbezľový)",
       "quantity": 0,
       "quantity2": 0,
@@ -102,7 +108,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "c42501b8-13cf-4fe9-8452-0474175f4d69",
+      "id": "50990d2c-55b4-47d8-98b0-f7573b06f56f",
       "text": "Granko alebo čokoládová poleva",
       "quantity": 0,
       "quantity2": 0,
@@ -116,7 +122,7 @@
   ],
   "instructions": [
     {
-      "id": "102061af-32a5-4f97-8faf-e01ea7579817",
+      "id": "ab3d9fc4-8b52-450d-8b58-509e5c205145",
       "url": null,
       "text": "Vajcia a 40 dkg cukru vymiešať do peny. ",
       "image_url": null,
@@ -124,7 +130,7 @@
       "is_group_header": false
     },
     {
-      "id": "7bee9393-7c73-4901-b022-e33e34d32dde",
+      "id": "cfd3ff1f-9d84-4431-b8ba-33e7240d16d4",
       "url": null,
       "text": "Pridať olej, hrubú múku so sódou bikarbónou, jablká a škoricu. Všetko vymiešať a vyliať na vymastený a múkou vysypaný plech. ",
       "image_url": null,
@@ -132,7 +138,7 @@
       "is_group_header": false
     },
     {
-      "id": "c7508366-8722-43fb-a43d-8224924de2e6",
+      "id": "e3bb6c7a-7c1a-42c1-8229-78c8cc5dcc23",
       "url": null,
       "text": "Upiecť (pri 200°C – 20 min). ",
       "image_url": null,
@@ -140,7 +146,7 @@
       "is_group_header": false
     },
     {
-      "id": "650b1a2e-d3c3-4e87-a961-885bbe9dc4e5",
+      "id": "fe3b69d7-db93-42e2-8bb2-7a4576e61881",
       "url": null,
       "text": "Ešte horúci koláč poliať (potrieť) lekvárom. ",
       "image_url": null,
@@ -148,7 +154,7 @@
       "is_group_header": false
     },
     {
-      "id": "9e672008-bd37-4272-b62d-f113a78e8471",
+      "id": "d2dd2b4e-f61a-41c0-8f79-13f0e332cef5",
       "url": null,
       "text": "Nakoniec posypať Grankom, strúhanou čokoládou alebo poliať čokoládovou polevou.",
       "image_url": null,
