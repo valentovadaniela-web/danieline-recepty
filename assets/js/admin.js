@@ -101,47 +101,27 @@ recipe: {
 document.getElementById("indexLine").value =
   `"${recipe.recipe.id}.json",`;
 
-}
-
-document
-  .getElementById("download")
-  .addEventListener("click", downloadRecipe);
-
-function downloadRecipe() {
-
-  const json =
-    document.getElementById("output")
-      .textContent;
-
-  if (!json.trim()) {
-    alert("Najprv vygeneruj recept.");
-    return;
-  }
-
-  const recipe =
-    JSON.parse(json);
-
   const filename =
-    recipe.recipe.id + ".json";
+  recipe.recipe.id + ".json";
 
-  const blob =
-    new Blob(
-      [json],
-      { type: "application/json" }
-    );
+const blob =
+  new Blob(
+    [JSON.stringify(recipe, null, 2)],
+    { type: "application/json" }
+  );
 
-  const link =
-    document.createElement("a");
+const link =
+  document.createElement("a");
 
-  link.href =
-    URL.createObjectURL(blob);
+link.href =
+  URL.createObjectURL(blob);
 
-  link.download =
-    filename;
+link.download =
+  filename;
 
-  link.click();
-
+link.click();
 }
+
 document.getElementById("load-recipe").addEventListener("change", function(e) {
   const file = e.target.files[0];
   if (!file) return;
