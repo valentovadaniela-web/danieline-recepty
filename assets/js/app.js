@@ -127,15 +127,21 @@ function renderRecipes() {
 
   const filtered = allRecipes.filter(recipe => {
 
-    const title =
-      recipe.recipe.title.toLowerCase();
+const title =
+  recipe.recipe.title.toLowerCase();
 
-    const categoryMatch =
-      activeCategory === "Všetko" ||
-      recipe.collections?.includes(activeCategory);
+const ingredientsText =
+  (recipe.ingredients || [])
+    .map(i => i.text.toLowerCase())
+    .join(" ");
 
-    const searchMatch =
-      title.includes(search);
+const categoryMatch =
+  activeCategory === "Všetko" ||
+  recipe.collections?.includes(activeCategory);
+
+const searchMatch =
+  title.includes(search) ||
+  ingredientsText.includes(search);
 
     return categoryMatch && searchMatch;
 
