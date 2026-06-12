@@ -6,6 +6,11 @@ let currentRecipeId = null;
 
 function generateRecipe() {
 
+  const prepTime =
+  parseInt(
+    document.getElementById("prepTime").value
+  ) || 0;
+  
   const title =
     document.getElementById("title")
       .value.trim();
