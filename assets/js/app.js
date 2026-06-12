@@ -202,7 +202,12 @@ card.onclick = () => {
 
 }
 
-searchInput.addEventListener(
+searchTitle.addEventListener(
+  "input",
+  renderRecipes
+);
+
+searchIngredient.addEventListener(
   "input",
   renderRecipes
 );
