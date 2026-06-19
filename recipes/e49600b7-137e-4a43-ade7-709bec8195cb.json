@@ -12,7 +12,7 @@
   },
   "ingredients": [
     {
-      "id": "9e0710ad-0063-4c98-ac15-37ea681eecb5",
+      "id": "63931882-6b09-4cdc-9899-739b0e068f83",
       "text": "kyslá kapusta",
       "quantity": 0,
       "quantity2": 0,
@@ -24,7 +24,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "cedab83c-9f2d-4bb3-928f-557677bfa9fa",
+      "id": "b7a5e3ca-5bb7-4d88-9337-a69149064bc5",
       "text": "bravčové mäso (karé)",
       "quantity": 0,
       "quantity2": 0,
@@ -36,7 +36,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "698441a4-382e-42b1-b4d8-339d7802b3ba",
+      "id": "ec1d3157-c038-44a3-a70c-798b651eaaba",
       "text": "masť",
       "quantity": 0,
       "quantity2": 0,
@@ -48,7 +48,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "4ed4db81-5086-4911-af17-bde406a51751",
+      "id": "414a5328-830b-487c-8edd-0be4d6b0e4c9",
       "text": "cesnak",
       "quantity": 0,
       "quantity2": 0,
@@ -60,7 +60,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "87dbfbf2-e04b-4cd1-96b6-588d6bcb3f91",
+      "id": "15720301-5253-4abf-a1d0-39b785acf841",
       "text": "mletá červená paprika",
       "quantity": 0,
       "quantity2": 0,
@@ -72,7 +72,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "3233a888-6d87-4303-88f3-e856c61e2802",
+      "id": "7f8e568a-2933-4b4e-b134-40ac99f7d061",
       "text": "čierne korenie celé",
       "quantity": 0,
       "quantity2": 0,
@@ -84,7 +84,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "b74ee46a-737c-40ee-b6ab-341adc963436",
+      "id": "b6658c4c-b661-44f4-9b8f-b7c6e4ef2dec",
       "text": "2 ks nové korenie",
       "quantity": 0,
       "quantity2": 0,
@@ -96,7 +96,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "bd706412-7301-4d57-9aa3-9882f5d01098",
+      "id": "992cffe6-83ec-469d-a322-bc8244d950b2",
       "text": "rasca",
       "quantity": 0,
       "quantity2": 0,
@@ -108,7 +108,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "82b506aa-ec4b-4f25-9c71-dcc4f0886fe8",
+      "id": "ebbb948e-1885-4def-8398-4ed331ea935d",
       "text": "soľ",
       "quantity": 0,
       "quantity2": 0,
@@ -120,7 +120,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "1913e3b8-95f3-4077-8508-702046905a04",
+      "id": "730addfb-4582-4160-a3ef-5d3c6cf828a0",
       "text": "olej",
       "quantity": 0,
       "quantity2": 0,
@@ -134,7 +134,7 @@
   ],
   "instructions": [
     {
-      "id": "58bc6161-bb29-4a2c-8939-6f2b8dcbb9cf",
+      "id": "4f96228b-3726-4a00-b027-dfc955b6e82d",
       "url": null,
       "text": "Mäso nakrájame, zalejeme vodou, osolíme a dáme variť aj s korením do zmäknutia. Kapustu vyžmýkame, vodu si odložíme bokom. K zmäknutému mäsu pridáme kapustu a povaríme do zmäknutia kapusty (nie až do blata, musí ostať chrumkavá).",
       "image_url": null,
@@ -142,7 +142,7 @@
       "is_group_header": false
     },
     {
-      "id": "cb1d40ea-15c0-4f10-a52f-d54baf30b6a7",
+      "id": "c92d009a-0218-4639-8356-1c73a6272ae0",
       "url": null,
       "text": "Na masti speníme pretlačený cesnak, poprášime červenou paprikou, zalejeme vodou a potom pridáme k mäsu a kapuste. Ak je zmes málo kyslá, pridáme odloženú vodu z kapusty. Jucha musí ostať hustá. ",
       "image_url": null,
@@ -150,7 +150,7 @@
       "is_group_header": false
     },
     {
-      "id": "a3fe3505-2506-414a-b925-94c74ab5d77f",
+      "id": "c3642344-b126-435e-afe8-5208745667a5",
       "url": null,
       "text": "Rozdelíme do zaváraninových pohárov, uzavrieme a sterilizujeme. Necháme po sterilizácii pomaly vychladnúť.",
       "image_url": null,
@@ -161,5 +161,5 @@
   "collections": [
     "Iné"
   ],
-  "imageFilename": "jucha.png"
+  "imageFilename": "e49600b7-137e-4a43-ade7-709bec8195cb.png"
 }
