@@ -1,4 +1,3 @@
-let activeCategory = "Všetko";
 const recipesDiv = document.getElementById("recipes");
 const categoriesDiv = document.getElementById("categories");
 const searchTitle =
@@ -9,6 +8,9 @@ const searchIngredient =
 
 let allRecipes = [];
 let activeCategory = "Všetko";
+
+const sortSelect =
+  document.getElementById("sortSelect");
 
 const params =
   new URLSearchParams(window.location.search);
@@ -164,12 +166,48 @@ return (
 
   });
 
-  filtered.sort((a,b)=>
-    a.recipe.title.localeCompare(
-      b.recipe.title,
-      "sk"
-    )
-  );
+  switch(sortSelect.value){
+
+  case "az":
+
+    filtered.sort((a,b)=>
+      a.recipe.title.localeCompare(
+        b.recipe.title,
+        "sk"
+      )
+    );
+
+    break;
+
+  case "za":
+
+    filtered.sort((a,b)=>
+      b.recipe.title.localeCompare(
+        a.recipe.title,
+        "sk"
+      )
+    );
+
+    break;
+
+  case "newest":
+
+    filtered.sort((a,b)=>
+      new Date(b.recipe.createdAt || 0) -
+      new Date(a.recipe.createdAt || 0)
+    );
+
+    break;
+
+  case "random":
+
+    filtered.sort(() =>
+      Math.random() - 0.5
+    );
+
+    break;
+
+}
 
   document.getElementById("recipe-count").textContent =
   `${filtered.length} receptov`;
@@ -210,6 +248,11 @@ searchTitle.addEventListener(
 
 searchIngredient.addEventListener(
   "input",
+  renderRecipes
+);
+
+sortSelect.addEventListener(
+  "change",
   renderRecipes
 );
 
