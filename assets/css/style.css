@@ -5,6 +5,10 @@ body {
   color: #4b3621;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .hero {
   height: 340px;
   background:
@@ -24,8 +28,7 @@ main {
   width: 100%;
   max-width: 1800px;
   margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box;
+  padding: 0 20px 40px;
 }
 
 .overlay {
@@ -38,7 +41,7 @@ main {
   margin-bottom: 30px;
 }
 
-/* NOVÉ VYHĽADÁVANIE */
+/* VYHĽADÁVANIE */
 
 .search-boxes {
   display: flex;
@@ -50,11 +53,10 @@ main {
 #searchTitle,
 #searchIngredient {
   width: 280px;
-  max-width: 90vw;
   padding: 14px 20px;
   border: none;
   border-radius: 999px;
-  background: rgba(255,255,255,0.95);
+  background: rgba(255,255,255,.95);
   font-size: 15px;
   font-family: inherit;
   color: #4b3621;
@@ -74,86 +76,7 @@ main {
   color: #8a7664;
 }
 
-.print-btn {
-  width: 100%;
-  background: white;
-  color: #8b5e3c;
-  border: 2px solid #8b5e3c;
-  padding: 14px;
-  border-radius: 12px;
-  cursor: pointer;
-  font-size: 16px;
-  font-family: inherit;
-  font-weight: bold;
-  margin: 15px 0 25px;
-  transition: .2s;
-}
-
-.print-btn:hover {
-  background: #8b5e3c;
-  color: white;
-}
-
-.recipe-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
-  gap: 24px;
-  padding: 0 40px 40px;
-}
-
-#recipe-count {
-  padding: 0 40px 15px;
-  font-weight: bold;
-  color: #6b4b2a;
-}
-
-.card {
-  background: white;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 5px 20px rgba(0,0,0,.08);
-  transition: .25s;
-}
-
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 30px rgba(0,0,0,.15);
-}
-
-.card img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-}
-
-.card h3 {
-  padding: 15px;
-  margin: 0;
-}
-
-.categories {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  padding: 25px 40px;
-}
-
-.categories button {
-  border: none;
-  background: #8b5e3c;
-  color: white;
-  padding: 10px 16px;
-  border-radius: 20px;
-  cursor: pointer;
-}
-
-.categories button:hover {
-  opacity: .9;
-}
-
-.categories button.active {
-  background: #4b3621;
-}
+/* RADENIE */
 
 .sort-buttons {
   display: flex;
@@ -183,27 +106,109 @@ main {
   color: white;
 }
 
+/* KATEGÓRIE */
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 25px 0;
+}
+
+.categories button {
+  border: none;
+  background: #8b5e3c;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.categories button:hover {
+  opacity: .9;
+}
+
+.categories button.active {
+  background: #4b3621;
+}
+
+/* POČET RECEPTOV */
+
+#recipe-count {
+  text-align: center;
+  font-weight: bold;
+  color: #6b4b2a;
+  font-size: 2rem;
+  margin: 10px 0 25px;
+}
+
+/* KARTY */
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+  gap: 24px;
+  padding: 0;
+}
+
+.card {
+  background: white;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px rgba(0,0,0,.08);
+  transition: .25s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+}
+
+.card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.card h3 {
+  padding: 15px;
+  margin: 0;
+}
+
+/* TLAČ */
+
+.print-btn {
+  width: 100%;
+  background: white;
+  color: #8b5e3c;
+  border: 2px solid #8b5e3c;
+  padding: 14px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  margin: 15px 0 25px;
+  transition: .2s;
+}
+
+.print-btn:hover {
+  background: #8b5e3c;
+  color: white;
+}
+
+/* DETAIL RECEPTU */
+
 .small-hero {
   height: 260px;
 }
 
 .recipe-detail {
   max-width: 1100px;
-  margin: 70px auto 80px auto;
+  margin: 70px auto 80px;
   padding: 0 20px;
-}
-
-#instructions {
-  background: white;
-  padding: 35px;
-  border-radius: 16px;
-  box-shadow: 0 4px 15px rgba(0,0,0,.08);
-  font-size: 18px;
-}
-
-#instructions li {
-  margin-bottom: 20px;
-  line-height: 1.8;
 }
 
 .detail-image {
@@ -212,26 +217,7 @@ main {
   max-height: 500px;
   object-fit: cover;
   border-radius: 16px;
-  margin: 0 auto 25px auto;
-}
-
-.badge {
-  display: inline-block;
-  background: #8b5e3c;
-  color: white;
-  padding: 6px 12px;
-  border-radius: 20px;
-  margin-right: 8px;
-  margin-bottom: 15px;
-  text-decoration: none;
-}
-
-.badge:hover {
-  background: #6b4b2a;
-}
-
-.recipe-detail h2 {
-  margin-top: 30px;
+  margin: 0 auto 25px;
 }
 
 .recipe-top {
@@ -252,6 +238,46 @@ main {
   top: 20px;
 }
 
+.ingredients-box ul {
+  padding-left: 20px;
+}
+
+.ingredients-box li {
+  margin-bottom: 10px;
+}
+
+#instructions {
+  background: white;
+  padding: 35px;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,.08);
+  font-size: 18px;
+}
+
+#instructions li {
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+.recipe-detail h2 {
+  margin-top: 30px;
+}
+
+.badge {
+  display: inline-block;
+  background: #8b5e3c;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  margin-right: 8px;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+
+.badge:hover {
+  background: #6b4b2a;
+}
+
 .back-btn {
   display: inline-block;
   margin-top: 30px;
@@ -264,13 +290,7 @@ main {
   text-decoration: underline;
 }
 
-.ingredients-box ul {
-  padding-left: 20px;
-}
-
-.ingredients-box li {
-  margin-bottom: 10px;
-}
+/* ADMIN */
 
 #recipeResults {
   margin-bottom: 20px;
@@ -289,21 +309,25 @@ main {
   background: #f5efe8;
 }
 
+/* FOOTER */
+
 footer {
   text-align: center;
   padding: 40px 20px;
   color: #8b5e3c;
-  font-size: 0.9rem;
+  font-size: .9rem;
 }
 
 footer a {
-  opacity: 0.3;
-  transition: opacity 0.3s;
+  opacity: .3;
+  transition: opacity .3s;
 }
 
 footer a:hover {
   opacity: 1;
 }
+
+/* TLAČ */
 
 @media print {
 
@@ -318,21 +342,24 @@ footer a:hover {
   }
 
   .detail-image {
-    display: block;
     max-width: 300px;
     max-height: 220px;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 20px;
   }
 }
+
+/* MOBIL */
 
 @media (max-width: 900px) {
 
   .hero {
-    height: 240px;
+    height: 480px;
+    padding: 20px;
   }
 
   .hero h1 {
-    font-size: 2rem;
+    font-size: 2.3rem;
+    margin-bottom: 25px;
   }
 
   .search-boxes {
@@ -342,10 +369,19 @@ footer a:hover {
 
   #searchTitle,
   #searchIngredient {
-    width: 85vw;
+    width: 100%;
+    max-width: 420px;
   }
 
   .recipe-top {
+    grid-template-columns: 1fr;
+  }
+
+  #recipe-count {
+    font-size: 1.8rem;
+  }
+
+  .recipe-grid {
     grid-template-columns: 1fr;
   }
 }
