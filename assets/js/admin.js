@@ -67,6 +67,7 @@ const recipeId =
 recipe: {
   id: recipeId,
   title: title,
+  createdAt: new Date().toISOString(),
   description: null,
 
   prep_time_hours: 0,
