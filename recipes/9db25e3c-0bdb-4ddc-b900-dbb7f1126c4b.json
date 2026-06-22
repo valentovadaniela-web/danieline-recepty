@@ -1,0 +1,166 @@
+{
+  "recipe": {
+    "id": "9db25e3c-0bdb-4ddc-b900-dbb7f1126c4b",
+    "title": "Kuracie prsia v kokosovo-vanilkovej omáčke",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 30,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 30
+  },
+  "ingredients": [
+    {
+      "id": "74a26031-10b0-4bca-ad65-d9dfebcd43b5",
+      "text": "3 ks kuracích pŕs",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "3 ks kuracích pŕs",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a80dcf24-894c-4970-a404-11d6631de4df",
+      "text": "2 PL olivového oleja",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "2 PL olivového oleja",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0ab1b79b-51ec-4884-ac2a-69f1a104d635",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "9f4dba4c-ace8-4c77-b149-84286e18dd38",
+      "text": "mleté čierne korenie (podľa chuti)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "mleté čierne korenie (podľa chuti)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "62aa767a-b546-4716-8031-ed72a31fba2d",
+      "text": "0,5 ČL sušenej vanilky (nie vanilkový cukor!)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "0,5 ČL sušenej vanilky (nie vanilkový cukor!)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "061d6dc9-c0fa-4df4-98f5-4067c6c64b08",
+      "text": "0,5 šálky vývaru alebo vody",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "0,5 šálky vývaru alebo vody",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "723a02fe-6afd-4a9a-b516-8ecd9bc48953",
+      "text": "1 konzerva kokosového mlieka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "1 konzerva kokosového mlieka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "c967d941-9f0e-49ec-b1b4-a7b25c44e643",
+      "text": "1 ČL medu",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "1 ČL medu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "a45191ee-0323-465e-b75e-c9c02df8af89",
+      "url": null,
+      "text": "Kuracie prsia umyte, osušte a nakrájajte na menšie kúsky alebo rezne.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "d13520ba-1202-41a3-9da8-c8f0612e620d",
+      "url": null,
+      "text": "Na panvici rozohrejte olivový olej a kuracie prsia opečte z každej strany, kým mäso nezbelie.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "93da7b72-7cdb-44a7-a3bd-0248578c7d7b",
+      "url": null,
+      "text": "Pridajte soľ, mleté čierne korenie a sušenú vanilku. Premiešajte, aby sa aróma uvoľnila.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "3475b6d6-6834-4072-bbda-5933e142f87c",
+      "url": null,
+      "text": "Podlejte pripraveným vývarom (alebo vodou) a chvíľu poduste, kým sa tekutina trochu neodparí.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "06b9cd8f-b66b-43f7-ac9d-98622e015c22",
+      "url": null,
+      "text": "Prilejte kokosové mlieko a pridajte lyžičku medu. Omáčku dôkladne premiešajte a nechajte ju krátko prebublať do zhustnutia.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "f919d24c-2145-4b79-8a01-3b28a1d0892e",
+      "url": null,
+      "text": "Podávajte s ryžou.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Mäso",
+    "Hlavné jedlá"
+  ],
+  "imageFilename": "b60eb994-be4e-4cfa-8bd3-51dd985541b7.jpg"
+}
