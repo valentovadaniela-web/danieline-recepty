@@ -4,15 +4,15 @@
     "title": "Kuracie prsia v kokosovo-vanilkovej omáčke",
     "description": null,
     "prep_time_hours": 0,
-    "prep_time_minutes": 30,
+    "prep_time_minutes": 0,
     "cook_time_hours": 0,
     "cook_time_minutes": 0,
     "total_time_hours": 0,
-    "total_time_minutes": 30
+    "total_time_minutes": 0
   },
   "ingredients": [
     {
-      "id": "74a26031-10b0-4bca-ad65-d9dfebcd43b5",
+      "id": "0800965a-e964-4f89-a56b-a23a464d1b49",
       "text": "3 ks kuracích pŕs",
       "quantity": 0,
       "quantity2": 0,
@@ -24,7 +24,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "a80dcf24-894c-4970-a404-11d6631de4df",
+      "id": "f8c0ee81-4594-4988-bcee-517c4bfa9636",
       "text": "2 PL olivového oleja",
       "quantity": 0,
       "quantity2": 0,
@@ -36,7 +36,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "0ab1b79b-51ec-4884-ac2a-69f1a104d635",
+      "id": "d54c4f6d-dd0f-483e-9b13-d4852252dd10",
       "text": "soľ",
       "quantity": 0,
       "quantity2": 0,
@@ -48,7 +48,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "9f4dba4c-ace8-4c77-b149-84286e18dd38",
+      "id": "3b0ff97c-1dfa-4285-aac2-4f3c266e4acc",
       "text": "mleté čierne korenie (podľa chuti)",
       "quantity": 0,
       "quantity2": 0,
@@ -60,7 +60,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "62aa767a-b546-4716-8031-ed72a31fba2d",
+      "id": "15315b3f-3860-4740-8e25-9cc9ccdfaa8c",
       "text": "0,5 ČL sušenej vanilky (nie vanilkový cukor!)",
       "quantity": 0,
       "quantity2": 0,
@@ -72,7 +72,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "061d6dc9-c0fa-4df4-98f5-4067c6c64b08",
+      "id": "e2ac0f3f-456b-4761-848d-18f1052dfd73",
       "text": "0,5 šálky vývaru alebo vody",
       "quantity": 0,
       "quantity2": 0,
@@ -84,7 +84,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "723a02fe-6afd-4a9a-b516-8ecd9bc48953",
+      "id": "5925a205-48e2-49f1-b99b-7e870015e16c",
       "text": "1 konzerva kokosového mlieka",
       "quantity": 0,
       "quantity2": 0,
@@ -96,7 +96,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "c967d941-9f0e-49ec-b1b4-a7b25c44e643",
+      "id": "f3d54422-e6dd-4553-86cb-05925ac56d44",
       "text": "1 ČL medu",
       "quantity": 0,
       "quantity2": 0,
@@ -110,7 +110,7 @@
   ],
   "instructions": [
     {
-      "id": "a45191ee-0323-465e-b75e-c9c02df8af89",
+      "id": "8a7de3a7-2bb3-4acc-9136-3bf02ab34c6f",
       "url": null,
       "text": "Kuracie prsia umyte, osušte a nakrájajte na menšie kúsky alebo rezne.",
       "image_url": null,
@@ -118,7 +118,7 @@
       "is_group_header": false
     },
     {
-      "id": "d13520ba-1202-41a3-9da8-c8f0612e620d",
+      "id": "83e20041-5fe1-4993-a873-fafa624a1d3f",
       "url": null,
       "text": "Na panvici rozohrejte olivový olej a kuracie prsia opečte z každej strany, kým mäso nezbelie.",
       "image_url": null,
@@ -126,7 +126,7 @@
       "is_group_header": false
     },
     {
-      "id": "93da7b72-7cdb-44a7-a3bd-0248578c7d7b",
+      "id": "74f32697-8dde-4204-a100-26d6bf5e70e0",
       "url": null,
       "text": "Pridajte soľ, mleté čierne korenie a sušenú vanilku. Premiešajte, aby sa aróma uvoľnila.",
       "image_url": null,
@@ -134,7 +134,7 @@
       "is_group_header": false
     },
     {
-      "id": "3475b6d6-6834-4072-bbda-5933e142f87c",
+      "id": "dc0f3e52-ae1b-41e9-a1a7-3acec4e230af",
       "url": null,
       "text": "Podlejte pripraveným vývarom (alebo vodou) a chvíľu poduste, kým sa tekutina trochu neodparí.",
       "image_url": null,
@@ -142,7 +142,7 @@
       "is_group_header": false
     },
     {
-      "id": "06b9cd8f-b66b-43f7-ac9d-98622e015c22",
+      "id": "3125860b-4925-4785-9ecc-6d171ba43339",
       "url": null,
       "text": "Prilejte kokosové mlieko a pridajte lyžičku medu. Omáčku dôkladne premiešajte a nechajte ju krátko prebublať do zhustnutia.",
       "image_url": null,
@@ -150,7 +150,7 @@
       "is_group_header": false
     },
     {
-      "id": "f919d24c-2145-4b79-8a01-3b28a1d0892e",
+      "id": "25d25c85-6be0-4546-82ef-7ae7a0f09bb2",
       "url": null,
       "text": "Podávajte s ryžou.",
       "image_url": null,
