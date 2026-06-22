@@ -1,3 +1,4 @@
+let activeCategory = "Všetko";
 const recipesDiv = document.getElementById("recipes");
 const categoriesDiv = document.getElementById("categories");
 const searchTitle =
