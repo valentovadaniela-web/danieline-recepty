@@ -268,24 +268,4 @@ searchIngredient.addEventListener(
   renderRecipes
 );
 
-const sortButtons =
-  document.querySelectorAll(".sort-buttons button");
-
-let currentSort = "newest";
-
-sortButtons.forEach(button => {
-  button.addEventListener("click", () => {
-
-    sortButtons.forEach(btn =>
-      btn.classList.remove("active")
-    );
-
-    button.classList.add("active");
-
-    currentSort = button.dataset.sort;
-
-    renderRecipes();
-  });
-});
-
 loadRecipes();
