@@ -7,7 +7,7 @@
     "description": null,
     "image_url": "https://core.flavorish.ai/storage/v1/object/public/recipe-images/4bab696b-e640-5de9-b2c2-6ba01ca5361e/0116046d-ba33-497b-a8ff-004436e7af9d/c0fc2535-e539-4ed7-b54a-3b7baf3f081b.png",
     "prep_time_hours": null,
-    "prep_time_minutes": null,
+    "prep_time_minutes": 45,
     "cook_time_hours": null,
     "cook_time_minutes": null,
     "total_time_hours": null,
