@@ -1,0 +1,115 @@
+{
+  "recipe": {
+    "id": "ddad8869-e3fc-40f2-8602-ce1fc8f73f24",
+    "title": "Domáca šunka",
+    "createdAt": "2026-07-11T17:08:10.643Z",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 200,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 200
+  },
+  "ingredients": [
+    {
+      "id": "8aa15b1a-623a-4fcd-945b-d8ea5566b47d",
+      "text": "1 kg bravčové mäso (stehno, orech)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "1 kg bravčové mäso (stehno, orech)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3789830d-6f94-43de-a079-6670de2ef882",
+      "text": "100 ml voda",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "100 ml voda",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e93b4796-6e9b-4659-8d04-e82110dbe7e2",
+      "text": "20 g rýchlosoľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "20 g rýchlosoľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "47612f97-c7a4-4dc2-a1d6-b77a60629a1c",
+      "text": "trochu soli",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "trochu soli",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e03b6aa2-8ebf-4f52-a356-88eb38464fa2",
+      "text": "trochu cukru",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "trochu cukru",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "012361af-7171-4ee6-a3cb-be39c8d7ce17",
+      "url": null,
+      "text": "Mäso nakrájame na pásiky asi 7-12 cm, pridáme koreniny, zmiešame s vodou a asi 20 min necháme odpočívať. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "9e4ac9e1-1466-4321-b99c-a650e8fe2e59",
+      "url": null,
+      "text": "Formu (zmestí sa do nej cca 1,2 kg mäsa) vystelieme celofánom, mäso poukladáme do nej, dobre potlačíme, aby neostali bubliny a zatvoríme. Necháme odstáť v chladničke 36-48 hodín. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "8d6bbb0f-7be4-4467-a854-97bf05b8a324",
+      "url": null,
+      "text": "Potom sterilizujeme v hrnci pri 75-90 °C po dobu 3 hodín. Vyššia teplota sa nedoporučuje, šunka potom ostane červená a suchá. Forma musí byť pri sterilizácii ponorená do ¾, aby nenatiekla do nej voda. ",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "4c8e546c-b207-4020-aa53-d3bd98de7fcc",
+      "url": null,
+      "text": "Po sterilizácii dáme formu do studenej vody schladiť. Šunku prebalíme do čistého celofánu alebo alobalu. Uložíme do chladničky.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Mäso",
+    "Iné"
+  ],
+  "imageFilename": "ddad8869-e3fc-40f2-8602-ce1fc8f73f24.png"
+}
