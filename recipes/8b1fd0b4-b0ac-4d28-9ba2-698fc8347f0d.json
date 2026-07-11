@@ -1,0 +1,215 @@
+{
+  "recipe": {
+    "id": "8b1fd0b4-b0ac-4d28-9ba2-698fc8347f0d",
+    "title": "Kuracie mäso s citrónovou omáčkou",
+    "createdAt": "2026-07-11T15:17:58.863Z",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 30,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 30
+  },
+  "ingredients": [
+    {
+      "id": "e6ad4e50-50a0-4764-8d17-75dacdb620cb",
+      "text": "250 ml šľahačka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "250 ml šľahačka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "01564073-5647-48b5-aa8c-d10a54edaf7d",
+      "text": "2 strúčiky cesnaku",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "2 strúčiky cesnaku",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a6cfd789-7bfc-41fd-aae7-fd640a924176",
+      "text": "100 g ryža",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "100 g ryža",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b2a0d19b-a05e-47fc-bfe8-5da7a675b766",
+      "text": "1 cibuľa",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "1 cibuľa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0b56257d-7e94-4a66-a744-99ca03c37d4b",
+      "text": "75 ml suché biele víno",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "75 ml suché biele víno",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3afa0097-99d0-464a-90ca-e2a25197297b",
+      "text": "350 ml vývar (bujón)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "350 ml vývar (bujón)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4075d9f8-277c-405e-ab60-c0c13870988f",
+      "text": "2 kuracie prsia",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "2 kuracie prsia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fe5e5d9c-126a-4dde-8d6a-372b4d723fc1",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "4239fecc-36da-407d-bc1a-d5a9449cdbaa",
+      "text": "mleté čierne korenie",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "mleté čierne korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "fee443d9-e84f-4dcb-ac5e-f84edb2a1050",
+      "text": "2 PL maslo",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "2 PL maslo",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0ab7a297-2094-44cb-a5a4-fba6a7fe51ba",
+      "text": "1 vetvička rozmarínu",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 10,
+      "category_id": null,
+      "description": "1 vetvička rozmarínu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "196acea7-b37c-4250-a8ff-accfe070158a",
+      "text": "citrónová šťava a kôra",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 11,
+      "category_id": null,
+      "description": "citrónová šťava a kôra",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6c0f0c17-a8e3-42fe-8443-3143e9276cdb",
+      "text": "4-5 trojuholníky tavené syry (Karička)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 12,
+      "category_id": null,
+      "description": "4-5 trojuholníky tavené syry (Karička)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0b6c2439-b3c4-40b7-af27-e16fb00fef48",
+      "text": "olej",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 13,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "349f58c6-90f5-45d6-a213-d4821cd32352",
+      "url": null,
+      "text": "Cibuľu ošúpeme, nadrobno nasekáme a podusíme na rozohriatom oleji. Pridáme ryžu, zalejeme vínom a vývarom a dusíme približne 20 - 30 minút.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "717f3184-3396-4eef-8a1f-0e64fff45645",
+      "url": null,
+      "text": "Kuracie mäso umyjeme, osušíme, osolíme, okoreníme a opečieme z oboch strán na rozohriatom masle. Cesnak očistíme, roztlačíme a spolu s rozmarínom pridáme na kuracie mäso. Dusíme približne 10 minút a prie-bežne polievame výpekom.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "57782720-ed8e-47dd-b288-fc00492962b6",
+      "url": null,
+      "text": "Šľahačku s citrónovou šťavou, kôrou a syrom okoreníme a povaríme. Ak treba, zahustíme múkou alebo zriedime mliekom. Podávame s karí ryžou.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Hlavné jedlá",
+    "Mäso"
+  ],
+  "imageFilename": "8b1fd0b4-b0ac-4d28-9ba2-698fc8347f0d.png"
+}
