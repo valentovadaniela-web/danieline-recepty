@@ -691,41 +691,96 @@ footer a:hover {
 /* VYLEPŠENÁ TLAČ */
 
 @media print {
-  /* 1. Skry zbytočné prvky */
-  header, .hero, .search-boxes, .sort-buttons, 
+
+  /* Skry všetko, čo na tlači nemá byť */
+  header, .hero, .search-boxes, .sort-buttons,
   .categories, .print-btn, .back-btn, footer {
     display: none !important;
   }
 
-  /* 2. Reset vzhľadu */
-  body { background: white !important; color: black !important; font-size: 12pt; }
-
-  /* 3. Recept ako jeden celok */
-  .recipe-detail { margin: 0 !important; padding: 0 !important; }
-  .recipe-layout { display: block !important; }
-
-  /* 4. TOTO ZARIADI ROZLOŽENIE AKO V KNIHE */
-  .detail-image {
-    float: right;            /* Obrázok ide doprava */
-    max-width: 300px !important;
-    margin: 0 0 20px 20px !important;
-    border: 1px solid #ccc !important;
-  }
-
-  /* 5. Ingrediencie a postup bez boxov a tieňov */
-  .ingredients-box, #instructions {
-    break-inside: avoid;
-    box-shadow: none !important;
-    border: none !important; /* Odstráni rámčeky */
+  /* Základný reset */
+  body {
     background: white !important;
-    padding: 0 !important;
-    margin-bottom: 20px !important;
+    color: #2b2b2b !important;
+    font-family: Georgia, serif !important;
+    font-size: 12pt !important;
+    line-height: 1.5 !important;
+    margin: 0;
+    padding: 0;
   }
 
+  /* Celý recept ako jeden čistý blok */
+  .recipe-detail {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .recipe-layout {
+    display: block !important;
+  }
+
+  /* Obrázok vpravo – magazínový štýl */
+  .detail-image {
+    float: right;
+    max-width: 320px !important;
+    margin: 0 0 20px 25px !important;
+    border-radius: 6px !important;
+    border: 1px solid #cfcfcf !important;
+  }
+
+  /* Nadpis receptu */
+  .recipe-detail h1 {
+    font-size: 28pt !important;
+    margin-bottom: 10px !important;
+    color: #3a2a1e !important;
+    font-weight: bold !important;
+  }
+
+  /* Podnadpis (Rodinný recept | Danieline recepty) */
+  .recipe-detail .subtitle {
+    font-size: 12pt !important;
+    color: #7a6a5c !important;
+    margin-bottom: 25px !important;
+    font-style: italic;
+  }
+
+  /* Sekcie – ingrediencie, postup */
   h2 {
-    color: #d4a373 !important; /* Farba nadpisov */
-    border-bottom: 1px solid #d4a373 !important;
-    font-size: 16pt !important;
-    margin-top: 20px !important;
+    color: #b07a4a !important;
+    font-size: 18pt !important;
+    margin-top: 30px !important;
+    margin-bottom: 10px !important;
+    padding-bottom: 4px !important;
+    border-bottom: 2px solid #b07a4a !important;
+  }
+
+  /* Ingrediencie + postup – čisté, bez boxov */
+  .ingredients-box,
+  #instructions {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin-bottom: 25px !important;
+    break-inside: avoid;
+  }
+
+  .ingredients-box ul {
+    padding-left: 20px !important;
+  }
+
+  #instructions li {
+    margin-bottom: 14px !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Pätička – jemná, decentná */
+  .print-footer {
+    margin-top: 40px;
+    font-size: 10pt;
+    color: #8a7b6d;
+    border-top: 1px solid #d8c9b8;
+    padding-top: 10px;
   }
 }
