@@ -10,16 +10,7 @@
 
 <header class="hero small-hero">
   <div class="overlay">
-    <!-- ĽAVÁ ČASŤ: Nadpis + kategórie -->
-    <div class="print-left">
-      <h1 id="recipe-title">Recept</h1>
-      <div id="recipe-categories"></div>
-      <div id="recipe-meta"></div>
-    </div>
-    <!-- PRAVÁ ČASŤ: Fotka (viditeľná len pri tlači) -->
-    <div class="print-right" style="display: none;">
-      <img id="recipe-image-print" class="detail-image" src="" alt="Fotka receptu">
-    </div>
+    <h1 id="recipe-title">Recept</h1>
   </div>
 </header>
 
@@ -29,12 +20,15 @@
 
     <div class="recipe-layout">
 
-      <!-- Pôvodný obrázok (viditeľný len na obrazovke) -->
       <div class="recipe-image">
-        <img id="recipe-image-screen" class="detail-image" src="" alt="Fotka receptu">
+        <img id="recipe-image" class="detail-image" alt="">
       </div>
 
       <aside class="ingredients-box">
+
+        <div id="recipe-categories"></div>
+
+        <div id="recipe-meta"></div>
 
         <button class="print-btn" onclick="window.print()">
           🖨️ Tlačiť recept
@@ -62,40 +56,6 @@
 </main>
 
 <script src="assets/js/recipe.js"></script>
-
-<script>
-  // Funkcia na nastavenie obrázka len na stránke detailu receptu
-  function setupRecipeImage() {
-    const imgScreen = document.getElementById('recipe-image-screen');
-    const imgPrint = document.getElementById('recipe-image-print');
-    
-    if (imgScreen && imgScreen.src && imgScreen.src !== '') {
-      if (imgPrint) {
-        imgPrint.src = imgScreen.src;
-        const printRight = document.querySelector('.print-right');
-        if (printRight) {
-          printRight.style.display = 'block';
-        }
-      }
-    } else if (imgScreen) {
-      // Počkáme, kým sa naplnia dáta z recipe.js
-      setTimeout(function() {
-        const imgScreen2 = document.getElementById('recipe-image-screen');
-        const imgPrint2 = document.getElementById('recipe-image-print');
-        if (imgScreen2 && imgScreen2.src && imgScreen2.src !== '' && imgPrint2) {
-          imgPrint2.src = imgScreen2.src;
-          const printRight2 = document.querySelector('.print-right');
-          if (printRight2) {
-            printRight2.style.display = 'block';
-          }
-        }
-      }, 500);
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', setupRecipeImage);
-  window.addEventListener('load', setupRecipeImage);
-</script>
 
 </body>
 </html>
