@@ -711,16 +711,16 @@ footer a:hover {
     margin: 0 !important;
   }
 
-  /* NADPIS – presunieme ho do ľavého stĺpca */
   .small-hero .overlay {
     position: static !important;
     margin: 0 !important;
     padding: 0 !important;
   }
 
+  /* NADPIS – presun do ľavého stĺpca vedľa obrázka */
   #recipe-title {
     display: block !important;
-    float: left !important;          /* presun do ľavého stĺpca */
+    float: left !important;
     width: calc(100% - 380px) !important; /* miesto vedľa obrázka */
     margin: 0 0 20px 0 !important;
     padding-right: 20px !important;
