@@ -704,9 +704,9 @@ footer a:hover {
     color: #2b2b2b !important;
     font-family: Georgia, serif !important;
     font-size: 12pt !important;
-    line-height: 1.5 !important;
+    line-height: 1.55 !important;
     margin: 0;
-    padding: 0;
+    padding: 40px 50px; /* viac priestoru ako v knihe */
   }
 
   /* Celý recept ako jeden čistý blok */
@@ -720,38 +720,38 @@ footer a:hover {
     display: block !important;
   }
 
-  /* Obrázok vpravo – magazínový štýl */
+  /* Obrázok vpravo – väčší, výraznejší */
   .detail-image {
     float: right;
-    max-width: 320px !important;
-    margin: 0 0 20px 25px !important;
+    max-width: 360px !important;
+    margin: 0 0 25px 35px !important;
     border-radius: 6px !important;
-    border: 1px solid #cfcfcf !important;
+    border: 1px solid #d0c7bf !important;
   }
 
   /* Nadpis receptu */
   .recipe-detail h1 {
-    font-size: 28pt !important;
-    margin-bottom: 10px !important;
+    font-size: 30pt !important;
+    margin-bottom: 8px !important;
     color: #3a2a1e !important;
     font-weight: bold !important;
   }
 
-  /* Podnadpis (Rodinný recept | Danieline recepty) */
+  /* Podnadpis */
   .recipe-detail .subtitle {
-    font-size: 12pt !important;
+    font-size: 13pt !important;
     color: #7a6a5c !important;
-    margin-bottom: 25px !important;
+    margin-bottom: 30px !important;
     font-style: italic;
   }
 
   /* Sekcie – ingrediencie, postup */
   h2 {
     color: #b07a4a !important;
-    font-size: 18pt !important;
-    margin-top: 30px !important;
-    margin-bottom: 10px !important;
-    padding-bottom: 4px !important;
+    font-size: 20pt !important;
+    margin-top: 35px !important;
+    margin-bottom: 12px !important;
+    padding-bottom: 6px !important;
     border-bottom: 2px solid #b07a4a !important;
   }
 
@@ -762,22 +762,28 @@ footer a:hover {
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
-    margin-bottom: 25px !important;
+    margin-bottom: 30px !important;
     break-inside: avoid;
   }
 
   .ingredients-box ul {
-    padding-left: 20px !important;
+    padding-left: 22px !important;
+  }
+
+  .ingredients-box li {
+    margin-bottom: 8px !important;
+    font-size: 12.5pt !important;
   }
 
   #instructions li {
-    margin-bottom: 14px !important;
+    margin-bottom: 16px !important;
     line-height: 1.6 !important;
+    font-size: 13pt !important;
   }
 
-  /* Pätička – jemná, decentná */
+  /* Pätička */
   .print-footer {
-    margin-top: 40px;
+    margin-top: 50px;
     font-size: 10pt;
     color: #8a7b6d;
     border-top: 1px solid #d8c9b8;
