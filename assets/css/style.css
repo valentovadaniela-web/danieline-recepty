@@ -692,10 +692,35 @@ footer a:hover {
 
 @media print {
 
-  /* Skry všetko, čo na tlači nemá byť */
-  header, .hero, .search-boxes, .sort-buttons,
-  .categories, .print-btn, .back-btn, footer {
+  /* Skry všetko, čo na tlači nemá byť – ale NIE small-hero */
+  header.hero {
     display: none !important;
+  }
+
+  /* Small hero – zobrazíme ho, ale bez pozadia */
+  .small-hero {
+    display: block !important;
+    background: none !important;
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 0 25px 0 !important;
+  }
+
+  .small-hero .overlay {
+    text-align: left !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* NÁZOV RECEPTU – toto je tvoj nadpis */
+  #recipe-title {
+    display: block !important;
+    font-size: 30pt !important;
+    color: #3a2a1e !important;
+    font-weight: bold !important;
+    margin: 0 0 15px 0 !important;
+    line-height: 1.2 !important;
+    break-after: avoid;
   }
 
   /* Základný reset */
@@ -709,42 +734,9 @@ footer a:hover {
     padding: 40px 50px;
   }
 
-  /* MALÝ HERO – použijeme ho len ako blok s nadpisom, bez pozadia */
-  .small-hero {
-    background: none !important;
-    height: auto !important;
-    padding: 0 !important;
-    margin: 0 0 20px 0 !important;
-  }
-
-  .small-hero .overlay {
-    text-align: left !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  /* Nadpis receptu – z .small-hero h1 */
-  .small-hero h1 {
-    font-size: 30pt !important;
-    margin: 0 0 8px 0 !important;
-    color: #3a2a1e !important;
-    font-weight: bold !important;
-    break-after: avoid;
-  }
-
-  /* Podnadpis (ak ho máš v HTML) */
-  .recipe-detail .subtitle {
-    font-size: 13pt !important;
-    color: #7a6a5c !important;
-    margin-bottom: 30px !important;
-    font-style: italic;
-    break-after: avoid;
-  }
-
   .recipe-detail {
     margin: 0 !important;
     padding: 0 !important;
-    max-width: 100% !important;
   }
 
   .recipe-layout {
@@ -761,7 +753,7 @@ footer a:hover {
     break-inside: avoid;
   }
 
-  /* Sekčné nadpisy – čiara len pod textom */
+  /* Sekčné nadpisy */
   h2 {
     color: #b07a4a !important;
     font-size: 20pt !important;
@@ -775,54 +767,38 @@ footer a:hover {
 
   /* INGREDIENCIE – 2 stĺpce až pod fotkou */
   .ingredients-box {
-    clear: both;              /* začiatok pod spodkom fotky */
+    clear: both;
     margin-top: 20px !important;
 
     background: none !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
-    margin-bottom: 30px !important;
 
     column-count: 2;
     column-gap: 40px;
   }
 
-  .ingredients-box ul {
-    padding-left: 20px !important;
-    margin: 0 !important;
-  }
-
   .ingredients-box li {
+    break-inside: avoid;
     margin-bottom: 8px !important;
     font-size: 12.5pt !important;
-    break-inside: avoid;
   }
 
   /* POSTUP – môže sa lámať medzi odsekmi */
   #instructions {
+    break-inside: auto;
+    page-break-inside: auto;
     background: none !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
-    margin-bottom: 30px !important;
-
-    break-inside: auto;
-    page-break-inside: auto;
   }
 
   #instructions li {
-    margin-bottom: 16px !important;
-    line-height: 1.6 !important;
-    font-size: 13pt !important;
     break-inside: avoid;
-  }
-
-  .print-footer {
-    margin-top: 50px;
-    font-size: 10pt;
-    color: #8a7b6d;
-    border-top: 1px solid #d8c9b8;
-    padding-top: 10px;
+    margin-bottom: 16px !important;
+    font-size: 13pt !important;
+    line-height: 1.6 !important;
   }
 }
