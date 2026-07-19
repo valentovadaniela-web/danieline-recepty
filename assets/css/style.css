@@ -760,8 +760,11 @@ footer a:hover {
     break-after: avoid;
   }
 
-  /* INGREDIENCIE – 2 stĺpce */
+  /* INGREDIENCIE – 2 stĺpce, ale až pod fotkou */
   .ingredients-box {
+    clear: both;              /* TOTO zabezpečí, že ingrediencie začnú až pod fotkou */
+    margin-top: 20px !important;
+
     background: none !important;
     border: none !important;
     box-shadow: none !important;
@@ -770,7 +773,6 @@ footer a:hover {
 
     column-count: 2;          /* DVA STĹPCE */
     column-gap: 40px;         /* medzera medzi stĺpcami */
-    break-inside: avoid;
   }
 
   .ingredients-box ul {
@@ -781,7 +783,7 @@ footer a:hover {
   .ingredients-box li {
     margin-bottom: 8px !important;
     font-size: 12.5pt !important;
-    break-inside: avoid;      /* aby sa položky netrhali */
+    break-inside: avoid;
   }
 
   /* POSTUP – môže sa lámať medzi odsekmi */
@@ -792,7 +794,6 @@ footer a:hover {
     padding: 0 !important;
     margin-bottom: 30px !important;
 
-    /* už NIE ako jeden blok */
     break-inside: auto;
     page-break-inside: auto;
   }
