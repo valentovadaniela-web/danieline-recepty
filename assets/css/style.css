@@ -706,10 +706,28 @@ footer a:hover {
     font-size: 12pt !important;
     line-height: 1.55 !important;
     margin: 0;
-    padding: 40px 50px; /* viac priestoru ako v knihe */
+    padding: 40px 50px;
   }
 
-  /* Celý recept ako jeden čistý blok */
+  /* Nadpis receptu – vždy viditeľný */
+  .recipe-detail h1 {
+    font-size: 30pt !important;
+    margin-bottom: 8px !important;
+    color: #3a2a1e !important;
+    font-weight: bold !important;
+    break-after: avoid; /* zabráni odtrhnutiu nadpisu */
+  }
+
+  /* Podnadpis */
+  .recipe-detail .subtitle {
+    font-size: 13pt !important;
+    color: #7a6a5c !important;
+    margin-bottom: 30px !important;
+    font-style: italic;
+    break-after: avoid;
+  }
+
+  /* Celý recept ako jeden blok */
   .recipe-detail {
     margin: 0 !important;
     padding: 0 !important;
@@ -720,32 +738,17 @@ footer a:hover {
     display: block !important;
   }
 
-  /* Obrázok vpravo – väčší, výraznejší */
+  /* Obrázok vpravo – čiara ho nepretne */
   .detail-image {
     float: right;
     max-width: 360px !important;
     margin: 0 0 25px 35px !important;
     border-radius: 6px !important;
     border: 1px solid #d0c7bf !important;
+    break-inside: avoid;
   }
 
-  /* Nadpis receptu */
-  .recipe-detail h1 {
-    font-size: 30pt !important;
-    margin-bottom: 8px !important;
-    color: #3a2a1e !important;
-    font-weight: bold !important;
-  }
-
-  /* Podnadpis */
-  .recipe-detail .subtitle {
-    font-size: 13pt !important;
-    color: #7a6a5c !important;
-    margin-bottom: 30px !important;
-    font-style: italic;
-  }
-
-  /* Sekcie – ingrediencie, postup */
+  /* Sekčné nadpisy – čiara len pod textom, nie cez fotku */
   h2 {
     color: #b07a4a !important;
     font-size: 20pt !important;
@@ -753,11 +756,12 @@ footer a:hover {
     margin-bottom: 12px !important;
     padding-bottom: 6px !important;
     border-bottom: 2px solid #b07a4a !important;
+    display: inline-block; /* TOTO zabráni pretiahnutiu čiary cez obrázok */
+    break-after: avoid;
   }
 
-  /* Ingrediencie + postup – čisté, bez boxov */
-  .ingredients-box,
-  #instructions {
+  /* Ingrediencie */
+  .ingredients-box {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
@@ -773,6 +777,18 @@ footer a:hover {
   .ingredients-box li {
     margin-bottom: 8px !important;
     font-size: 12.5pt !important;
+  }
+
+  /* POSTUP – celý blok sa nikdy nerozdelí */
+  #instructions {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin-bottom: 30px !important;
+
+    break-inside: avoid-page; /* Chrome */
+    page-break-inside: avoid; /* Firefox */
   }
 
   #instructions li {
