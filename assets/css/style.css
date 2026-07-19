@@ -698,8 +698,7 @@ footer a:hover {
   .categories,
   .print-btn,
   .back-btn,
-  footer,
-  .recipe-image {
+  footer {
     display: none !important;
   }
 
@@ -731,14 +730,19 @@ footer a:hover {
     max-width: 100% !important;
   }
 
-  /* === FOTKA – vpravo hore === */
-  .detail-image {
+  /* === FOTKA – vpravo hore (presunieme z recipe-image) === */
+  .recipe-image {
     display: block !important;
     float: right !important;
     max-width: 45% !important;
     width: 45% !important;
-    height: auto !important;
     margin: 0 0 20px 30px !important;
+  }
+
+  .detail-image {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
     border-radius: 4px !important;
     border: 1px solid #ccc !important;
   }
@@ -755,7 +759,7 @@ footer a:hover {
     max-width: 52% !important;
   }
 
-  /* KATEGÓRIE – pod nadpisom */
+  /* KATEGÓRIE – pod nadpisom vľavo */
   #recipe-categories,
   #recipe-meta {
     max-width: 52% !important;
@@ -800,6 +804,11 @@ footer a:hover {
     margin-bottom: 6px !important;
     font-size: 12pt !important;
     line-height: 1.4 !important;
+  }
+
+  /* Skryť tlačidlo v ingredienciách */
+  .ingredients-box .print-btn {
+    display: none !important;
   }
 
   /* === POSTUP – láme sa medzi odsekmi === */
