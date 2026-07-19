@@ -194,6 +194,25 @@
         page-break-inside: auto !important;
       }
     }
+
+    /* Štýl pre tlačidlo - aby bolo pekné aj na obrazovke */
+    .print-btn {
+      background: #8b5e3c;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 16px;
+      font-family: inherit;
+      font-weight: bold;
+      margin: 10px 0 20px;
+      transition: background 0.2s;
+    }
+
+    .print-btn:hover {
+      background: #6b4b2a;
+    }
   </style>
 </head>
 <body>
@@ -206,9 +225,9 @@
       <div id="recipe-categories"></div>
       <div id="recipe-meta"></div>
     </div>
-    <!-- PRAVÁ ČASŤ: Fotka -->
-    <div class="print-right">
-      <img id="recipe-image" class="detail-image" src="" alt="Fotka receptu">
+    <!-- PRAVÁ ČASŤ: Fotka (viditeľná len pri tlači) -->
+    <div class="print-right" style="display: none;">
+      <img id="recipe-image-print" class="detail-image" src="" alt="Fotka receptu">
     </div>
   </div>
 </header>
@@ -254,15 +273,44 @@
 <script src="assets/js/recipe.js"></script>
 
 <script>
-  // Po načítaní stránky skopírujeme zdroj obrázka do oboch verzií
-  document.addEventListener('DOMContentLoaded', function() {
-    const imageSrc = 'https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=600';
-    const imgPrint = document.getElementById('recipe-image');
+  // Funkcia na nastavenie obrázka len na stránke detailu receptu
+  function setupRecipeImage() {
+    // Skontrolujeme, či sme na stránke detailu receptu (existuje element #recipe-image-screen)
     const imgScreen = document.getElementById('recipe-image-screen');
+    const imgPrint = document.getElementById('recipe-image-print');
     
-    if (imgPrint) imgPrint.src = imageSrc;
-    if (imgScreen) imgScreen.src = imageSrc;
-  });
+    if (imgScreen && imgScreen.src && imgScreen.src !== '') {
+      // Ak má obrázok už zdroj, skopírujeme ho do tlačovej verzie
+      if (imgPrint) {
+        imgPrint.src = imgScreen.src;
+        // Zobrazíme pravú časť pre tlač
+        const printRight = document.querySelector('.print-right');
+        if (printRight) {
+          printRight.style.display = 'block';
+        }
+      }
+    } else if (imgScreen) {
+      // Ak nemá zdroj, skúsime ho získať z dát z recipe.js
+      // Počkáme, kým sa naplnia dáta
+      setTimeout(function() {
+        const imgScreen2 = document.getElementById('recipe-image-screen');
+        const imgPrint2 = document.getElementById('recipe-image-print');
+        if (imgScreen2 && imgScreen2.src && imgScreen2.src !== '' && imgPrint2) {
+          imgPrint2.src = imgScreen2.src;
+          const printRight2 = document.querySelector('.print-right');
+          if (printRight2) {
+            printRight2.style.display = 'block';
+          }
+        }
+      }, 500);
+    }
+  }
+
+  // Spustíme pri načítaní stránky
+  document.addEventListener('DOMContentLoaded', setupRecipeImage);
+  
+  // A tiež po naplnení údajov z recipe.js (ak používa async)
+  window.addEventListener('load', setupRecipeImage);
 </script>
 
 </body>
