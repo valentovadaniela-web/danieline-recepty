@@ -691,115 +691,41 @@ footer a:hover {
 /* VYLEPŠENÁ TLAČ */
 
 @media print {
-
-  /* Skrytie ovládacích prvkov a zbytočností */
-
-  header, 
-
-  .hero,
-
-  .search-boxes,
-
-  .sort-buttons,
-
-  .categories,
-
-  .print-btn,
-
-  .back-btn,
-
-  footer {
-
+  /* 1. Skry zbytočné prvky */
+  header, .hero, .search-boxes, .sort-buttons, 
+  .categories, .print-btn, .back-btn, footer {
     display: none !important;
-
   }
 
+  /* 2. Reset vzhľadu */
+  body { background: white !important; color: black !important; font-size: 12pt; }
 
+  /* 3. Recept ako jeden celok */
+  .recipe-detail { margin: 0 !important; padding: 0 !important; }
+  .recipe-layout { display: block !important; }
 
-  /* Nastavenie stránky a písma pre tlač */
-
-  body {
-
-    background: white !important;
-
-    color: black !important;
-
-    font-size: 12pt;
-
-    line-height: 1.5;
-
-  }
-
-
-
-  /* Recept detail - zrušenie gridu pre tlač */
-
-  .recipe-detail {
-
-    margin: 0 !important;
-
-    padding: 0 !important;
-
-    max-width: 100% !important;
-
-  }
-
-
-
-  .recipe-layout {
-
-    display: block !important;
-
-  }
-
-
-
-  /* Obrázok */
-
+  /* 4. TOTO ZARIADI ROZLOŽENIE AKO V KNIHE */
   .detail-image {
-
+    float: right;            /* Obrázok ide doprava */
     max-width: 300px !important;
-
-    float: right;
-
     margin: 0 0 20px 20px !important;
-
     border: 1px solid #ccc !important;
-
   }
 
-
-
-  /* Ingrediencie a postup - aby sa netrhali medzi strany */
-
-  .ingredients-box, 
-
-  #instructions {
-
+  /* 5. Ingrediencie a postup bez boxov a tieňov */
+  .ingredients-box, #instructions {
     break-inside: avoid;
-
     box-shadow: none !important;
-
-    border: 1px solid #ccc !important;
-
+    border: none !important; /* Odstráni rámčeky */
     background: white !important;
-
+    padding: 0 !important;
     margin-bottom: 20px !important;
-
-    padding: 15px !important;
-
   }
-
-
 
   h2 {
-
-    color: black !important;
-
-    border-bottom: 1px solid #333 !important;
-
+    color: #d4a373 !important; /* Farba nadpisov */
+    border-bottom: 1px solid #d4a373 !important;
     font-size: 16pt !important;
-
+    margin-top: 20px !important;
   }
-
 }
