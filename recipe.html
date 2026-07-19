@@ -5,215 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Danieline recepty</title>
   <link rel="stylesheet" href="assets/css/style.css">
-  <style>
-    /* Štýly pre tlač priamo v HTML */
-    @media print {
-      /* SKRYTIE NEPOTREBNÝCH PRVKOV */
-      .hero:not(.small-hero),
-      .search-boxes,
-      .sort-buttons,
-      .categories,
-      .print-btn,
-      .back-btn,
-      footer {
-        display: none !important;
-      }
-
-      /* SMALL HERO – flex kontajner pre nadpis + fotku */
-      .small-hero {
-        background: none !important;
-        height: auto !important;
-        padding: 0 !important;
-        margin: 0 0 20px 0 !important;
-        min-height: 0 !important;
-      }
-
-      .small-hero .overlay {
-        position: static !important;
-        margin: 0 !important;
-        padding: 0 !important;
-        display: flex !important;
-        flex-direction: row !important;
-        align-items: flex-start !important;
-        gap: 30px !important;
-        width: 100% !important;
-        text-align: left !important;
-      }
-
-      /* ĽAVÁ ČASŤ – nadpis + kategórie */
-      .print-left {
-        flex: 1 !important;
-        max-width: 52% !important;
-      }
-
-      /* PRAVÁ ČASŤ – fotka */
-      .print-right {
-        flex: 0 0 45% !important;
-        max-width: 45% !important;
-      }
-
-      /* HLAVNÝ KONTAJNER */
-      .recipe-detail {
-        max-width: 100% !important;
-        margin: 0 !important;
-        padding: 0 !important;
-      }
-
-      .recipe-layout {
-        display: block !important;
-        max-width: 100% !important;
-      }
-
-      /* === FOTKA === */
-      .detail-image {
-        display: block !important;
-        width: 100% !important;
-        height: auto !important;
-        border-radius: 4px !important;
-        border: 1px solid #ccc !important;
-      }
-
-      /* Skryť pôvodný recipe-image */
-      .recipe-image {
-        display: none !important;
-      }
-
-      /* === NADPIS – vľavo vedľa fotky === */
-      #recipe-title {
-        font-size: 22pt !important;
-        color: #b07a4a !important;
-        font-weight: bold !important;
-        border-bottom: 2px solid #b07a4a !important;
-        padding-bottom: 8px !important;
-        line-height: 1.3 !important;
-        margin: 0 0 6px 0 !important;
-        width: 100% !important;
-      }
-
-      /* KATEGÓRIE – pod nadpisom */
-      #recipe-categories,
-      #recipe-meta {
-        width: 100% !important;
-        margin-bottom: 6px !important;
-        font-size: 11pt !important;
-        color: #666 !important;
-      }
-
-      .badge {
-        display: inline-block !important;
-        background: none !important;
-        color: #4b3621 !important;
-        padding: 0 8px 0 0 !important;
-        font-weight: normal !important;
-        font-size: 11pt !important;
-      }
-
-      /* === INGREDIENCIE – pod fotkou, 2 stĺpce === */
-      .ingredients-box {
-        clear: both !important;
-        display: block !important;
-        margin-top: 20px !important;
-        padding: 15px 0 0 0 !important;
-        background: none !important;
-        border: none !important;
-        box-shadow: none !important;
-        border-top: 1px solid #ddd !important;
-        column-count: 2 !important;
-        column-gap: 40px !important;
-        width: 100% !important;
-        position: static !important;
-        top: auto !important;
-      }
-
-      .ingredients-box h2 {
-        column-span: all !important;
-        font-size: 16pt !important;
-        color: #b07a4a !important;
-        margin: 0 0 12px 0 !important;
-        padding-bottom: 4px !important;
-        border-bottom: 1px solid #b07a4a !important;
-      }
-
-      .ingredients-box ul {
-        padding-left: 20px !important;
-        margin: 0 !important;
-      }
-
-      .ingredients-box li {
-        break-inside: avoid !important;
-        margin-bottom: 6px !important;
-        font-size: 12pt !important;
-        line-height: 1.4 !important;
-      }
-
-      /* Skryť tlačidlo v ingredienciách */
-      .ingredients-box .print-btn {
-        display: none !important;
-      }
-
-      /* === POSTUP – láme sa medzi odsekmi === */
-      .recipe-steps {
-        margin-top: 10px !important;
-        break-inside: auto !important;
-        page-break-inside: auto !important;
-      }
-
-      .recipe-steps h2 {
-        font-size: 16pt !important;
-        color: #b07a4a !important;
-        margin: 15px 0 10px 0 !important;
-        border-bottom: 1px solid #b07a4a !important;
-        padding-bottom: 4px !important;
-      }
-
-      #instructions {
-        background: none !important;
-        border: none !important;
-        box-shadow: none !important;
-        padding: 0 !important;
-        break-inside: auto !important;
-        page-break-inside: auto !important;
-      }
-
-      #instructions ol,
-      #instructions ul {
-        padding-left: 25px !important;
-        margin: 0 !important;
-      }
-
-      #instructions li {
-        break-inside: avoid !important;
-        page-break-inside: avoid !important;
-        margin-bottom: 14px !important;
-        font-size: 12.5pt !important;
-        line-height: 1.6 !important;
-      }
-
-      #instructions p {
-        break-inside: auto !important;
-        page-break-inside: auto !important;
-      }
-    }
-
-    /* Štýl pre tlačidlo - aby bolo pekné aj na obrazovke */
-    .print-btn {
-      background: #8b5e3c;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 16px;
-      font-family: inherit;
-      font-weight: bold;
-      margin: 10px 0 20px;
-      transition: background 0.2s;
-    }
-
-    .print-btn:hover {
-      background: #6b4b2a;
-    }
-  </style>
 </head>
 <body>
 
@@ -275,23 +66,19 @@
 <script>
   // Funkcia na nastavenie obrázka len na stránke detailu receptu
   function setupRecipeImage() {
-    // Skontrolujeme, či sme na stránke detailu receptu (existuje element #recipe-image-screen)
     const imgScreen = document.getElementById('recipe-image-screen');
     const imgPrint = document.getElementById('recipe-image-print');
     
     if (imgScreen && imgScreen.src && imgScreen.src !== '') {
-      // Ak má obrázok už zdroj, skopírujeme ho do tlačovej verzie
       if (imgPrint) {
         imgPrint.src = imgScreen.src;
-        // Zobrazíme pravú časť pre tlač
         const printRight = document.querySelector('.print-right');
         if (printRight) {
           printRight.style.display = 'block';
         }
       }
     } else if (imgScreen) {
-      // Ak nemá zdroj, skúsime ho získať z dát z recipe.js
-      // Počkáme, kým sa naplnia dáta
+      // Počkáme, kým sa naplnia dáta z recipe.js
       setTimeout(function() {
         const imgScreen2 = document.getElementById('recipe-image-screen');
         const imgPrint2 = document.getElementById('recipe-image-print');
@@ -306,10 +93,7 @@
     }
   }
 
-  // Spustíme pri načítaní stránky
   document.addEventListener('DOMContentLoaded', setupRecipeImage);
-  
-  // A tiež po naplnení údajov z recipe.js (ak používa async)
   window.addEventListener('load', setupRecipeImage);
 </script>
 
