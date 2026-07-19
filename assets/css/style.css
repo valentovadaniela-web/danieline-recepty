@@ -690,16 +690,16 @@ footer a:hover {
 
 /* VYLEPŠENÁ TLAČ */
 
-/* VYLEPŠENÁ TLAČ */
 @media print {
-  /* Skryť všetko okrem small-hero a detailu */
+  /* SKRYTIE NEPOTREBNÝCH PRVKOV */
   .hero:not(.small-hero),
   .search-boxes,
   .sort-buttons,
   .categories,
   .print-btn,
   .back-btn,
-  footer {
+  footer,
+  .recipe-image {
     display: none !important;
   }
 
@@ -719,7 +719,7 @@ footer a:hover {
     display: block !important;
   }
 
-  /* HLAVNÝ KONTajNER – detail */
+  /* HLAVNÝ KONTAJNER */
   .recipe-detail {
     max-width: 100% !important;
     margin: 0 !important;
@@ -731,17 +731,19 @@ footer a:hover {
     max-width: 100% !important;
   }
 
-  /* OBRAZOK – vpravo hore */
+  /* === FOTKA – vpravo hore === */
   .detail-image {
+    display: block !important;
     float: right !important;
     max-width: 45% !important;
     width: 45% !important;
+    height: auto !important;
     margin: 0 0 20px 30px !important;
     border-radius: 4px !important;
     border: 1px solid #ccc !important;
   }
 
-  /* NADPIS – vľavo, štýl ako na obrázku */
+  /* === NADPIS – vľavo === */
   #recipe-title {
     font-size: 22pt !important;
     color: #b07a4a !important;
@@ -753,7 +755,7 @@ footer a:hover {
     max-width: 52% !important;
   }
 
-  /* KATEGÓRIE – pod nadpisom vľavo */
+  /* KATEGÓRIE – pod nadpisom */
   #recipe-categories,
   #recipe-meta {
     max-width: 52% !important;
@@ -762,7 +764,7 @@ footer a:hover {
     color: #666 !important;
   }
 
-  /* INGREDIENCIE – pod fotkou, 2 stĺpce */
+  /* === INGREDIENCIE – pod fotkou, 2 stĺpce === */
   .ingredients-box {
     clear: both !important;
     display: block !important;
@@ -800,7 +802,7 @@ footer a:hover {
     line-height: 1.4 !important;
   }
 
-  /* POSTUP – láme sa medzi odsekmi */
+  /* === POSTUP – láme sa medzi odsekmi === */
   .recipe-steps {
     margin-top: 10px !important;
     break-inside: auto !important;
@@ -838,19 +840,12 @@ footer a:hover {
     line-height: 1.6 !important;
   }
 
-  /* Odstavec – môže sa zlomiť medzi stranami */
   #instructions p {
     break-inside: auto !important;
     page-break-inside: auto !important;
   }
 
-  /* Skryť nepotrebné elementy v detaile */
-  .recipe-image,
-  .recipe-detail > h2:first-of-type {
-    display: none !important;
-  }
-
-  /* badge – zobraziť ako text */
+  /* BADGE – zobraziť ako text */
   .badge {
     display: inline-block !important;
     background: none !important;
