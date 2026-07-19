@@ -692,7 +692,7 @@ footer a:hover {
 
 @media print {
 
-  /* Skryť veľký hero, ale NIE small-hero */
+  /* Skryť všetko okrem small-hero */
   .hero:not(.small-hero),
   .search-boxes,
   .sort-buttons,
@@ -703,7 +703,7 @@ footer a:hover {
     display: none !important;
   }
 
-  /* SMALL HERO – zrušíme pozadie a spravíme z neho normálny blok */
+  /* SMALL HERO – zrušíme pozadie, spravíme z neho normálny blok */
   .small-hero {
     background: none !important;
     height: auto !important;
@@ -717,15 +717,18 @@ footer a:hover {
     padding: 0 !important;
   }
 
-  /* NADPIS – presun do ľavého stĺpca vedľa obrázka */
-  #recipe-title {
-    display: block !important;
+  /* NADPIS + kategórie vľavo vedľa fotky */
+  #recipe-title,
+  #recipe-categories,
+  #recipe-meta {
     float: left !important;
     width: calc(100% - 380px) !important; /* miesto vedľa obrázka */
-    margin: 0 0 20px 0 !important;
+    margin: 0 0 15px 0 !important;
     padding-right: 20px !important;
+  }
 
-    /* štýl ako nadpis Ingrediencie */
+  /* Nadpis – štýl ako Ingrediencie */
+  #recipe-title {
     font-size: 20pt !important;
     color: #b07a4a !important;
     font-weight: bold !important;
@@ -734,7 +737,7 @@ footer a:hover {
     line-height: 1.3 !important;
   }
 
-  /* Obrázok vpravo */
+  /* Fotka vpravo hore */
   .detail-image {
     float: right !important;
     max-width: 360px !important;
@@ -743,9 +746,9 @@ footer a:hover {
     border: 1px solid #d0c7bf !important;
   }
 
-  /* Ingrediencie – začínajú až pod obrázkom */
+  /* INGREDIENCIE – až pod fotkou */
   .ingredients-box {
-    clear: both !important;
+    clear: both !important; /* toto zabezpečí, že začnú pod fotkou */
     margin-top: 20px !important;
 
     column-count: 2;
@@ -757,7 +760,13 @@ footer a:hover {
     padding: 0 !important;
   }
 
-  /* Postup – môže sa lámať medzi odsekmi */
+  .ingredients-box li {
+    break-inside: avoid;
+    margin-bottom: 8px !important;
+    font-size: 12.5pt !important;
+  }
+
+  /* POSTUP – môže sa lámať medzi odsekmi */
   #instructions {
     break-inside: auto;
     page-break-inside: auto;
