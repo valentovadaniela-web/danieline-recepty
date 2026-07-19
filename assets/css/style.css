@@ -1,414 +1,805 @@
 body {
+
   margin: 0;
+
   font-family: Georgia, serif;
+
   background: #f8f3eb;
+
   color: #4b3621;
+
 }
+
+
 
 * {
+
   box-sizing: border-box;
+
 }
+
+
 
 .hero {
+
   height: 340px;
+
   background:
+
     linear-gradient(
+
       rgba(0,0,0,.35),
+
       rgba(0,0,0,.35)
+
     ),
+
     url("https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=1600");
+
   background-size: cover;
+
   background-position: center;
+
   display: flex;
+
   justify-content: center;
+
   align-items: center;
+
 }
+
+
 
 main {
+
   width: 100%;
+
   max-width: 1800px;
+
   margin: 0 auto;
+
   padding: 0 20px 40px;
+
 }
+
+
 
 .overlay {
+
   text-align: center;
+
 }
 
+
+
 .hero h1 {
+
   color: white;
+
   font-size: 3rem;
+
   margin-bottom: 30px;
+
 }
+
+
 
 /* VYHĽADÁVANIE */
 
+
+
 .search-boxes {
+
   display: flex;
+
   justify-content: center;
+
   gap: 12px;
+
   flex-wrap: wrap;
+
 }
+
+
 
 #searchTitle,
+
 #searchIngredient {
+
   width: 280px;
+
   padding: 14px 20px;
+
   border: none;
+
   border-radius: 999px;
+
   background: rgba(255,255,255,.95);
+
   font-size: 15px;
+
   font-family: inherit;
+
   color: #4b3621;
+
   box-shadow: 0 4px 15px rgba(0,0,0,.15);
+
   outline: none;
+
   transition: .2s;
+
 }
+
+
 
 #searchTitle:focus,
+
 #searchIngredient:focus {
+
   transform: translateY(-2px);
+
   box-shadow: 0 6px 20px rgba(0,0,0,.25);
+
 }
 
+
+
 #searchTitle::placeholder,
+
 #searchIngredient::placeholder {
+
   color: #8a7664;
+
 }
+
+
 
 /* RADENIE */
 
+
+
 .sort-buttons {
+
   display: flex;
+
   gap: 10px;
+
   justify-content: center;
+
   flex-wrap: wrap;
+
   margin: 20px 0;
+
 }
+
+
 
 .sort-buttons button {
+
   padding: 10px 18px;
+
   border: none;
+
   border-radius: 999px;
+
   background: #e8d7c8;
+
   color: #5b3d29;
+
   cursor: pointer;
+
   font-weight: 600;
+
   transition: .2s;
+
 }
+
+
 
 .sort-buttons button:hover {
+
   transform: translateY(-2px);
+
 }
 
+
+
 .sort-buttons button.active {
+
   background: #8b5e3c;
+
   color: white;
+
 }
+
+
 
 /* KATEGÓRIE */
 
+
+
 .categories {
+
   display: flex;
+
   flex-wrap: wrap;
+
   justify-content: center;
+
   gap: 10px;
+
   padding: 25px 0;
+
 }
+
+
 
 .categories button {
+
   border: none;
+
   background: #8b5e3c;
+
   color: white;
+
   padding: 10px 16px;
+
   border-radius: 20px;
+
   cursor: pointer;
+
   transition: .2s;
+
 }
+
+
 
 .categories button:hover {
+
   opacity: .9;
+
 }
 
+
+
 .categories button.active {
+
   background: #4b3621;
+
 }
+
+
 
 /* POČET RECEPTOV */
 
+
+
 #recipe-count {
+
   text-align: center;
+
   font-weight: bold;
+
   color: #6b4b2a;
+
   font-size: 2rem;
+
   margin: 10px 0 25px;
+
 }
+
+
 
 /* KARTY */
 
+
+
 .recipe-grid {
+
   display: grid;
+
   grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+
   gap: 24px;
+
   padding: 0;
+
 }
+
+
 
 .card {
+
   background: white;
+
   border-radius: 18px;
+
   overflow: hidden;
+
   box-shadow: 0 5px 20px rgba(0,0,0,.08);
+
   transition: .25s;
+
 }
+
+
 
 .card:hover {
+
   transform: translateY(-5px);
+
   box-shadow: 0 10px 30px rgba(0,0,0,.15);
+
 }
+
+
 
 .card img {
+
   width: 100%;
+
   height: 220px;
+
   object-fit: cover;
+
 }
 
+
+
 .card h3 {
+
   padding: 15px;
+
   margin: 0;
+
 }
+
+
 
 /* TLAČ */
 
+
+
 .print-btn {
+
   width: 100%;
+
   background: white;
+
   color: #8b5e3c;
+
   border: 2px solid #8b5e3c;
+
   padding: 14px;
+
   border-radius: 12px;
+
   cursor: pointer;
+
   font-size: 16px;
+
   font-family: inherit;
+
   font-weight: bold;
+
   margin: 15px 0 25px;
+
   transition: .2s;
+
 }
 
+
+
 .print-btn:hover {
+
   background: #8b5e3c;
+
   color: white;
+
 }
+
+
 
 /* DETAIL RECEPTU */
 
+
+
 .small-hero {
+
   height: 260px;
+
 }
+
+
 
 .recipe-detail {
+
   max-width: 1100px;
+
   margin: 70px auto 80px;
+
   padding: 0 20px;
+
 }
+
+
 
 .recipe-layout {
+
   display: grid;
+
   grid-template-columns: minmax(0, 1fr) 320px;
+
   gap: 30px;
+
   align-items: start;
+
 }
+
+
 
 .recipe-image {
+
   grid-column: 1;
+
   grid-row: 1;
+
 }
+
+
 
 .recipe-steps {
+
   grid-column: 1;
+
   grid-row: 2;
+
 }
+
+
 
 .detail-image {
+
   display: block;
+
   width: 100%;
+
   max-height: 500px;
+
   object-fit: cover;
+
   border-radius: 16px;
+
 }
+
+
 
 .ingredients-box {
+
   grid-column: 2;
+
   grid-row: 1 / span 2;
 
+
+
   background: white;
+
   padding: 25px;
+
   border-radius: 16px;
+
   border: 1px solid #e7ddd0;
+
   box-shadow: 0 2px 10px rgba(0,0,0,.08);
 
+
+
   position: sticky;
+
   top: 20px;
+
 }
+
+
 
 .ingredients-box ul {
+
   padding-left: 20px;
+
 }
+
+
 
 .ingredients-box li {
+
   margin-bottom: 10px;
+
 }
+
+
 
 .recipe-steps h2 {
+
   margin-top: 35px;
+
 }
+
+
 
 #instructions {
+
   background: white;
+
   padding: 35px;
+
   border-radius: 16px;
+
   box-shadow: 0 4px 15px rgba(0,0,0,.08);
+
   font-size: 18px;
+
 }
+
+
 
 #instructions li {
+
   margin-bottom: 20px;
+
   line-height: 1.8;
+
 }
+
+
 
 .recipe-detail h2 {
+
   margin-top: 0;
+
 }
+
+
 
 .badge {
+
   display: inline-block;
+
   background: #8b5e3c;
+
   color: white;
+
   padding: 6px 12px;
+
   border-radius: 20px;
+
   margin-right: 8px;
+
   margin-bottom: 15px;
+
   text-decoration: none;
+
 }
+
+
 
 .badge:hover {
+
   background: #6b4b2a;
+
 }
+
+
 
 .back-btn {
+
   display: inline-block;
+
   margin-top: 30px;
+
   color: #8b5e3c;
+
   text-decoration: none;
+
   font-weight: bold;
+
 }
 
+
+
 .back-btn:hover {
+
   text-decoration: underline;
+
 }
+
+
 
 /* ADMIN */
 
+
+
 #recipeResults {
+
   margin-bottom: 20px;
+
 }
+
+
 
 .recipe-result {
+
   background: white;
+
   padding: 10px;
+
   margin: 5px 0;
+
   border: 1px solid #ddd;
+
   border-radius: 8px;
+
   cursor: pointer;
+
 }
 
+
+
 .recipe-result:hover {
+
   background: #f5efe8;
+
 }
+
+
 
 /* FOOTER */
 
+
+
 footer {
+
   text-align: center;
+
   padding: 40px 20px;
+
   color: #8b5e3c;
+
   font-size: .9rem;
+
 }
+
+
 
 footer a {
+
   opacity: .3;
+
   transition: opacity .3s;
+
 }
+
+
 
 footer a:hover {
+
   opacity: 1;
+
 }
 
-/* TLAČ */
+
+
+/* VYLEPŠENÁ TLAČ */
 
 @media print {
 
-  header,
-  button,
-  a {
-    display: none;
+  /* Skrytie ovládacích prvkov a zbytočností */
+
+  header, 
+
+  .hero,
+
+  .search-boxes,
+
+  .sort-buttons,
+
+  .categories,
+
+  .print-btn,
+
+  .back-btn,
+
+  footer {
+
+    display: none !important;
+
   }
+
+
+
+  /* Nastavenie stránky a písma pre tlač */
 
   body {
-    background: white;
+
+    background: white !important;
+
+    color: black !important;
+
+    font-size: 12pt;
+
+    line-height: 1.5;
+
   }
+
+
+
+  /* Recept detail - zrušenie gridu pre tlač */
+
+  .recipe-detail {
+
+    margin: 0 !important;
+
+    padding: 0 !important;
+
+    max-width: 100% !important;
+
+  }
+
+
+
+  .recipe-layout {
+
+    display: block !important;
+
+  }
+
+
+
+  /* Obrázok */
 
   .detail-image {
-    max-width: 300px;
-    max-height: 220px;
-    margin: 0 auto 20px;
-  }
-}
 
-/* MOBIL */
+    max-width: 300px !important;
 
-@media (max-width: 900px) {
+    float: right;
 
-  .hero {
-    height: 480px;
-    padding: 20px;
+    margin: 0 0 20px 20px !important;
+
+    border: 1px solid #ccc !important;
+
   }
 
-  .hero h1 {
-    font-size: 2.3rem;
-    margin-bottom: 25px;
+
+
+  /* Ingrediencie a postup - aby sa netrhali medzi strany */
+
+  .ingredients-box, 
+
+  #instructions {
+
+    break-inside: avoid;
+
+    box-shadow: none !important;
+
+    border: 1px solid #ccc !important;
+
+    background: white !important;
+
+    margin-bottom: 20px !important;
+
+    padding: 15px !important;
+
   }
 
-  .search-boxes {
-    flex-direction: column;
-    align-items: center;
+
+
+  h2 {
+
+    color: black !important;
+
+    border-bottom: 1px solid #333 !important;
+
+    font-size: 16pt !important;
+
   }
 
-  #searchTitle,
-  #searchIngredient {
-    width: 100%;
-    max-width: 420px;
-  }
-
-.recipe-layout {
-  grid-template-columns: 1fr;
-}
-
-.recipe-image,
-.ingredients-box,
-.recipe-steps {
-  grid-column: 1;
-  grid-row: auto;
-}
-
-.ingredients-box {
-  position: static;
-}
-
-  #recipe-count {
-    font-size: 1.8rem;
-  }
-
-  .recipe-grid {
-    grid-template-columns: 1fr;
-  }
 }
