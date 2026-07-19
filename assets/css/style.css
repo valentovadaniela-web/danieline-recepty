@@ -692,12 +692,17 @@ footer a:hover {
 
 @media print {
 
-  /* Skry všetko, čo na tlači nemá byť – ale NIE small-hero */
-  header.hero {
+  /* NEMAZ header ani small-hero, skry len veľký hero na úvodnej stránke */
+  .hero:not(.small-hero),
+  .search-boxes,
+  .sort-buttons,
+  .categories,
+  .print-btn,
+  .back-btn,
+  footer {
     display: none !important;
   }
 
-  /* Small hero – zobrazíme ho, ale bez pozadia */
   .small-hero {
     display: block !important;
     background: none !important;
@@ -712,7 +717,6 @@ footer a:hover {
     padding: 0 !important;
   }
 
-  /* NÁZOV RECEPTU – toto je tvoj nadpis */
   #recipe-title {
     display: block !important;
     font-size: 30pt !important;
@@ -720,85 +724,7 @@ footer a:hover {
     font-weight: bold !important;
     margin: 0 0 15px 0 !important;
     line-height: 1.2 !important;
-    break-after: avoid;
   }
 
-  /* Základný reset */
-  body {
-    background: white !important;
-    color: #2b2b2b !important;
-    font-family: Georgia, serif !important;
-    font-size: 12pt !important;
-    line-height: 1.55 !important;
-    margin: 0;
-    padding: 40px 50px;
-  }
-
-  .recipe-detail {
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-
-  .recipe-layout {
-    display: block !important;
-  }
-
-  /* Obrázok vpravo */
-  .detail-image {
-    float: right;
-    max-width: 360px !important;
-    margin: 0 0 25px 35px !important;
-    border-radius: 6px !important;
-    border: 1px solid #d0c7bf !important;
-    break-inside: avoid;
-  }
-
-  /* Sekčné nadpisy */
-  h2 {
-    color: #b07a4a !important;
-    font-size: 20pt !important;
-    margin-top: 35px !important;
-    margin-bottom: 12px !important;
-    padding-bottom: 6px !important;
-    border-bottom: 2px solid #b07a4a !important;
-    display: inline-block;
-    break-after: avoid;
-  }
-
-  /* INGREDIENCIE – 2 stĺpce až pod fotkou */
-  .ingredients-box {
-    clear: both;
-    margin-top: 20px !important;
-
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-
-    column-count: 2;
-    column-gap: 40px;
-  }
-
-  .ingredients-box li {
-    break-inside: avoid;
-    margin-bottom: 8px !important;
-    font-size: 12.5pt !important;
-  }
-
-  /* POSTUP – môže sa lámať medzi odsekmi */
-  #instructions {
-    break-inside: auto;
-    page-break-inside: auto;
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-  }
-
-  #instructions li {
-    break-inside: avoid;
-    margin-bottom: 16px !important;
-    font-size: 13pt !important;
-    line-height: 1.6 !important;
-  }
+  /* ostatné print pravidlá nechaj tak, ako ich máš teraz */
 }
