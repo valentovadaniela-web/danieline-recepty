@@ -715,7 +715,7 @@ footer a:hover {
     margin-bottom: 8px !important;
     color: #3a2a1e !important;
     font-weight: bold !important;
-    break-after: avoid; /* zabráni odtrhnutiu nadpisu */
+    break-after: avoid;
   }
 
   /* Podnadpis */
@@ -738,7 +738,7 @@ footer a:hover {
     display: block !important;
   }
 
-  /* Obrázok vpravo – čiara ho nepretne */
+  /* Obrázok vpravo */
   .detail-image {
     float: right;
     max-width: 360px !important;
@@ -748,7 +748,7 @@ footer a:hover {
     break-inside: avoid;
   }
 
-  /* Sekčné nadpisy – čiara len pod textom, nie cez fotku */
+  /* Sekčné nadpisy – čiara len pod textom */
   h2 {
     color: #b07a4a !important;
     font-size: 20pt !important;
@@ -756,30 +756,35 @@ footer a:hover {
     margin-bottom: 12px !important;
     padding-bottom: 6px !important;
     border-bottom: 2px solid #b07a4a !important;
-    display: inline-block; /* TOTO zabráni pretiahnutiu čiary cez obrázok */
+    display: inline-block;
     break-after: avoid;
   }
 
-  /* Ingrediencie */
+  /* INGREDIENCIE – 2 stĺpce */
   .ingredients-box {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
     margin-bottom: 30px !important;
+
+    column-count: 2;          /* DVA STĹPCE */
+    column-gap: 40px;         /* medzera medzi stĺpcami */
     break-inside: avoid;
   }
 
   .ingredients-box ul {
-    padding-left: 22px !important;
+    padding-left: 20px !important;
+    margin: 0 !important;
   }
 
   .ingredients-box li {
     margin-bottom: 8px !important;
     font-size: 12.5pt !important;
+    break-inside: avoid;      /* aby sa položky netrhali */
   }
 
-  /* POSTUP – celý blok sa nikdy nerozdelí */
+  /* POSTUP – môže sa lámať medzi odsekmi */
   #instructions {
     background: none !important;
     border: none !important;
@@ -787,14 +792,17 @@ footer a:hover {
     padding: 0 !important;
     margin-bottom: 30px !important;
 
-    break-inside: avoid-page; /* Chrome */
-    page-break-inside: avoid; /* Firefox */
+    /* už NIE ako jeden blok */
+    break-inside: auto;
+    page-break-inside: auto;
   }
 
   #instructions li {
     margin-bottom: 16px !important;
     line-height: 1.6 !important;
     font-size: 13pt !important;
+
+    break-inside: avoid;  /* odsek sa netrhá, ale môže ísť na ďalšiu stranu */
   }
 
   /* Pätička */
