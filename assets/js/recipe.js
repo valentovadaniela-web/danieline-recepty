@@ -23,6 +23,12 @@ async function loadRecipe() {
   ).src =
     `images/${data.imageFilename}`;
 
+  document.getElementById("print-title").textContent =
+  data.recipe.title;
+
+document.getElementById("print-image").src =
+  `images/${data.imageFilename}`;
+  
   const categories =
     document.getElementById(
       "recipe-categories"
@@ -38,17 +44,29 @@ async function loadRecipe() {
     )
     .join(" ")
     || "";
+const categoryText =
+  data.collections?.join(" • ") || "";
 
+const timeText =
+  totalMinutes > 0
+    ? ` • ${totalMinutes} min`
+    : "";
+
+document.getElementById("print-meta-line").textContent =
+  categoryText + timeText;
+  
   const totalMinutes =
   (data.recipe.total_time_hours || 0) * 60 +
   (data.recipe.total_time_minutes || 0);
 
 // Ponechajte len tento jeden blok:
-document.getElementById("recipe-meta").innerHTML = `
-  <p>
-    ⏱️ ${totalMinutes > 0 ? totalMinutes + " min" : "Neuvedené"}
-  </p>
-`;
+const metaHtml =
+  totalMinutes > 0
+    ? `⏱️ ${totalMinutes} min`
+    : "";
+
+document.getElementById("recipe-meta").innerHTML =
+  metaHtml;
   
   const ingredients =
     document.getElementById(
