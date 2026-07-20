@@ -244,6 +244,7 @@ card.innerHTML = `
     src="${image}"
     alt="${title}"
     loading="lazy"
+    decoding="async"
   >
   <h3>${title}</h3>
 `;
