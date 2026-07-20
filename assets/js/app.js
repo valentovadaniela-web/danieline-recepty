@@ -233,8 +233,8 @@ switch(currentSort){
 
     const title = recipe.recipe.title;
 
-    const image =
-      `images/${recipe.imageFilename}`;
+const image =
+  `images/thumbs/${recipe.imageFilename.replace(/\.[^.]+$/, ".webp")}`;
 
     const card = document.createElement("div");
     card.className = "card";
