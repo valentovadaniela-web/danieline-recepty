@@ -10,68 +10,85 @@ async function loadRecipe() {
     `recipes/${file}`
   ).then(r => r.json());
 
+  // Titulok stránky
   document.title =
     data.recipe.title;
 
+  // Bežný nadpis receptu
   document.getElementById(
     "recipe-title"
   ).textContent =
     data.recipe.title;
 
+  // Bežná fotka receptu
   document.getElementById(
     "recipe-image"
   ).src =
     `images/${data.imageFilename}`;
 
-  document.getElementById("print-title").textContent =
-  data.recipe.title;
+  // Tlačový nadpis
+  document.getElementById(
+    "print-title"
+  ).textContent =
+    data.recipe.title;
 
-document.getElementById("print-image").src =
-  `images/${data.imageFilename}`;
-  
+  // Tlačová fotka
+  document.getElementById(
+    "print-image"
+  ).src =
+    `images/${data.imageFilename}`;
+
+  // Celkový čas v minútach
+  const totalMinutes =
+    (data.recipe.total_time_hours || 0) * 60 +
+    (data.recipe.total_time_minutes || 0);
+
+  // Kategórie na stránke
   const categories =
     document.getElementById(
       "recipe-categories"
     );
 
   categories.innerHTML =
-  data.collections
-    ?.map(c =>
-      `<a href="index.html?category=${encodeURIComponent(c)}"
-          class="badge">
-          ${c}
-       </a>`
-    )
-    .join(" ")
+    data.collections
+      ?.map(c =>
+        `<a href="index.html?category=${encodeURIComponent(c)}"
+            class="badge">
+            ${c}
+         </a>`
+      )
+      .join(" ")
     || "";
-const categoryText =
-  data.collections?.join(" • ") || "";
 
-const timeText =
-  totalMinutes > 0
-    ? ` • ${totalMinutes} min`
-    : "";
+  // Meta informácie na stránke
+  document.getElementById(
+    "recipe-meta"
+  ).innerHTML =
+    totalMinutes > 0
+      ? `⏱️ ${totalMinutes} min`
+      : "";
 
-document.getElementById("print-meta-line").textContent =
-  categoryText + timeText;
-  
-  const totalMinutes =
-  (data.recipe.total_time_hours || 0) * 60 +
-  (data.recipe.total_time_minutes || 0);
+  // Meta informácie pre tlač
+  const categoryText =
+    data.collections?.join(" • ") || "";
 
-// Ponechajte len tento jeden blok:
-const metaHtml =
-  totalMinutes > 0
-    ? `⏱️ ${totalMinutes} min`
-    : "";
+  const timeText =
+    totalMinutes > 0
+      ? ` • ${totalMinutes} min`
+      : "";
 
-document.getElementById("recipe-meta").innerHTML =
-  metaHtml;
-  
+  document.getElementById(
+    "print-meta-line"
+  ).textContent =
+    categoryText + timeText;
+
+  // Ingrediencie
   const ingredients =
     document.getElementById(
       "ingredients"
     );
+
+  ingredients.innerHTML = "";
 
   data.ingredients.forEach(i => {
 
@@ -85,10 +102,13 @@ document.getElementById("recipe-meta").innerHTML =
 
   });
 
+  // Postup
   const instructions =
     document.getElementById(
       "instructions"
     );
+
+  instructions.innerHTML = "";
 
   data.instructions.forEach(step => {
 
