@@ -239,10 +239,14 @@ switch(currentSort){
     const card = document.createElement("div");
     card.className = "card";
 
-    card.innerHTML = `
-      <img src="${image}" alt="${title}">
-      <h3>${title}</h3>
-    `;
+card.innerHTML = `
+  <img
+    src="${image}"
+    alt="${title}"
+    loading="lazy"
+  >
+  <h3>${title}</h3>
+`;
 card.style.cursor = "pointer";
 
 card.onclick = () => {
