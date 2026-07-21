@@ -844,3 +844,47 @@ footer a:hover {
     margin: 15mm;
   }
 }
+@media (max-width: 768px) {
+
+  .recipe-detail {
+    margin-top: 30px;
+    padding: 0 12px;
+  }
+
+  .recipe-layout {
+    display: block;
+  }
+
+  .recipe-image,
+  .recipe-steps,
+  .ingredients-box {
+    width: 100%;
+  }
+
+  .ingredients-box {
+    position: static;
+    top: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .detail-image {
+    width: 100%;
+    max-height: none;
+  }
+
+  #instructions {
+    padding: 20px;
+    font-size: 16px;
+  }
+
+  .small-hero {
+    height: 220px;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+    line-height: 1.15;
+  }
+
+}
