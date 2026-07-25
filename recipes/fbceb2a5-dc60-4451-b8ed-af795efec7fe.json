@@ -1,8 +1,8 @@
 {
   "recipe": {
-    "id": "fbceb2a5-dc60-4451-b8ed-af795efec7fe",
+    "id": "462b7ee3-4770-41ea-9901-b5f7cc54109f",
     "title": "Kuracie rezne s čokoládovou omáčkou",
-    "createdAt": "2026-07-25T16:14:43.494Z",
+    "createdAt": "2026-07-25T16:28:47.441Z",
     "description": null,
     "prep_time_hours": 0,
     "prep_time_minutes": 45,
@@ -13,7 +13,7 @@
   },
   "ingredients": [
     {
-      "id": "be5cd41f-6ad9-4ad8-bfb4-cbc2c0fd6ac2",
+      "id": "5c6c127b-9840-4cc0-bd74-b3e7edf26d92",
       "text": "2 kuracie prsia",
       "quantity": 0,
       "quantity2": 0,
@@ -25,7 +25,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "421486ae-2b21-4a51-aec3-9be5818e25f7",
+      "id": "a3866cf6-a6e3-4c9c-abfc-7a142527c4e6",
       "text": "soľ",
       "quantity": 0,
       "quantity2": 0,
@@ -37,7 +37,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "aa76bf9c-a319-4266-8485-e0d9c149f2f4",
+      "id": "912ac536-7219-4c4c-8314-e93da0be7ab1",
       "text": "korenie",
       "quantity": 0,
       "quantity2": 0,
@@ -49,7 +49,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "5eae10c1-9cb3-425f-ab78-258db30ceeca",
+      "id": "07e7f056-5576-4c99-94c1-97579d67a708",
       "text": "olej",
       "quantity": 0,
       "quantity2": 0,
@@ -61,7 +61,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "8e01abfb-1463-4834-8b1b-6099102aa202",
+      "id": "77172078-9aff-495c-9e3d-c0b11a83500f",
       "text": "40 g horká čokoláda (70-80 %)",
       "quantity": 0,
       "quantity2": 0,
@@ -73,7 +73,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "935f969f-83e5-4852-9996-357449c4c333",
+      "id": "b78c5b04-b0a4-43ba-bcea-6d6b349dd856",
       "text": "2 PL kečup",
       "quantity": 0,
       "quantity2": 0,
@@ -85,7 +85,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "63b5a275-975a-44fd-9cf3-a1caae976d5b",
+      "id": "bb17468f-4dec-4f0c-8a9d-5e1ad0f0a364",
       "text": "0,5 - 1 PL chilly pasta",
       "quantity": 0,
       "quantity2": 0,
@@ -97,7 +97,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "7243805a-2761-42b1-8f04-26f5ab02a1b7",
+      "id": "2f8f2d22-1898-40df-9ce0-c3c1375a0c6d",
       "text": "0,5 PL med",
       "quantity": 0,
       "quantity2": 0,
@@ -109,7 +109,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "13d49fbc-b983-4c29-9e39-2299f1aa8560",
+      "id": "347b9397-1bc1-4005-b136-d3bbbfa1e2f1",
       "text": "100 ml kurací vývar alebo bujón",
       "quantity": 0,
       "quantity2": 0,
@@ -121,7 +121,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "7833120c-e369-49b7-a473-daf1ac69f1cd",
+      "id": "cad1f1e4-6173-4bbd-809f-64b0a3c070e4",
       "text": "soľ",
       "quantity": 0,
       "quantity2": 0,
@@ -135,7 +135,7 @@
   ],
   "instructions": [
     {
-      "id": "19c1a160-306a-4045-b007-9f9999bb015c",
+      "id": "2219677e-90c6-4412-b325-846914e2a71f",
       "url": null,
       "text": "Mäso dáme do 1 PL oleja, osolíme a posypeme korením. Dáme marinovať 15 minút.",
       "image_url": null,
@@ -143,7 +143,7 @@
       "is_group_header": false
     },
     {
-      "id": "fd9afd3b-79ba-4656-83b2-2fdfae25b7bc",
+      "id": "4f73b049-4fda-4307-bc7c-326ce2a885df",
       "url": null,
       "text": "Prudko osmažíme 1,5 min z oboch strán na panvici a dáme na 10 minút dopiecť do rozpálenej rúry na 190 °C.",
       "image_url": null,
@@ -151,7 +151,7 @@
       "is_group_header": false
     },
     {
-      "id": "983a8a92-4ddb-4f08-9462-9b8297307579",
+      "id": "9cf6d3e0-0d92-4413-8e8b-353212f31c74",
       "url": null,
       "text": "Do výpeku pridáme kečup, chilly, med a podlejeme vývarom. Redukujeme 2-3 min, aby sa chute spojili.",
       "image_url": null,
@@ -159,7 +159,7 @@
       "is_group_header": false
     },
     {
-      "id": "b6b4ad17-e845-479e-865c-faef434f6524",
+      "id": "64bd801f-f184-47b9-b694-ae13edf668ca",
       "url": null,
       "text": "Premiešame, odstavíme z ohňa a pridáme nalámanú čokoládu.",
       "image_url": null,
@@ -167,7 +167,7 @@
       "is_group_header": false
     },
     {
-      "id": "6f708c04-5129-4e05-8f4e-a91da06dcceb",
+      "id": "dfc0e669-ac4d-4499-aeec-3bafbd58dff7",
       "url": null,
       "text": "Omáčka má byť tekutá, lesklá, nie hustá.",
       "image_url": null,
@@ -179,5 +179,5 @@
     "Hlavné jedlá",
     "Mäso"
   ],
-  "imageFilename": ""
+  "imageFilename": "fbceb2a5-dc60-4451-b8ed-af795efec7fe.jpg"
 }
