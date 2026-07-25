@@ -1,0 +1,27 @@
+Pridanie receptu
+
+Na stránke https://valentovadaniela-web.github.io/danieline-recepty/ úplne dole kliknúť pod © 2026 Danieline recepty.
+
+Vyplniť formulár
+
+Uložiť recept
+
+Fotku premenovať podľa názvu json
+
+V napr. XnKonvert skonvertuj na webp (600 šírka)
+
+Ulož (musí mať rovnaké meno ako recept v json a obrázok v jpg/png
+
+Nahraj do github do Recipes a Images a Images/thumbs
+
+V Recipes v index.json doplň na koniec riadok s názvom nového receptu (v predchádzajúcom riadku doplň na koniec čiarku)
+
+Aktualizuj CTRL F5.
+
+Na stránke znovu otvor formulár.
+
+vyber Vyhľadať existujúci recept a tam nájdi nový recept.
+
+Doplň názov obrázka a daj Uložiť (s rovnakým názvom ako predtým)
+
+Ulož recept na github (prepíše sa).
