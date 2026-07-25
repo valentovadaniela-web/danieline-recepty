@@ -1,0 +1,183 @@
+{
+  "recipe": {
+    "id": "fbceb2a5-dc60-4451-b8ed-af795efec7fe",
+    "title": "Kuracie rezne s čokoládovou omáčkou",
+    "createdAt": "2026-07-25T16:14:43.494Z",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 45,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 45
+  },
+  "ingredients": [
+    {
+      "id": "be5cd41f-6ad9-4ad8-bfb4-cbc2c0fd6ac2",
+      "text": "2 kuracie prsia",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "2 kuracie prsia",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "421486ae-2b21-4a51-aec3-9be5818e25f7",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "aa76bf9c-a319-4266-8485-e0d9c149f2f4",
+      "text": "korenie",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "5eae10c1-9cb3-425f-ab78-258db30ceeca",
+      "text": "olej",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "8e01abfb-1463-4834-8b1b-6099102aa202",
+      "text": "40 g horká čokoláda (70-80 %)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "40 g horká čokoláda (70-80 %)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "935f969f-83e5-4852-9996-357449c4c333",
+      "text": "2 PL kečup",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "2 PL kečup",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "63b5a275-975a-44fd-9cf3-a1caae976d5b",
+      "text": "0,5 - 1 PL chilly pasta",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "0,5 - 1 PL chilly pasta",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7243805a-2761-42b1-8f04-26f5ab02a1b7",
+      "text": "0,5 PL med",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "0,5 PL med",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "13d49fbc-b983-4c29-9e39-2299f1aa8560",
+      "text": "100 ml kurací vývar alebo bujón",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "100 ml kurací vývar alebo bujón",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "7833120c-e369-49b7-a473-daf1ac69f1cd",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "19c1a160-306a-4045-b007-9f9999bb015c",
+      "url": null,
+      "text": "Mäso dáme do 1 PL oleja, osolíme a posypeme korením. Dáme marinovať 15 minút.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "fd9afd3b-79ba-4656-83b2-2fdfae25b7bc",
+      "url": null,
+      "text": "Prudko osmažíme 1,5 min z oboch strán na panvici a dáme na 10 minút dopiecť do rozpálenej rúry na 190 °C.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "983a8a92-4ddb-4f08-9462-9b8297307579",
+      "url": null,
+      "text": "Do výpeku pridáme kečup, chilly, med a podlejeme vývarom. Redukujeme 2-3 min, aby sa chute spojili.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "b6b4ad17-e845-479e-865c-faef434f6524",
+      "url": null,
+      "text": "Premiešame, odstavíme z ohňa a pridáme nalámanú čokoládu.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "6f708c04-5129-4e05-8f4e-a91da06dcceb",
+      "url": null,
+      "text": "Omáčka má byť tekutá, lesklá, nie hustá.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Hlavné jedlá",
+    "Mäso"
+  ],
+  "imageFilename": ""
+}
