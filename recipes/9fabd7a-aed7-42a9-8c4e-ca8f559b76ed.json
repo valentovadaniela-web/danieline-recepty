@@ -1,0 +1,182 @@
+{
+  "recipe": {
+    "id": "79fabd7a-aed7-42a9-8c4e-ca8f559b76ed",
+    "title": "Sladkokyslá kari omáčka",
+    "createdAt": "2026-08-12T20:18:23.721Z",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 0,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 0
+  },
+  "ingredients": [
+    {
+      "id": "ac6be6b0-0c46-43d2-a094-1c8b0ca71f5f",
+      "text": "100 g kečup",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "100 g kečup",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "f7e894eb-c75c-41b1-a22b-d0f81f6cf61f",
+      "text": "1 PL sójová omáčka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "1 PL sójová omáčka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "58e8bb81-d658-48ab-a4ea-b5267ad32b26",
+      "text": "2 PL med",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "2 PL med",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "bce0738c-5e83-4867-b729-c5fede600c5f",
+      "text": "1 PL ocot",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "1 PL ocot",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "83f205d5-e972-41ca-bed1-cb1f7ca3de0f",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "6dca87ae-ce78-4bc0-9430-4fd3402ae945",
+      "text": "korenie",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "korenie",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "afc4ece3-acdf-466f-a7a6-f146b1014147",
+      "text": "1 ČL pretlačený cesnak (alebo 1 ČL práškový cesnak)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "1 ČL pretlačený cesnak (alebo 1 ČL práškový cesnak)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "0e75b0df-4920-4e18-ab5c-7282e99747b6",
+      "text": "1,5 PL kari (alebo 1 ČL kari + 1 PL kari pasta)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 7,
+      "category_id": null,
+      "description": "1,5 PL kari (alebo 1 ČL kari + 1 PL kari pasta)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "680d4595-5439-4f55-9ec2-d385f3d39b2a",
+      "text": "100 ml vody",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 8,
+      "category_id": null,
+      "description": "100 ml vody",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "419b3623-cec2-48f7-a3d1-71faae205063",
+      "text": "1 ČL zemiakový škrob (maizeina)",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 9,
+      "category_id": null,
+      "description": "1 ČL zemiakový škrob (maizeina)",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "312c7adc-e0b5-44d3-98a0-f6d83791be8f",
+      "url": null,
+      "text": "Zmiešame kečup, sójovú omáčku, med a ocot.",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "75db8782-b73f-4cef-9dbb-4a783c54372c",
+      "url": null,
+      "text": "Osolíme a okoreníme.",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "37e23f85-9919-4537-be0c-5a3c9c624b04",
+      "url": null,
+      "text": "Pridáme cesnak, kari a zalejeme 100 ml vody.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "4e923459-9db4-4bd8-afcf-cdbe5b78ab00",
+      "url": null,
+      "text": "Dáme variť cca 15 min, počas varu pridáme v troche vody rozmiešaný škrob.",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "b00b99a9-25d6-482a-a26c-1088bfec5ed9",
+      "url": null,
+      "text": "Po zhustnutí omáčky, odstavíme a necháme vychladnúť.",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Iné"
+  ],
+  "imageFilename": "9fabd7a-aed7-42a9-8c4e-ca8f559b76ed.png"
+}
