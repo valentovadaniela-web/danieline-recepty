@@ -2,18 +2,18 @@
   "recipe": {
     "id": "79fabd7a-aed7-42a9-8c4e-ca8f559b76ed",
     "title": "Sladkokyslá kari omáčka",
-    "createdAt": "2026-08-12T20:18:23.721Z",
+    "createdAt": "2026-08-13T17:17:15.444Z",
     "description": null,
     "prep_time_hours": 0,
     "prep_time_minutes": 0,
     "cook_time_hours": 0,
     "cook_time_minutes": 0,
     "total_time_hours": 0,
-    "total_time_minutes": 15
+    "total_time_minutes": 0
   },
   "ingredients": [
     {
-      "id": "ac6be6b0-0c46-43d2-a094-1c8b0ca71f5f",
+      "id": "244477e0-1086-466d-b578-85b3e5cc7a9f",
       "text": "100 g kečup",
       "quantity": 0,
       "quantity2": 0,
@@ -25,7 +25,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "f7e894eb-c75c-41b1-a22b-d0f81f6cf61f",
+      "id": "73fff78b-ecbc-41c1-aeeb-af5f8713dd71",
       "text": "1 PL sójová omáčka",
       "quantity": 0,
       "quantity2": 0,
@@ -37,7 +37,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "58e8bb81-d658-48ab-a4ea-b5267ad32b26",
+      "id": "f94ca25c-e167-41c1-8d3d-52d6daf869cd",
       "text": "2 PL med",
       "quantity": 0,
       "quantity2": 0,
@@ -49,7 +49,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "bce0738c-5e83-4867-b729-c5fede600c5f",
+      "id": "b3b0525a-a5db-4abf-88d8-66cef3f14b2b",
       "text": "1 PL ocot",
       "quantity": 0,
       "quantity2": 0,
@@ -61,7 +61,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "83f205d5-e972-41ca-bed1-cb1f7ca3de0f",
+      "id": "4c0aadce-1e1c-4201-bafa-8b9ff579eaa7",
       "text": "soľ",
       "quantity": 0,
       "quantity2": 0,
@@ -73,7 +73,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "6dca87ae-ce78-4bc0-9430-4fd3402ae945",
+      "id": "a5c34db3-565c-4e8a-a28f-f854c4813a9a",
       "text": "korenie",
       "quantity": 0,
       "quantity2": 0,
@@ -85,7 +85,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "afc4ece3-acdf-466f-a7a6-f146b1014147",
+      "id": "abb79931-8ffe-4534-826f-9170b7db1db9",
       "text": "1 ČL pretlačený cesnak (alebo 1 ČL práškový cesnak)",
       "quantity": 0,
       "quantity2": 0,
@@ -97,7 +97,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "0e75b0df-4920-4e18-ab5c-7282e99747b6",
+      "id": "8d9f022b-8686-4831-a1ea-beff9203bd66",
       "text": "1,5 PL kari (alebo 1 ČL kari + 1 PL kari pasta)",
       "quantity": 0,
       "quantity2": 0,
@@ -109,7 +109,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "680d4595-5439-4f55-9ec2-d385f3d39b2a",
+      "id": "e9c2a662-8fb9-4bdc-91ca-43de8edf4292",
       "text": "100 ml vody",
       "quantity": 0,
       "quantity2": 0,
@@ -121,7 +121,7 @@
       "unit_of_measure_id": null
     },
     {
-      "id": "419b3623-cec2-48f7-a3d1-71faae205063",
+      "id": "f6d91888-de32-4384-8609-9fd6c93f514f",
       "text": "1 ČL zemiakový škrob (maizeina)",
       "quantity": 0,
       "quantity2": 0,
@@ -135,7 +135,7 @@
   ],
   "instructions": [
     {
-      "id": "312c7adc-e0b5-44d3-98a0-f6d83791be8f",
+      "id": "7371e95f-eea5-4304-9bcf-e3a3397ecbd1",
       "url": null,
       "text": "Zmiešame kečup, sójovú omáčku, med a ocot.",
       "image_url": null,
@@ -143,7 +143,7 @@
       "is_group_header": false
     },
     {
-      "id": "75db8782-b73f-4cef-9dbb-4a783c54372c",
+      "id": "1fb91901-ef42-4a4b-b48f-bc78c86565c7",
       "url": null,
       "text": "Osolíme a okoreníme.",
       "image_url": null,
@@ -151,7 +151,7 @@
       "is_group_header": false
     },
     {
-      "id": "37e23f85-9919-4537-be0c-5a3c9c624b04",
+      "id": "ae69c241-6cb7-409a-962a-6d2c10239e0e",
       "url": null,
       "text": "Pridáme cesnak, kari a zalejeme 100 ml vody.",
       "image_url": null,
@@ -159,7 +159,7 @@
       "is_group_header": false
     },
     {
-      "id": "4e923459-9db4-4bd8-afcf-cdbe5b78ab00",
+      "id": "f36b231e-d287-4254-b21e-407d8ce77bf5",
       "url": null,
       "text": "Dáme variť cca 15 min, počas varu pridáme v troche vody rozmiešaný škrob.",
       "image_url": null,
@@ -167,7 +167,7 @@
       "is_group_header": false
     },
     {
-      "id": "b00b99a9-25d6-482a-a26c-1088bfec5ed9",
+      "id": "24c2ce45-836d-4f23-ba4e-79648fcd5a10",
       "url": null,
       "text": "Po zhustnutí omáčky, odstavíme a necháme vychladnúť.",
       "image_url": null,
@@ -176,7 +176,8 @@
     }
   ],
   "collections": [
-    "Iné"
+    "Iné",
+    "Tibove recepty"
   ],
   "imageFilename": "79fabd7a-aed7-42a9-8c4e-ca8f559b76ed.png"
 }
