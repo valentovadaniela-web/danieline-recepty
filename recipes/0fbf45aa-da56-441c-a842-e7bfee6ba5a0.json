@@ -304,13 +304,14 @@
       "is_group_header": false
      },
     {
-      "id": "c80f04cb-cbf4-4981-9c1f-166797eb9d1c",
-      "url": null,
-      "text": "Pozrite si celý postup na <a href=\"https://youtu.be/yKSYEg3QmQQ?si=2ftnvnr3HOrR4hLb\" target=\"_blank\" rel=\"noopener noreferrer\">videu</a>.",
-      "image_url": null,
-      "sort_order": 5,
-      "is_group_header": false
-    }
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "url": null,
+  "text": "Pozrite si celý recept aj s postupom na videu.",
+  "video_url": "https://youtu.be/yKSYEg3QmQQ?si=2ftnvnr3HOrR4hLb",
+  "image_url": null,
+  "sort_order": 5,
+  "is_group_header": false
+     }
   ],
   "collections": [
     "Mäso",
