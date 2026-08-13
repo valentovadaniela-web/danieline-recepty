@@ -302,7 +302,8 @@
       "image_url": null,
       "sort_order": 4,
       "is_group_header": false
-     {
+     },
+    {
       "id": "nejake-unikatne-id-videa",
       "url": null,
       "text": "Pozrite si celý postup na <a href=\"https://youtu.be/yKSYEg3QmQQ?si=2ftnvnr3HOrR4hLb\" target=\"_blank\" rel=\"noopener noreferrer\">videu</a>.",
