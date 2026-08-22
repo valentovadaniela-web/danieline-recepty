@@ -1,0 +1,156 @@
+{
+  "recipe": {
+    "id": "a8eb5e79-4aa9-4bf5-bc49-6e1dcf42d2ca",
+    "title": "Kuracie kúsky na červenom víne, mede a badyáne",
+    "createdAt": "2026-08-22T16:46:34.481Z",
+    "description": null,
+    "prep_time_hours": 0,
+    "prep_time_minutes": 45,
+    "cook_time_hours": 0,
+    "cook_time_minutes": 0,
+    "total_time_hours": 0,
+    "total_time_minutes": 45
+  },
+  "ingredients": [
+    {
+      "id": "3c73b17c-3fac-44c8-94be-a5b0720c270c",
+      "text": "500 g kuracieho mäsa",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 0,
+      "category_id": null,
+      "description": "500 g kuracieho mäsa",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "91519c8f-0ece-41cf-bab9-3179c45051dd",
+      "text": "2 hviezdičky badyánu",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 1,
+      "category_id": null,
+      "description": "2 hviezdičky badyánu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "e91f9444-bda1-4c70-a186-9bf6da80888f",
+      "text": "100 ml červeného vína",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 2,
+      "category_id": null,
+      "description": "100 ml červeného vína",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "67a48c96-7da1-4c5f-a507-5a8d439f5ba7",
+      "text": "120 ml koksového mlieka",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 3,
+      "category_id": null,
+      "description": "120 ml koksového mlieka",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "a6e8374d-e671-49e9-bc21-505bb3f0b6a7",
+      "text": "1 PL medu",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 4,
+      "category_id": null,
+      "description": "1 PL medu",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "3d189a0c-33d5-4512-b746-ffbf24bf1aa1",
+      "text": "olej",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 5,
+      "category_id": null,
+      "description": "olej",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    },
+    {
+      "id": "b997cd48-95eb-4227-befb-0e8033034e09",
+      "text": "soľ",
+      "quantity": 0,
+      "quantity2": 0,
+      "sort_order": 6,
+      "category_id": null,
+      "description": "soľ",
+      "is_group_header": false,
+      "unit_of_measure": null,
+      "unit_of_measure_id": null
+    }
+  ],
+  "instructions": [
+    {
+      "id": "850202e3-b6af-4a17-ad2d-042548082307",
+      "url": null,
+      "text": "Kuracie mäso nakrájame na väčšie kocky, osolíme a na oleji opečieme zo všetkých strán dozlatista. ",
+      "image_url": null,
+      "sort_order": 0,
+      "is_group_header": false
+    },
+    {
+      "id": "f9e4c3e6-2c14-4c2d-b8de-c7658aac6578",
+      "url": null,
+      "text": "Pridáme badyán, zalejeme červeným vínom a vmiešame med. ",
+      "image_url": null,
+      "sort_order": 1,
+      "is_group_header": false
+    },
+    {
+      "id": "eb0d832c-f837-427c-86ca-d871349ee5d6",
+      "url": null,
+      "text": "Na strednom ohni necháme víno bublať a redukujeme ho, kým sa väčšina tekutiny neodparí. Na panvici musí ostať hustá, voňavá šťava.",
+      "image_url": null,
+      "sort_order": 2,
+      "is_group_header": false
+    },
+    {
+      "id": "ad142fd7-88b9-48f5-9e54-f581f830ada2",
+      "url": null,
+      "text": "Badyán vyberieme. ",
+      "image_url": null,
+      "sort_order": 3,
+      "is_group_header": false
+    },
+    {
+      "id": "3e1689dc-1afe-4b1a-8438-db45efd3dd17",
+      "url": null,
+      "text": "Prilejeme kokosové mlieko, premiešame a na miernom ohni necháme niekoľko minút jemne (nie prudko!) prevrieť, kým omáčka zhustne a obalí kúsky mäsa. ",
+      "image_url": null,
+      "sort_order": 4,
+      "is_group_header": false
+    },
+    {
+      "id": "b2127bcc-7fe0-441d-8884-edf3e0033ef3",
+      "url": null,
+      "text": "Tip: Podávame s batátovými hranolkami jemne posypanými tymiánom, ktorých chuť dopĺňa celkovú sladkosť.",
+      "image_url": null,
+      "sort_order": 5,
+      "is_group_header": false
+    }
+  ],
+  "collections": [
+    "Tibove recepty",
+    "Hlavné jedlá",
+    "Mäso"
+  ],
+  "imageFilename": ""
+}
